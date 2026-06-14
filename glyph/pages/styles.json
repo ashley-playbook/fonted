@@ -1,0 +1,464 @@
+{
+  "pages": [
+    {
+      "slug": "cursive-text-generator",
+      "type": "style",
+      "title": "Cursive Text Generator — Bold Script Font Copy Paste | Fonted",
+      "description": "Generate cursive Unicode text with the Bold Script style. Create elegant names, bios, and captions that stay readable across apps.",
+      "h1": "Cursive text generator",
+      "h1Html": "Cursive <em>text generator</em>",
+      "eyebrow": "Style preset · Bold Script",
+      "sub": "Convert plain words into flowing cursive for bios, names, and decorative headings with one click.",
+      "intro": "<p>Cursive text is one of the most requested styles because it adds personality without requiring graphic design tools. In Unicode form, cursive works as live text you can copy, search, and paste into social bios, usernames, and captions. The best cursive styles feel smooth but still readable, especially on small mobile screens where over-decorated lettering can blur together.</p><p>This page defaults to <strong>Bold Script</strong>, a practical middle ground between elegance and clarity. Use it for profile headers, short slogans, or highlight labels where you want a premium look. For longer sentences, pair cursive keywords with regular text so your message remains easy to scan. If you want extra flair, add one light symbol before or after the phrase rather than surrounding every word.</p><p>Consistent use matters more than heavy styling. Pick one signature cursive treatment and repeat it across your profile touchpoints. That creates a recognizable visual identity while keeping communication clear for new visitors and returning followers.</p>",
+      "defaultMode": "styles",
+      "defaultStyle": "Bold Script",
+      "examples": [
+        "𝓢𝓲𝓰𝓷𝓪𝓽𝓾𝓻𝓮 𝓵𝓸𝓸𝓴",
+        "𝓶𝔂 𝓭𝓪𝓲𝓵𝔂 𝓳𝓸𝓾𝓻𝓷𝓪𝓵",
+        "𝓬𝓻𝓮𝓪𝓽𝓸𝓻 𝓼𝓽𝓾𝓭𝓲𝓸",
+        "𝓼𝓸𝓯𝓽 𝓵𝓾𝔁𝓮",
+        "𝓹𝓱𝓸𝓽𝓸 𝓭𝓲𝓪𝓻𝔂",
+        "𝓷𝓮𝔀 𝓭𝓻𝓸𝓹",
+        "𝓫𝓲𝓸 𝓱𝓮𝓪𝓭𝓮𝓻",
+        "𝓼𝓾𝓷𝓭𝓪𝔂 𝓷𝓸𝓽𝓮𝓼",
+        "𝓵𝓲𝓷𝓴 𝓫𝓮𝓵𝓸𝔀"
+      ],
+      "faq": [
+        {
+          "q": "Is cursive Unicode text searchable?",
+          "a": "It is still text, but some search systems may treat stylized characters differently from plain letters."
+        },
+        {
+          "q": "When should I avoid cursive?",
+          "a": "Avoid long technical paragraphs in cursive; use it for short highlights where style matters."
+        },
+        {
+          "q": "Why use Bold Script instead of lighter script?",
+          "a": "Bold Script generally holds readability better on small screens while keeping the cursive feel."
+        }
+      ],
+      "related": [
+        "bold-text-generator",
+        "small-caps-generator",
+        "aesthetic-fonts",
+        "instagram-fonts",
+        "heart-symbols",
+        "star-symbols"
+      ]
+    },
+    {
+      "slug": "bold-text-generator",
+      "type": "style",
+      "title": "Bold Text Generator — Bold Serif Unicode Font | Fonted",
+      "description": "Create strong bold text using the Bold Serif style. Perfect for headings, profile names, and high-contrast callouts.",
+      "h1": "Bold text generator",
+      "h1Html": "Bold <em>text generator</em>",
+      "eyebrow": "Style preset · Bold Serif",
+      "sub": "Turn ordinary words into bold high-impact text for titles, banners, and profile emphasis.",
+      "intro": "<p>Bold text works because it creates instant visual hierarchy. In fast-scrolling environments like social feeds, chat apps, and profile pages, people decide what to read in seconds. A bold style helps your most important words stand out without adding extra punctuation or clutter. When used selectively, it improves scanability and gives your content a cleaner, more intentional structure.</p><p>This generator defaults to <strong>Bold Serif</strong>, a classic style that feels confident and readable across most interfaces. It performs well for usernames, section headers, launch announcements, and short calls to action. You can combine it with plain text to spotlight one phrase, or use it as a consistent brand style in your profile identity. For best results, keep lines short and avoid stacking too many bold segments back-to-back.</p><p>Think of bold text as a spotlight, not a floodlight. Highlight what matters most, keep the rest simple, and your message will look sharper while still being easy to read on mobile and desktop.</p>",
+      "defaultMode": "styles",
+      "defaultStyle": "Bold Serif",
+      "examples": [
+        "𝐁𝐑𝐀𝐍𝐃 𝐍𝐀𝐌𝐄",
+        "𝐍𝐄𝐖 𝐔𝐏𝐃𝐀𝐓𝐄",
+        "𝐋𝐈𝐍𝐊 𝐈𝐍 𝐁𝐈𝐎",
+        "𝐖𝐄𝐄𝐊𝐋𝐘 𝐍𝐎𝐓𝐄𝐒",
+        "𝐂𝐑𝐄𝐀𝐓𝐎𝐑 𝐃𝐑𝐎𝐏",
+        "𝐅𝐑𝐄𝐄 𝐆𝐔𝐈𝐃𝐄",
+        "𝐉𝐎𝐈𝐍 𝐍𝐎𝐖",
+        "𝐓𝐇𝐑𝐄𝐀𝐃 𝐁𝐄𝐋𝐎𝐖",
+        "𝐏𝐑𝐎𝐅𝐈𝐋𝐄 𝐇𝐄𝐀𝐃𝐄𝐑"
+      ],
+      "faq": [
+        {
+          "q": "Where should I use bold Unicode text?",
+          "a": "Use it for titles, names, and key phrases where you want immediate emphasis."
+        },
+        {
+          "q": "Can bold text be overused?",
+          "a": "Yes. Too much bold removes contrast and makes everything compete for attention."
+        },
+        {
+          "q": "Is Bold Serif widely compatible?",
+          "a": "Yes, it is among the most reliable stylized Unicode options across major apps."
+        }
+      ],
+      "related": [
+        "cursive-text-generator",
+        "small-caps-generator",
+        "double-struck-text",
+        "twitter-x-fonts",
+        "discord-font-generator",
+        "cool-symbols-copy-paste"
+      ]
+    },
+    {
+      "slug": "gothic-fraktur-text",
+      "type": "style",
+      "title": "Gothic Fraktur Text Generator — Old English Style | Fonted",
+      "description": "Convert text into Gothic Fraktur Unicode for dark, medieval, and dramatic aesthetics with clean copy-paste support.",
+      "h1": "Gothic Fraktur text",
+      "h1Html": "Gothic <em>Fraktur text</em>",
+      "eyebrow": "Style preset · Fraktur",
+      "sub": "Create dark-academia and old-English inspired text with authentic Fraktur styling.",
+      "intro": "<p>Fraktur text delivers a distinct old-world tone that modern sans-serif styles cannot replicate. It is popular for dark aesthetics, fantasy branding, music pages, and dramatic profile headers because it signals mood instantly. The challenge is balance: Fraktur looks powerful in short bursts, but long passages can become hard to read. That is why the best use case is names, titles, and compact phrases.</p><p>This page defaults to the <strong>Fraktur</strong> style so you can generate copy-ready text with one action. Use it to emphasize identity words, collection names, playlist titles, or artistic tags. If you are building a themed profile, combine Fraktur headings with plain body lines for contrast and clarity. You can also pair one subtle symbol set, like stars or crosses, to reinforce the gothic tone without overloading the line.</p><p>Strong Fraktur design is about restraint. Keep words short, spacing clear, and decorative extras minimal. Used thoughtfully, the style feels deliberate and premium rather than chaotic.</p>",
+      "defaultMode": "styles",
+      "defaultStyle": "Fraktur",
+      "examples": [
+        "𝔊𝔬𝔱𝔥𝔦𝔠 𝔐𝔬𝔬𝔡",
+        "𝔇𝔞𝔯𝔨 𝔄𝔯𝔠𝔥𝔦𝔳𝔢",
+        "𝔑𝔦𝔤𝔥𝔱 𝔖𝔠𝔯𝔦𝔭𝔱",
+        "𝔅𝔩𝔞𝔠𝔨 𝔖𝔦𝔤𝔦𝔩",
+        "𝔉𝔞𝔫𝔱𝔞𝔰𝔶 𝔇𝔯𝔬𝔭",
+        "𝔒𝔩𝔡 𝔈𝔯𝔞",
+        "𝔊𝔯𝔦𝔪 𝔗𝔞𝔤",
+        "𝔚𝔦𝔱𝔠𝔥 𝔇𝔦𝔞𝔯𝔶",
+        "𝔖𝔥𝔞𝔡𝔬𝔴 𝔎𝔢𝔶"
+      ],
+      "faq": [
+        {
+          "q": "Is Fraktur the same as Old English font?",
+          "a": "They are closely related in style and often grouped together for gothic typography looks."
+        },
+        {
+          "q": "Where does Fraktur look best?",
+          "a": "It works best in short headings, names, and tags rather than long paragraphs."
+        },
+        {
+          "q": "Can I combine Fraktur with symbols?",
+          "a": "Yes, but use symbols lightly so the letterforms stay readable."
+        }
+      ],
+      "related": [
+        "aesthetic-fonts",
+        "cursive-text-generator",
+        "double-struck-text",
+        "japanese-symbols-for-names",
+        "star-symbols",
+        "crown-symbols"
+      ]
+    },
+    {
+      "slug": "bubble-text-generator",
+      "type": "style",
+      "title": "Bubble Text Generator — Circle Bubble Font Copy Paste | Fonted",
+      "description": "Generate playful bubble text with the Bubbles style. Ideal for fun bios, kid-friendly labels, and soft aesthetic captions.",
+      "h1": "Bubble text generator",
+      "h1Html": "Bubble <em>text generator</em>",
+      "eyebrow": "Style preset · Bubbles",
+      "sub": "Create rounded bubble lettering for playful names, profile accents, and cheerful content labels.",
+      "intro": "<p>Bubble text has a light, playful personality that works well for casual social content, fan pages, and friendly community spaces. The rounded look makes simple words feel softer and more approachable, especially when paired with pastel visuals or emoji-heavy themes. Because bubble letters are visually distinctive, they are best used for short labels rather than long text blocks.</p><p>This page uses the <strong>Bubbles</strong> style by default, so you can instantly transform plain words into fun circular lettering. It is a great fit for profile nicknames, story headers, playlist names, and event announcements where tone matters as much as content. To keep readability strong, use bubble text for one key phrase and leave supporting text plain.</p><p>When styling for broad compatibility, test your final result in the destination app before posting. Most common platforms handle bubble text well, but very long lines can feel crowded. Keep it short, cheerful, and intentional for the cleanest look.</p>",
+      "defaultMode": "styles",
+      "defaultStyle": "Bubbles",
+      "examples": [
+        "ⓑⓤⓑⓑⓛⓔ ⓥⓘⓑⓔⓢ",
+        "ⓗⓔⓛⓛⓞ ⓕⓡⓘⓔⓝⓓⓢ",
+        "ⓢⓞⓕⓣ ⓓⓐⓨ",
+        "ⓟⓛⓐⓨ ⓣⓘⓜⓔ",
+        "ⓗⓐⓟⓟⓨ ⓒⓛⓤⓑ",
+        "ⓒⓤⓣⓔ ⓛⓐⓑⓔⓛ",
+        "ⓜⓞⓞⓓ ⓑⓞⓐⓡⓓ",
+        "ⓑⓘⓞ ⓛⓘⓝⓔ",
+        "ⓢⓣⓞⓡⓨ ⓣⓘⓣⓛⓔ"
+      ],
+      "faq": [
+        {
+          "q": "When should I use bubble text?",
+          "a": "Use it for playful labels, casual bios, and short headings where a friendly tone helps."
+        },
+        {
+          "q": "Does bubble text work in all apps?",
+          "a": "It works in many apps, but always preview final text because rendering differs by platform."
+        },
+        {
+          "q": "Is bubble text good for long paragraphs?",
+          "a": "Not usually. It is best for short phrases and titles."
+        }
+      ],
+      "related": [
+        "aesthetic-fonts",
+        "instagram-fonts",
+        "heart-symbols",
+        "star-symbols",
+        "small-caps-generator",
+        "cool-symbols-copy-paste"
+      ]
+    },
+    {
+      "slug": "small-caps-generator",
+      "type": "style",
+      "title": "Small Caps Generator — Clean Minimal Text Style | Fonted",
+      "description": "Convert normal text to Small Caps Unicode for minimal, premium-looking profile names and headers.",
+      "h1": "Small caps generator",
+      "h1Html": "Small caps <em>generator</em>",
+      "eyebrow": "Style preset · Small Caps",
+      "sub": "Apply a minimalist small-caps look for elegant names, bios, and brand labels.",
+      "intro": "<p>Small caps are a favorite for minimal branding because they look refined without shouting for attention. Compared with heavy decorative styles, small caps preserve readability while still giving your text a custom identity. That makes them useful for professional creators, niche communities, and anyone who wants a clean profile aesthetic.</p><p>This generator defaults to <strong>Small Caps</strong>, ideal for names, section headers, and compact taglines. Use it when you want subtle distinction in places like Discord nicknames, Instagram bios, or X profile descriptors. The style also pairs well with plain body text, so you can highlight structure without creating visual noise. For consistency, choose one signature phrase in small caps and keep it repeated across platforms.</p><p>The biggest advantage of small caps is versatility. They fit dark and light themes, modern and classic branding, and both short and medium-length labels. If you want style with clarity, this is usually the safest long-term option.</p>",
+      "defaultMode": "styles",
+      "defaultStyle": "Small Caps",
+      "examples": [
+        "sᴍᴀʟʟ ᴄᴀᴘs ʟᴏᴏᴋ",
+        "ᴄʀᴇᴀᴛᴏʀ ɴᴏᴛᴇs",
+        "ᴍɪɴɪᴍᴀʟ ʙɪᴏ",
+        "ᴡᴇᴇᴋʟʏ ᴜᴘᴅᴀᴛᴇ",
+        "ᴘʀᴏғɪʟᴇ ʜᴇᴀᴅᴇʀ",
+        "ᴄʟᴜʙ ʀᴏʟᴇ",
+        "ɴᴇᴡ ʀᴇʟᴇᴀsᴇ",
+        "ᴅᴀɪʟʏ ʟᴏɢ",
+        "ʟɪɴᴋ ʙᴇʟᴏᴡ"
+      ],
+      "faq": [
+        {
+          "q": "Why are small caps popular?",
+          "a": "They offer subtle style while keeping text highly readable on nearly any interface."
+        },
+        {
+          "q": "Do small caps work for professional profiles?",
+          "a": "Yes, they are one of the most polished options for clean personal or brand presentation."
+        },
+        {
+          "q": "Can I mix small caps with other styles?",
+          "a": "Yes, but keep combinations limited so your typography remains coherent."
+        }
+      ],
+      "related": [
+        "bold-text-generator",
+        "discord-font-generator",
+        "twitter-x-fonts",
+        "instagram-fonts",
+        "double-struck-text",
+        "strikethrough-text"
+      ]
+    },
+    {
+      "slug": "upside-down-text",
+      "type": "style",
+      "title": "Upside Down Text Generator — Flip Text Instantly | Fonted",
+      "description": "Flip normal text into upside down Unicode style for playful messages, jokes, and standout profile snippets.",
+      "h1": "Upside down text",
+      "h1Html": "Upside down <em>text</em>",
+      "eyebrow": "Style preset · Upside Down",
+      "sub": "Turn standard phrases upside down for fun captions, memes, and attention-grabbing one-liners.",
+      "intro": "<p>Upside down text is a classic internet style for humor and surprise. Because the letters are flipped using Unicode character mapping, the output can be copied and pasted like normal text while looking instantly unconventional. It is perfect for short punchlines, meme captions, and playful profile updates where you want a quick visual twist.</p><p>This page defaults to <strong>Upside Down</strong> style so you can flip phrases immediately. The effect works best on short lines that readers can decode quickly; long paragraphs become tiring to parse. Use it for one-liner reactions, comment replies, or teaser captions that invite interaction. If readability is important, pair a flipped phrase with a plain-text follow-up.</p><p>As with any novelty style, moderation keeps it effective. A single upside-down phrase can stop the scroll and earn engagement, while overusing it reduces impact. Keep your flips short, deliberate, and context-aware for the strongest result.</p>",
+      "defaultMode": "styles",
+      "defaultStyle": "Upside Down",
+      "examples": [
+        "ʇxǝʇ pǝddᴉlɟ",
+        "oןןǝɥ",
+        "ʇɥƃᴉu pooƃ",
+        "ɯɐǝɹp pɐǝɥ",
+        "ʍou ʎqɐq",
+        "ʇsod ʍǝu",
+        "uʍop ǝpᴉsdn",
+        "ʎɐpoʇ pooƃ",
+        "ʇɥƃᴉɹ uɹnʇ"
+      ],
+      "faq": [
+        {
+          "q": "Where is upside-down text most useful?",
+          "a": "It works best in jokes, meme captions, and short social replies."
+        },
+        {
+          "q": "Can I use upside-down text in bios?",
+          "a": "Yes, but keep it short so visitors can still read your profile quickly."
+        },
+        {
+          "q": "Why not use it for long text?",
+          "a": "Long flipped passages are difficult to read and can reduce message clarity."
+        }
+      ],
+      "related": [
+        "zalgo-text-generator",
+        "strikethrough-text",
+        "aesthetic-fonts",
+        "twitter-x-fonts",
+        "cool-symbols-copy-paste",
+        "star-symbols"
+      ]
+    },
+    {
+      "slug": "zalgo-text-generator",
+      "type": "style",
+      "title": "Zalgo Text Generator — Glitchy Corrupted Unicode | Fonted",
+      "description": "Create chaotic glitch-style Zalgo text using combining marks for horror, meme, and cyber aesthetics.",
+      "h1": "Zalgo text generator",
+      "h1Html": "Zalgo <em>text generator</em>",
+      "eyebrow": "Style preset · Zalgo",
+      "sub": "Generate glitchy corrupted text effects for edgy posts, spooky themes, and dramatic visual emphasis.",
+      "intro": "<p>Zalgo text is built with stacked combining marks that make letters look corrupted, haunted, or glitched. It is popular in meme culture, horror-themed content, and cyber aesthetics where the visual mood matters more than perfect readability. Used well, Zalgo can create a striking effect that instantly signals tone. Used too heavily, it can become unreadable and difficult to paste cleanly in some apps.</p><p>This page defaults to <strong>Zalgo</strong> so you can quickly create controlled glitch text. Keep phrases short and use the style as an accent rather than your full message. For example, style a headline word in Zalgo and keep the rest plain. That preserves impact while still letting readers understand your point. It is especially effective for event teasers, spooky usernames, or limited-edition drop announcements.</p><p>Compatibility can vary more with Zalgo than with basic Unicode fonts. Always preview in the destination platform and reduce intensity if clipping appears. The best Zalgo design is intentional chaos, not accidental unreadability.</p>",
+      "defaultMode": "styles",
+      "defaultStyle": "Zalgo",
+      "examples": [
+        "z̴̎̓ȃ̶͌l̶̿̈́g̷̈́͘o̵̔̿",
+        "h̷̲́a̷̝͝u̶̼͝n̶̻͊t̷͔͊e̴̐ͅd̷̩̓",
+        "ğ̶͜l̴̥̍i̶͙̎t̶͖̓c̸̡͌h̷̞̾",
+        "v̸̦͆o̴̳̕ī̸͖d̸͖̍",
+        "d̴̰̐a̵̲̾r̵̟̚k̴̖͗",
+        "c̴̨̒ȍ̸͔d̸̩̽ē̷͈",
+        "s̴͇̈́ȋ̸̩g̵̼̊n̸͔̔ȃ̴͙l̶̙͘",
+        "e̶̝̒c̶̖̚ḧ̷̪́o̵̟̽",
+        "n̶̲͠i̶͔͂g̴̛͖h̷̙̕t̵͍̎"
+      ],
+      "faq": [
+        {
+          "q": "Is Zalgo text readable everywhere?",
+          "a": "Not always. Heavy combining marks can clip or render unevenly depending on app and device."
+        },
+        {
+          "q": "When should I use Zalgo style?",
+          "a": "Use it for short dramatic accents in horror, glitch, or meme contexts."
+        },
+        {
+          "q": "How do I keep Zalgo usable?",
+          "a": "Limit text length and intensity, then preview before publishing."
+        }
+      ],
+      "related": [
+        "upside-down-text",
+        "gothic-fraktur-text",
+        "aesthetic-fonts",
+        "twitter-x-fonts",
+        "cool-symbols-copy-paste",
+        "star-symbols"
+      ]
+    },
+    {
+      "slug": "aesthetic-fonts",
+      "type": "style",
+      "title": "Aesthetic Fonts — Stylish Unicode Text Collection | Fonted",
+      "description": "Browse aesthetic Unicode font styles for bios, usernames, and captions. Filtered styles for soft, trendy, and curated profile looks.",
+      "h1": "Aesthetic fonts",
+      "h1Html": "Aesthetic <em>fonts</em>",
+      "eyebrow": "Style collection",
+      "sub": "Explore aesthetic-ready text styles for curated social branding, mood pages, and clean profile storytelling.",
+      "intro": "<p>Aesthetic text is less about one font and more about a coherent visual mood. Soft scripts, wide spacing, small caps, and minimal symbols can all be aesthetic when used consistently. The goal is to make your profile feel curated from first glance: recognizable tone, intentional hierarchy, and balanced decoration.</p><p>This page applies an <strong>aesthetic style filter</strong> so you can quickly browse options that fit popular looks like soft minimal, dreamy, dark academia, and modern creator branding. Instead of jumping between random fonts, you can compare a focused set, keep your favorites, and reuse them across display names, bios, highlight labels, and captions. That consistency makes your identity stronger without extra editing tools.</p><p>To keep results clean, choose one primary style and one secondary accent. Use symbols sparingly and keep line breaks organized. Aesthetic design is usually about subtraction, not addition. When your typography is consistent, your content feels more premium even before someone reads the full caption.</p>",
+      "defaultMode": "styles",
+      "defaultStyleFilter": "aesthetic",
+      "examples": [
+        "𝓼𝓸𝓯𝓽 𝓶𝓸𝓸𝓭",
+        "𝕞𝕚𝕟𝕚𝕞𝕒𝕝 𝕗𝕖𝕖𝕝",
+        "sᴜʙᴛʟᴇ ᴛᴏɴᴇ",
+        "𝔡𝔞𝔯𝔨 𝔞𝔠𝔞𝔡𝔢𝔪𝔦𝔞",
+        "✦ curated notes ✦",
+        "𝕕𝕣𝕖𝕒𝕞 𝕕𝕚𝕒𝕣𝕪",
+        "★ soft archive ★",
+        "𝓵𝓾𝔁𝓮 𝓵𝓲𝓷𝓮",
+        "✧ moodboard ✧"
+      ],
+      "faq": [
+        {
+          "q": "What makes a font style aesthetic?",
+          "a": "Consistency, readability, and mood alignment matter more than complexity or heavy decoration."
+        },
+        {
+          "q": "How many styles should I mix?",
+          "a": "Use one primary style and one accent style at most for a clean, curated look."
+        },
+        {
+          "q": "Can aesthetic text help profile branding?",
+          "a": "Yes, consistent typography improves recognition and makes your profile feel intentionally designed."
+        }
+      ],
+      "related": [
+        "instagram-fonts",
+        "instagram-bio-fonts",
+        "cursive-text-generator",
+        "bubble-text-generator",
+        "gothic-fraktur-text",
+        "heart-symbols"
+      ]
+    },
+    {
+      "slug": "strikethrough-text",
+      "type": "style",
+      "title": "Strikethrough Text Generator — Crossed Out Unicode | Fonted",
+      "description": "Generate strikethrough Unicode text for edits, jokes, and emphasis. Great for playful captions and revision-style formatting.",
+      "h1": "Strikethrough text",
+      "h1Html": "Strikethrough <em>text</em>",
+      "eyebrow": "Style preset · Strikethrough",
+      "sub": "Cross out words instantly for comedic timing, annotation effects, and social post emphasis.",
+      "intro": "<p>Strikethrough text is one of the most versatile stylistic effects because it carries meaning, not just decoration. It can imply edits, sarcasm, revision, contradiction, or playful self-correction in a single visual move. That makes it useful in social captions, tweets, Discord messages, and anywhere tone matters.</p><p>This generator defaults to <strong>Strikethrough</strong>, letting you apply a clean crossed-out effect to plain text. Use it selectively for keywords or short clauses so readers catch the joke or emphasis quickly. For example, pair a struck phrase with a plain replacement for comedic contrast. In informational posts, strikethrough can signal updates without deleting context, which improves clarity for ongoing threads.</p><p>Because strikethrough adds visual noise, keep it targeted. If every line is crossed out, nothing stands out. The strongest use is intentional and sparse: one effect, one meaning, one clear message.</p>",
+      "defaultMode": "styles",
+      "defaultStyle": "Strikethrough",
+      "examples": [
+        "s̶o̶m̶e̶t̶i̶m̶e̶s̶ always",
+        "n̶o̶t̶ late again",
+        "w̶o̶r̶k̶ vacation mode",
+        "b̶a̶d̶ great idea",
+        "o̶l̶d̶ updated plan",
+        "m̶a̶y̶b̶e̶ definitely",
+        "n̶e̶v̶e̶r̶ right now",
+        "d̶r̶a̶f̶t̶ final",
+        "l̶o̶w̶ high energy"
+      ],
+      "faq": [
+        {
+          "q": "What is strikethrough text used for?",
+          "a": "It is commonly used for humor, edits, and emphasizing changed ideas."
+        },
+        {
+          "q": "Does strikethrough work in social apps?",
+          "a": "Yes in many cases, though rendering can vary across platforms."
+        },
+        {
+          "q": "Should I strike full paragraphs?",
+          "a": "Usually no. Keep it to key words or short phrases for readability."
+        }
+      ],
+      "related": [
+        "bold-text-generator",
+        "small-caps-generator",
+        "upside-down-text",
+        "twitter-x-fonts",
+        "discord-font-generator",
+        "cool-symbols-copy-paste"
+      ]
+    },
+    {
+      "slug": "double-struck-text",
+      "type": "style",
+      "title": "Double Struck Text Generator — Blackboard Bold Unicode | Fonted",
+      "description": "Create Double Struck Unicode text for a bold, technical, and high-contrast look suited to names and headings.",
+      "h1": "Double struck text",
+      "h1Html": "Double struck <em>text</em>",
+      "eyebrow": "Style preset · Double Struck",
+      "sub": "Apply blackboard-bold style for futuristic, analytical, and high-impact profile text.",
+      "intro": "<p>Double struck text, often called blackboard bold, has a crisp geometric character that feels technical and modern. It is popular in gaming aliases, productivity branding, and creator profiles that want a clean but distinctive visual signature. Compared with ornate scripts, double struck styles usually stay highly readable while still looking customized.</p><p>This page defaults to <strong>Double Struck</strong>, making it easy to convert plain words into a strong display style. It works especially well for short names, labels, and section headers where clarity and impact are equally important. If you publish educational or analytical content, blackboard-bold text can reinforce a smart, structured tone without looking rigid.</p><p>For best results, keep lines concise and avoid mixing too many decorative symbol sets in the same phrase. Double struck text already has visual weight, so minimal extras create the most polished output. Use it consistently and your profile identity will feel both memorable and professional.</p>",
+      "defaultMode": "styles",
+      "defaultStyle": "Double Struck",
+      "examples": [
+        "𝔻𝕠𝕦𝕓𝕝𝕖 𝕊𝕥𝕣𝕦𝕔𝕜",
+        "𝕄𝕠𝕕𝕖𝕣𝕟 𝕀𝔻",
+        "𝕋𝕖𝕔𝕙 𝕃𝕠𝕘",
+        "𝔾𝕒𝕞𝕖 𝕋𝕒𝕘",
+        "𝕎𝕖𝕖𝕜𝕝𝕪 𝕎𝕣𝕒𝕡",
+        "𝕊𝕥𝕦𝕕𝕚𝕠 𝕆𝕟𝕖",
+        "𝕍𝕚𝕤𝕦𝕒𝕝 𝕂𝕖𝕪",
+        "𝕊𝕚𝕘𝕟𝕒𝕝 𝔽𝕖𝕖𝕕",
+        "𝔹𝕚𝕠 𝕃𝕒𝕓"
+      ],
+      "faq": [
+        {
+          "q": "What is Double Struck text?",
+          "a": "It is a Unicode style with blackboard-bold letterforms that look modern and high contrast."
+        },
+        {
+          "q": "When should I choose Double Struck over Bold Serif?",
+          "a": "Choose Double Struck for a more technical or futuristic feel; Bold Serif feels more classic."
+        },
+        {
+          "q": "Is it readable on mobile?",
+          "a": "Yes, it is generally one of the clearer decorative styles on small screens."
+        }
+      ],
+      "related": [
+        "bold-text-generator",
+        "small-caps-generator",
+        "valorant-name-generator",
+        "pubg-mobile-name-generator",
+        "discord-font-generator",
+        "star-symbols"
+      ]
+    }
+  ]
+}

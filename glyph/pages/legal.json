@@ -1,0 +1,72 @@
+{
+  "pages": [
+    {
+      "slug": "privacy-policy",
+      "type": "legal",
+      "title": "Privacy Policy — Data, Cookies, and Ads | Fonted",
+      "description": "Read Fonted's privacy policy covering analytics, cookies, ad services, and your data rights including EU cookie disclosures.",
+      "h1": "Privacy Policy",
+      "h1Html": "Privacy <em>Policy</em>",
+      "eyebrow": "Legal",
+      "sub": "How Fonted handles data, cookies, and ad technology, including EU visitor notices.",
+      "intro": "<p>Fonted (https://fonted.app) is a client-side text styling tool. Most text you type into the generator is processed directly in your browser and is not submitted to a permanent user account system. We may collect limited technical information such as browser type, device metadata, referrer, and aggregate usage events to maintain performance, prevent abuse, and improve feature quality. We do not intentionally collect sensitive personal data through the core text tool.</p><p>Fonted may use cookies and similar technologies for site functionality, analytics, and advertising. We may display ads through Google AdSense or related ad partners. These services can use cookies to personalize and measure ads, subject to user controls and regional requirements. If you are in the European Economic Area, United Kingdom, or similar jurisdictions, cookie consent choices may be presented before non-essential cookies are stored, and you may update choices where supported.</p><p>You can manage cookies through browser settings and, where available, consent tools on the site. By using Fonted, you agree to this policy as updated over time. For policy questions, contact the operator through the published site contact channel.</p>",
+      "defaultMode": "builder",
+      "examples": [],
+      "faq": [
+        {
+          "q": "Does Fonted store the text I type?",
+          "a": "Core text transformations run in-browser; we primarily collect limited technical and aggregate usage data."
+        },
+        {
+          "q": "Does Fonted use cookies?",
+          "a": "Yes, cookies may be used for functionality, analytics, and advertising, including AdSense-related services."
+        },
+        {
+          "q": "What about EU cookie consent?",
+          "a": "Where required, non-essential cookies should be managed through consent choices presented to EU/UK visitors."
+        }
+      ],
+      "related": [
+        "terms",
+        "instagram-fonts",
+        "discord-font-generator",
+        "cool-symbols-copy-paste",
+        "heart-symbols"
+      ]
+    },
+    {
+      "slug": "terms",
+      "type": "legal",
+      "title": "Terms of Use — Rules for Using Fonted | Fonted",
+      "description": "Review Fonted's terms of use, acceptable behavior, content responsibility, and service limitations.",
+      "h1": "Terms of Use",
+      "h1Html": "Terms of <em>Use</em>",
+      "eyebrow": "Legal",
+      "sub": "Rules and conditions for accessing and using the Fonted website and tools.",
+      "intro": "<p>By accessing or using Fonted (https://fonted.app), you agree to these Terms of Use. Fonted provides text styling and symbol generation tools on an as-is basis for lawful personal or commercial use. You are responsible for how you use generated output, including usernames, profile text, and published content across third-party platforms.</p><p>You agree not to misuse the service, attempt unauthorized access, disrupt availability, or use generated content for harassment, impersonation, fraud, hate, or other unlawful conduct. Platform-specific rules still apply; using Fonted output does not exempt you from game, social, or community moderation policies. We may limit or block access to protect the service and users.</p><p>Fonted may update features, compatibility logic, and legal terms at any time. We do not guarantee uninterrupted access or perfect rendering on every app/device combination. To the extent permitted by law, the service is provided without warranties and with limited liability for indirect losses. Continued use of Fonted after updates constitutes acceptance of revised terms.</p>",
+      "defaultMode": "builder",
+      "examples": [],
+      "faq": [
+        {
+          "q": "Can I use Fonted output for commercial profiles?",
+          "a": "Yes, generally, as long as your usage complies with law and third-party platform rules."
+        },
+        {
+          "q": "Does Fonted guarantee text works everywhere?",
+          "a": "No. Unicode rendering and acceptance vary by app, version, and device."
+        },
+        {
+          "q": "Can access be restricted for abuse?",
+          "a": "Yes, misuse or harmful behavior may result in service restrictions."
+        }
+      ],
+      "related": [
+        "privacy-policy",
+        "instagram-fonts",
+        "discord-font-generator",
+        "free-fire-name-generator",
+        "cool-symbols-copy-paste"
+      ]
+    }
+  ]
+}

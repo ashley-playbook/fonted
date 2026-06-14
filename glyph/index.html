@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fonted — Fancy Text & Username Generator</title>
+<link rel="stylesheet" href="css/glyph.css">
+</head>
+<body>
+
+<header>
+  <div class="wrap bar">
+    <div class="logo"><span class="mark">F</span>Fonted</div>
+    <nav class="nav">
+      <a href="#" data-mode="styles">Styles</a>
+      <a href="#" data-mode="builder">Username builder</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="hero">
+    <div class="eyebrow">Fancy text &amp; username generator</div>
+    <h1>Type once. Become <em>every font</em>.</h1>
+    <p class="sub">Style your username letter by letter, then copy it into Brawl Stars, Free Fire, Discord &amp; bios. Or pick one font for the whole word.</p>
+
+    <div class="modes" role="tablist">
+      <button data-mode="builder" role="tab" class="on">Per-letter builder</button>
+      <button data-mode="styles" role="tab">Whole-word styles</button>
+    </div>
+
+    <div class="inputZone">
+      <input id="field" class="field" type="text" maxlength="60"
+             placeholder="Type your username to get started…" autocomplete="off" spellcheck="false">
+      <button class="clear" id="clear">Clear</button>
+    </div>
+
+    <div class="controls" id="styleControls">
+      <button class="chip on" data-f="all">All</button>
+      <button class="chip" data-f="fancy">Fancy</button>
+      <button class="chip" data-f="aesthetic">Aesthetic</button>
+      <button class="chip" data-f="fun">Fun</button>
+      <span class="count" id="count"></span>
+    </div>
+  </section>
+
+  <section class="grid">
+    <div id="paneStyles">
+      <div class="results" id="results"></div>
+    </div>
+
+    <div id="paneBuilder" class="hidden">
+      <div class="builder" id="builder"></div>
+    </div>
+
+    <aside class="rail" aria-label="Sponsored">
+      <div class="adslot">
+        <span class="tag">Ad</span>
+        <!-- Google AdSense unit — replace data-ad-client/data-ad-slot, add adsbygoogle.js in <head>
+        <ins class="adsbygoogle" style="display:block"
+             data-ad-client="ca-pub-XXXXXXXXXXXXXXXX" data-ad-slot="0000000000"
+             data-ad-format="auto" data-full-width-responsive="true"></ins> -->
+        <div class="adbox">Display ad · 300×250<br>(AdSense slot)</div>
+      </div>
+      <div class="adslot">
+        <span class="tag">Ad</span>
+        <div class="adbox" style="min-height:600px">Sticky ad · 300×600<br>(AdSense slot)</div>
+      </div>
+    </aside>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>Fonted — copy &amp; paste fancy text. Works in Brawl Stars, Free Fire, Discord, Instagram &amp; more.</span>
+    <span>Made for self-expression.</span>
+  </div>
+</footer>
+
+<div class="toast" id="toast">Copied to clipboard</div>
+
+<script src="js/glyph.js" defer></script>
+</body>
+</html>

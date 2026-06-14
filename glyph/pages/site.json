@@ -1,0 +1,8 @@
+{
+  "site": {
+    "name": "Fonted",
+    "domain": "https://fonted.app",
+    "tagline": "Fancy text & username generator",
+    "defaultOgImage": "/static/og-default.svg"
+  }
+}

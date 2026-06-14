@@ -1,0 +1,13 @@
+{
+  "name": "fonted",
+  "private": true,
+  "description": "Fonted — fancy text & username generator (static site)",
+  "scripts": {
+    "build": "node build.js",
+    "validate": "node build.js --validate",
+    "generate": "node scripts/generate-pages.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

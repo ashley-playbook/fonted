@@ -1,0 +1,2 @@
+# Generated pages — run `node scripts/generate-pages.js` to refresh.
+# Hand-edited pages (intro without <!-- GENERATED --> marker) are preserved on re-run.

@@ -1,0 +1,189 @@
+{
+  "pages": [
+    {
+      "slug": "tiktok-fonts",
+      "type": "social",
+      "title": "TikTok Fonts — Stylish Display Name & Bio Text | Fonted",
+      "description": "Copy aesthetic TikTok fonts for your display name and bio. Script, bold, bubble, and wide Unicode styles with a live TikTok compatibility check.",
+      "h1": "TikTok fonts copy and paste",
+      "h1Html": "TikTok fonts <em>copy and paste</em>",
+      "eyebrow": "Display name · bio · captions",
+      "sub": "Generate aesthetic Unicode text for your TikTok profile — display names tolerate emoji and longer strings than most games.",
+      "intro": "<p>TikTok display names can run longer than mobile-game tags — community reports suggest roughly <strong>30 characters</strong> for the visible name field (your @handle stays plain ASCII). Bios and captions accept full Unicode, emoji, and line breaks, which makes script, bold sans, wide text, and sparkle symbols popular among aesthetic creators.</p><p><strong>How to update your TikTok name:</strong> Profile → Edit profile → Name → paste your styled text → Save. For bios, use the same copied string in the Bio field or overlay it on video text in-editor.</p><p>Switch to Whole-word styles for quick aesthetic presets, or use the per-letter builder to mix fonts like creators do for \"coquette\" and \"dark academia\" niches.</p>",
+      "defaultMode": "styles",
+      "defaultPlatform": "tiktok",
+      "defaultFlairTab": "emojis",
+      "defaultInput": "aesthetic",
+      "examples": [
+        "𝓪𝓮𝓼𝓽𝓱𝓮𝓽𝓲𝓬",
+        "✨ 𝓼𝓽𝓪𝓻 ✨",
+        "♡ soft girl ♡",
+        "🌸 𝒸𝒽𝑒𝓇𝓇𝓎",
+        "⋆ ˚｡⋆",
+        "🖤 𝖉𝖆𝖗𝖐",
+        "💫 𝓽𝓲𝓴𝓽𝓸𝓴",
+        "✧ coquette ✧"
+      ],
+      "faq": [
+        {
+          "q": "Can I change my TikTok @username to fancy text?",
+          "a": "No. Your @handle must use plain letters, numbers, underscores, and periods. Fancy Unicode works in your display Name and Bio, not the unique username."
+        },
+        {
+          "q": "Do TikTok fonts work in comments?",
+          "a": "Most Unicode styles paste into comments on mobile and desktop. Extremely long combining-character styles (Zalgo) may clip or look broken — keep it readable."
+        },
+        {
+          "q": "What fonts look best on TikTok?",
+          "a": "Script, bold sans, wide fullwidth, and light sparkle symbols match popular aesthetic trends. Emoji pair well in display names — unlike most mobile shooters."
+        }
+      ],
+      "related": [
+        "instagram-fonts",
+        "instagram-bio-fonts",
+        "twitter-x-fonts",
+        "aesthetic-fonts",
+        "cursive-text-generator",
+        "heart-symbols"
+      ]
+    },
+    {
+      "slug": "instagram-fonts",
+      "type": "social",
+      "title": "Instagram Fonts — Stylish Text for Name, Bio, and Captions | Fonted",
+      "description": "Copy and paste Instagram fonts for profile name, bio, stories, and captions. Quickly apply readable styles with Unicode text that fits the IG aesthetic.",
+      "h1": "Instagram fonts",
+      "h1Html": "Instagram <em>fonts</em>",
+      "eyebrow": "Name · bio · stories",
+      "sub": "Create clean, aesthetic IG text styles you can reuse across profile branding, highlight covers, and caption hooks.",
+      "intro": "<p>Instagram is a visual platform, so text style should support your brand instead of distracting from it. A strong profile uses consistent typography across display name, bio lines, story stickers, and occasional caption emphasis. Unicode styling helps you do that without image editing, as long as you keep readability high. Script, bold serif, and small caps are popular because they feel polished while still being easy to scan.</p><p>Fonted is useful when you need fast iteration: test several styles for your name, try short bio headers, then keep a saved set for recurring content pillars. For creators, this reduces design friction and keeps brand voice consistent even during rapid posting cycles. For businesses, subtle styling can separate section labels in bios and improve visual structure.</p><p>Best practice on Instagram is intentional restraint. Use one primary font style, a small amount of symbol flair, and clear line breaks. Your profile should look curated and legible in one glance, especially for first-time visitors deciding whether to follow.</p>",
+      "defaultMode": "styles",
+      "defaultPlatform": "insta",
+      "examples": [
+        "𝓼𝓾𝓷𝓼𝓮𝓽 𝓼𝓽𝓾𝓭𝓲𝓸",
+        "★ daily edits ★",
+        "𝕔𝕠𝕗𝕗𝕖𝕖 𝕔𝕝𝕦𝕓",
+        "✦ creator diary ✦",
+        "𝓫𝓲𝓸 𝓵𝓲𝓷𝓮 𝓸𝓷𝓮",
+        "𝕤𝕠𝕗𝕥 𝕒𝕖𝕤𝕥𝕙𝕖𝕥𝕚𝕔",
+        "★ link below ★",
+        "𝖒𝖔𝖔𝖉 𝖇𝖔𝖆𝖗𝖉",
+        "✧ story highlights ✧"
+      ],
+      "faq": [
+        {
+          "q": "Can I use fancy fonts in Instagram bio?",
+          "a": "Yes, most common Unicode styles work in Instagram bios and display names."
+        },
+        {
+          "q": "Do Instagram fonts hurt readability?",
+          "a": "They can if overused. Keep one main style and avoid dense glitch effects for profile sections."
+        },
+        {
+          "q": "Will these fonts work in captions too?",
+          "a": "Usually yes. Styled text can be pasted into captions, comments, and story text fields."
+        }
+      ],
+      "related": [
+        "instagram-bio-fonts",
+        "twitter-x-fonts",
+        "aesthetic-fonts",
+        "cursive-text-generator",
+        "small-caps-generator",
+        "heart-symbols"
+      ]
+    },
+    {
+      "slug": "instagram-bio-fonts",
+      "type": "social",
+      "title": "Instagram Bio Fonts — Multi-Line Bio Text Styles | Fonted",
+      "description": "Generate multi-line Instagram bio font styles with clean Unicode text. Design structured bios with headings, separators, and readable aesthetic formatting.",
+      "h1": "Instagram bio fonts",
+      "h1Html": "Instagram <em>bio fonts</em>",
+      "eyebrow": "Bio layout · multi-line",
+      "sub": "Build an IG bio that reads like a mini landing page using styled headings, clean separators, and line-by-line hierarchy.",
+      "intro": "<p>Your Instagram bio is short, but it does a lot of work: identity, niche, trust signal, and call to action in just a few lines. Styling helps when it creates structure. A multi-line bio with a clear headline, value statement, and action line is easier to scan than one long sentence. Unicode fonts let you emphasize those sections without extra tools, especially when paired with minimal symbols.</p><p>Fonted is ideal for building this line by line. Start with a strong profile header in a readable style, keep supporting text lighter, then finish with a clean CTA line and link cue. You can test multiple combinations quickly and keep your favorite templates for campaign updates, launches, or seasonal rebrands. This is especially useful for creators, freelancers, and storefront accounts that frequently rotate offers.</p><p>For best results, prioritize legibility over ornament. Leave whitespace between lines, avoid stacking too many decorative characters, and keep your key message obvious in the first line. A good bio style feels intentional, professional, and easy to act on.</p>",
+      "defaultMode": "styles",
+      "defaultPlatform": "insta",
+      "examples": [
+        "𝓬𝓻𝓮𝓪𝓽𝓸𝓻 𝓵𝓸𝓰",
+        "✦ daily tips ✦",
+        "𝕔𝕠𝕟𝕥𝕖𝕟𝕥 𝕤𝕥𝕦𝕕𝕚𝕠",
+        "★ link in bio ★",
+        "𝖆𝖇𝖔𝖚𝖙 𝖒𝖊",
+        "✧ now booking ✧",
+        "𝕗𝕣𝕖𝕖 𝕣𝕖𝕤𝕠𝕦𝕣𝕔𝕖",
+        "★ shop drops ★",
+        "𝓹𝓻𝓮𝓼𝓼 𝓯𝓮𝓪𝓽𝓾𝓻𝓮𝓭"
+      ],
+      "faq": [
+        {
+          "q": "How do I make my Instagram bio easier to read?",
+          "a": "Use short lines, clear headings, and one consistent font style for key sections."
+        },
+        {
+          "q": "Can I use line breaks with styled text?",
+          "a": "Yes. Styled Unicode text works with normal line breaks, making multi-line bios easy to structure."
+        },
+        {
+          "q": "What should be on the first bio line?",
+          "a": "Put your strongest identity statement first so new visitors understand your niche instantly."
+        }
+      ],
+      "related": [
+        "instagram-fonts",
+        "tiktok-fonts",
+        "aesthetic-fonts",
+        "cursive-text-generator",
+        "heart-symbols",
+        "star-symbols"
+      ]
+    },
+    {
+      "slug": "twitter-x-fonts",
+      "type": "social",
+      "title": "Twitter/X Fonts — Stylish Display Name and Post Text | Fonted",
+      "description": "Create Twitter/X font styles for display names, profile bios, and post emphasis. Copy clean Unicode text that stays readable in fast-scrolling feeds.",
+      "h1": "Twitter/X fonts",
+      "h1Html": "Twitter/X <em>fonts</em>",
+      "eyebrow": "Display name · bio · posts",
+      "sub": "Style your X profile and post hooks with readable Unicode text that pops in timeline previews without looking spammy.",
+      "intro": "<p>Twitter/X moves fast, so text styling has one job: create emphasis without slowing comprehension. In a crowded feed, even a subtle font shift in your display name or first post phrase can improve recognition. The best approach is selective use: one clear style for branding, plain text for most body copy, and occasional symbols for visual anchors.</p><p>Fonted helps you test this balance quickly. You can generate options for your display name, experiment with concise bio headers, and create reusable post openers that stand out while staying readable. This is especially useful for founders, analysts, and creators who publish frequently and need consistent identity across threads, replies, and spaces announcements.</p><p>On X, over-stylized text can be mistaken for low-quality automation. Keep your typography intentional and human. Choose styles with clean letter shapes, avoid long glitch effects, and use decorative characters sparingly. Done well, your profile feels distinctive and professional while every post remains easy to read at timeline speed.</p>",
+      "defaultMode": "styles",
+      "defaultPlatform": "x",
+      "examples": [
+        "𝕓𝕦𝕚𝕝𝕕 𝕚𝕟 𝕡𝕦𝕓𝕝𝕚𝕔",
+        "★ thread below ★",
+        "𝓶𝓪𝓻𝓴𝓮𝓽 𝓷𝓸𝓽𝓮𝓼",
+        "✦ founder log ✦",
+        "𝖕𝖗𝖔𝖉𝖚𝖈𝖙 𝖚𝖕𝖉𝖆𝖙𝖊",
+        "★ weekly recap ★",
+        "𝕏 𝕓𝕚𝕠 𝕤𝕥𝕪𝕝𝕖",
+        "✧ new release ✧",
+        "𝓻𝓮𝓼𝓮𝓪𝓻𝓬𝓱 𝓽𝓱𝓻𝓮𝓪𝓭"
+      ],
+      "faq": [
+        {
+          "q": "Do fancy fonts work in Twitter/X display names?",
+          "a": "Yes, most Unicode styles work in display names and bios, though readability should stay the priority."
+        },
+        {
+          "q": "Should I style entire tweets?",
+          "a": "Usually no. Stylize short hooks or labels, then keep main text plain for easier reading and sharing."
+        },
+        {
+          "q": "Can styled text help profile branding?",
+          "a": "Yes, a consistent and restrained style can improve recognition across posts and replies."
+        }
+      ],
+      "related": [
+        "instagram-fonts",
+        "discord-font-generator",
+        "small-caps-generator",
+        "bold-text-generator",
+        "strikethrough-text",
+        "cool-symbols-copy-paste"
+      ]
+    }
+  ]
+}

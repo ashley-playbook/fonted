@@ -1,0 +1,12 @@
+# Build output — Cloudflare Pages builds this on deploy
+glyph/dist/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Logs
+*.log
+npm-debug.log*

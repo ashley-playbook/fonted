@@ -1,0 +1,128 @@
+{
+  "games": [
+    {
+      "key": "brawl-stars",
+      "name": "Brawl Stars",
+      "platform": "brawl",
+      "baseSlug": "brawl-stars-name-generator",
+      "maxChars": 15,
+      "spaces": true,
+      "spaceNote": "Spaces are allowed in Brawl Stars display names.",
+      "applySteps": "Profile → Settings (gear) → Change Name → paste → confirm in preview → save.",
+      "playerTerms": ["club tag", "rename", "gem cost", "Supercell ID"]
+    },
+    {
+      "key": "free-fire",
+      "name": "Free Fire",
+      "platform": "ff",
+      "baseSlug": "free-fire-name-generator",
+      "maxChars": 12,
+      "spaces": false,
+      "spaceNote": "Avoid spaces — many players report paste failures with spaced IGNs.",
+      "applySteps": "Profile → tap name/pen icon → paste in rename field → confirm.",
+      "playerTerms": ["IGN", "rename card", "kill feed", "lobby list"]
+    },
+    {
+      "key": "pubg-mobile",
+      "name": "PUBG Mobile",
+      "platform": "pubg",
+      "baseSlug": "pubg-mobile-name-generator",
+      "maxChars": 15,
+      "spaces": false,
+      "spaceNote": "No-space nicknames paste more reliably across mobile clients.",
+      "applySteps": "Lobby → Profile → Edit → paste nickname → save.",
+      "playerTerms": ["nickname", "squad tag", "kill feed", "UC rename"]
+    },
+    {
+      "key": "valorant",
+      "name": "Valorant",
+      "platform": "valorant",
+      "baseSlug": "valorant-name-generator",
+      "maxChars": 16,
+      "spaces": true,
+      "spaceNote": "Riot ID display names can include spaces within the game-name portion.",
+      "applySteps": "Riot Client → Profile → Riot ID → edit game name → paste → save.",
+      "playerTerms": ["Riot ID", "game name", "tagline", "scoreboard"]
+    },
+    {
+      "key": "fortnite",
+      "name": "Fortnite",
+      "platform": "fortnite",
+      "baseSlug": "fortnite-name-generator",
+      "maxChars": 16,
+      "spaces": true,
+      "spaceNote": "Epic display names generally accept spaces; verify in the in-game preview.",
+      "applySteps": "Epic account → Display Name → paste → save, then confirm in Fortnite profile.",
+      "playerTerms": ["Epic name", "display name", "party invite", "creative maps"]
+    },
+    {
+      "key": "roblox",
+      "name": "Roblox",
+      "platform": "roblox",
+      "baseSlug": "roblox-font-generator",
+      "maxChars": 20,
+      "spaces": false,
+      "spaceNote": "Usernames without spaces copy cleanly between mobile and desktop.",
+      "applySteps": "Account Settings → Username (or Display Name where supported) → paste → save.",
+      "playerTerms": ["username", "display name", "group rank", "experience search"]
+    }
+  ],
+  "styles": [
+    {
+      "key": "bold-serif",
+      "name": "Bold Serif",
+      "stylePage": "bold-text-generator",
+      "defaultStyle": "Bold Serif",
+      "vibe": "strong and readable in fast-moving UI"
+    },
+    {
+      "key": "bold-script",
+      "name": "Bold Script",
+      "stylePage": "cursive-text-generator",
+      "defaultStyle": "Bold Script",
+      "vibe": "elegant and creator-friendly"
+    },
+    {
+      "key": "fraktur",
+      "name": "Fraktur",
+      "stylePage": "gothic-fraktur-text",
+      "defaultStyle": "Fraktur",
+      "vibe": "dark, medieval, and high-contrast"
+    },
+    {
+      "key": "double-struck",
+      "name": "Double Struck",
+      "stylePage": "double-struck-text",
+      "defaultStyle": "Double Struck",
+      "vibe": "clean blackboard-bold tech look"
+    },
+    {
+      "key": "sans-bold",
+      "name": "Sans Bold",
+      "stylePage": "bold-text-generator",
+      "defaultStyle": "Sans Bold",
+      "vibe": "modern and legible at small sizes"
+    },
+    {
+      "key": "small-caps",
+      "name": "Small Caps",
+      "stylePage": "small-caps-generator",
+      "defaultStyle": "Small Caps",
+      "vibe": "minimal and understated"
+    },
+    {
+      "key": "bubbles",
+      "name": "Bubbles",
+      "stylePage": "bubble-text-generator",
+      "defaultStyle": "Bubbles",
+      "vibe": "playful but may box out in some games — checker flags it"
+    },
+    {
+      "key": "monospace",
+      "name": "Monospace",
+      "stylePage": "bold-text-generator",
+      "defaultStyle": "Monospace",
+      "vibe": "coder / terminal aesthetic"
+    }
+  ]
+}

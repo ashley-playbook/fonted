@@ -1,0 +1,41 @@
+{
+  "pages": [
+    {
+      "slug": "",
+      "type": "home",
+      "title": "Fancy Text Generator — Copy & Paste Unicode Fonts | Fonted",
+      "description": "Generate fancy text and stylish usernames letter by letter. Copy Unicode fonts into Brawl Stars, Free Fire, Discord, Instagram, TikTok and more — with a live compatibility checker.",
+      "h1": "Type once. Become every font.",
+      "h1Html": "Type once. Become <em>every font</em>.",
+      "eyebrow": "Fancy text & username generator",
+      "sub": "Style your username letter by letter, then copy it into Brawl Stars, Free Fire, Discord & bios. Or pick one font for the whole word.",
+      "intro": "<p>Fonted is a fancy text generator built for gamers and creators who need names that actually work where they paste them. Mix Unicode math fonts per letter, drop in symbols and emojis, or apply one style to a whole word — then check compatibility across ten platforms before you commit.</p><p>Unlike basic copy-paste font sites, Fonted flags character limits, unsupported spaces, emoji that may box out, and decorative symbols that games reject. Paste with confidence, not guesswork.</p>",
+      "defaultMode": "builder",
+      "defaultPlatform": null,
+      "defaultFlairTab": "symbols",
+      "examples": [],
+      "faq": [
+        {
+          "q": "Is fancy text safe to use in games?",
+          "a": "Unicode decorative letters are widely used in mobile games and rarely trigger bans on their own. Always verify the name in-game before spending currency on a rename — limits and rendering vary by title and patch."
+        },
+        {
+          "q": "Why do some symbols show as boxes?",
+          "a": "Games use older font engines that lack glyphs for rare Unicode blocks — enclosed bubbles, hieroglyphs, and some emoji. Fonted's compatibility row warns you before you paste."
+        },
+        {
+          "q": "Does this work on iPhone and Android?",
+          "a": "Yes. The generator runs in your browser. Copy the result and paste into the game's rename field or your social bio."
+        }
+      ],
+      "related": [
+        "brawl-stars-name-generator",
+        "free-fire-name-generator",
+        "discord-font-generator",
+        "tiktok-fonts",
+        "cursive-text-generator",
+        "heart-symbols"
+      ]
+    }
+  ]
+}

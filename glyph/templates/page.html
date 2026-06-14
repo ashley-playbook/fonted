@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+{{head}}
+</head>
+<body>
+
+{{header}}
+
+<main class="wrap">
+  {{breadcrumbs}}
+
+  <section class="hero">
+    <div class="eyebrow">{{eyebrow}}</div>
+    <h1>{{h1Html}}</h1>
+    <p class="sub">{{sub}}</p>
+
+    <div class="modes" role="tablist">
+      <button data-mode="builder" role="tab">Per-letter builder</button>
+      <button data-mode="styles" role="tab">Whole-word styles</button>
+    </div>
+
+    <div class="inputZone">
+      <input id="field" class="field" type="text" maxlength="60"
+             placeholder="Type your username to get started…" autocomplete="off" spellcheck="false">
+      <button class="clear" id="clear">Clear</button>
+    </div>
+
+    <div class="controls" id="styleControls">
+      <button class="chip" data-f="all">All</button>
+      <button class="chip" data-f="fancy">Fancy</button>
+      <button class="chip" data-f="aesthetic">Aesthetic</button>
+      <button class="chip" data-f="fun">Fun</button>
+      <span class="count" id="count"></span>
+    </div>
+  </section>
+
+  {{contentBlock}}
+
+  <section class="grid">
+    <div id="paneStyles">
+      <div class="results" id="results"></div>
+    </div>
+
+    <div id="paneBuilder" class="hidden">
+      <div class="builder" id="builder"></div>
+    </div>
+
+    <aside class="rail" aria-label="Sponsored">
+      <div class="adslot" data-ad-lazy="300x250">
+        <span class="tag">Ad</span>
+        <!-- AdSense: paste publisher script in head partial and uncomment ins below
+        <ins class="adsbygoogle" style="display:block"
+             data-ad-client="ca-pub-XXXXXXXXXXXXXXXX" data-ad-slot="0000000000"
+             data-ad-format="auto" data-full-width-responsive="true"></ins> -->
+        <div class="adbox ad-placeholder">Display ad · 300×250<br>(AdSense slot)</div>
+      </div>
+      <div class="adslot" data-ad-lazy="300x600">
+        <span class="tag">Ad</span>
+        <div class="adbox ad-placeholder" style="min-height:600px">Sticky ad · 300×600<br>(AdSense slot)</div>
+      </div>
+    </aside>
+  </section>
+
+  {{faq}}
+</main>
+
+{{footer}}
+
+<div class="toast" id="toast">Copied to clipboard</div>
+
+<script>window.__FONTED_AUTO_CONFIG__ = {{initConfig}};</script>
+<script src="{{assetPrefix}}js/glyph.js" defer></script>
+{{extraScripts}}
+</body>
+</html>

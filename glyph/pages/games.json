@@ -1,0 +1,345 @@
+{
+  "pages": [
+    {
+      "slug": "brawl-stars-name-generator",
+      "type": "game",
+      "title": "Brawl Stars Name Generator — Fancy Names That Actually Work In-Game | Fonted",
+      "description": "Create stylish Brawl Stars player names with per-letter Unicode fonts, symbols, and emojis. Live checker validates the 15-character limit and flags symbols that box out.",
+      "h1": "Brawl Stars name generator",
+      "h1Html": "Brawl Stars <em>name generator</em>",
+      "eyebrow": "Supercell · 15 characters",
+      "sub": "Build a club-tag-ready name with mixed fonts, ꧁ brackets, and stars — then verify it against Brawl Stars limits before you rename.",
+      "intro": "<p>Brawl Stars lets you set a display name up to <strong>15 characters</strong> (including spaces). Players love mixing <em>math Unicode</em> letters — bold serif, script, fraktur — with bracket symbols like ꧁ ꧂ and stars. Those math fonts usually render cleanly; emoji and enclosed bubble fonts often show as empty boxes on some devices.</p><p><strong>How to change your name:</strong> open Brawl Stars → tap your profile icon → Settings (gear) → Change Name. Paste from Fonted, confirm it looks right in the preview, then save. Gem cost applies after your first free rename.</p><p>Fonted pre-checks your assembled name against Brawl Stars rules so you don't waste a rename on a string that truncates or breaks mid-tag.</p>",
+      "defaultMode": "builder",
+      "defaultPlatform": "brawl",
+      "defaultFlairTab": "symbols",
+      "defaultInput": "pro",
+      "examples": [
+        "꧁𝕻𝕽𝕺꧂",
+        "★𝓢𝓷𝓲𝓹★",
+        "𝔽𝔩𝕦𝕩",
+        "꧁𝒮𝒽𝒶𝒹𝑜𝓌꧂",
+        "✦𝓢𝓴𝓲𝓵𝓵✦",
+        "𝕭𝖊𝖆𝖘𝖙",
+        "⋆𝓜𝓪𝓿⋆",
+        "꧁𝕯𝖆𝖗𝖐꧂",
+        "★𝒞𝓇𝑜𝓌★",
+        "✧𝓢𝓹𝓮𝓮𝓭✧"
+      ],
+      "faq": [
+        {
+          "q": "What is the Brawl Stars name character limit?",
+          "a": "Community testing consistently shows a 15-character cap on display names, spaces included. Supercell does not publish a live counter — paste into the in-game field to confirm."
+        },
+        {
+          "q": "Can I use emoji in my Brawl Stars name?",
+          "a": "Sometimes, but emoji frequently render as boxes or question marks on older phones. Fonted flags emoji as risky for Brawl Stars so you can swap to symbols instead."
+        },
+        {
+          "q": "Do fancy fonts get you banned in Brawl Stars?",
+          "a": "Decorative Unicode letters are extremely common in-game and are not typically grounds for bans. Offensive content is a separate issue — keep names within Supercell's terms."
+        },
+        {
+          "q": "Why does my name look different for other players?",
+          "a": "Each device renders Unicode with its own font fallback. Stick to math alphanumeric symbols and ꧁-style brackets for the widest compatibility."
+        }
+      ],
+      "related": [
+        "free-fire-name-generator",
+        "pubg-mobile-name-generator",
+        "fortnite-name-generator",
+        "roblox-font-generator",
+        "star-symbols",
+        "crown-symbols"
+      ]
+    },
+    {
+      "slug": "free-fire-name-generator",
+      "type": "game",
+      "title": "Free Fire Name Generator — Stylish IGN Ideas Under 12 Characters | Fonted",
+      "description": "Generate Free Fire names with compatible fancy letters and symbols. Built-in checks focus on the 12-character limit, no-spaces formatting, and high-visibility clan-style tags.",
+      "h1": "Free Fire name generator",
+      "h1Html": "Free Fire <em>name generator</em>",
+      "eyebrow": "Garena · 12 characters · no spaces",
+      "sub": "Build an FF-ready IGN fast with compact Unicode fonts and symbols that still read clearly in kill feed and lobby.",
+      "intro": "<p>Free Fire names are short, so every character has to earn its place. Most players work within a practical <strong>12-character limit</strong> and avoid spaces to prevent paste failures in rename fields. That naturally favors compact styles such as bold serif, fraktur, and script initials paired with one anchor symbol like ꧁, 乂, or ★. The trick is keeping style without losing readability when names are shown at small size in lobby lists and combat overlays.</p><p>Fonted helps by letting you build names letter-by-letter, test no-space formats, and quickly compare variants before spending a rename card. Instead of copying random nicknames that may exceed limits, you can trim in real time and keep the exact visual balance you want. If your first idea is too long, shorten the core word, keep one signature symbol, and drop duplicate decoration.</p><p>For best compatibility in Free Fire, prioritize math-style Unicode letters over heavy combining effects. You get a name that looks premium, pastes faster, and stays legible across devices.</p>",
+      "defaultMode": "builder",
+      "defaultPlatform": "ff",
+      "defaultFlairTab": "symbols",
+      "defaultInput": "ff",
+      "examples": [
+        "꧁𝕱𝕱𝕶𝖎𝖓𝖌꧂",
+        "乂𝓕𝓵𝓪𝓼𝓱乂",
+        "★𝕽𝖆𝖜★",
+        "𝕱𝖆𝖟𝖊𝖗",
+        "꧁𝓢𝓷𝓲𝓹𝓮꧂",
+        "Ꭾʀᴏ乂",
+        "★𝔻𝕒𝕣𝕜",
+        "𒆜𝕱𝖋𝕭𝖔𝖙",
+        "乂𝕮𝖗𝖚𝖘𝖍",
+        "꧁𝓕𝓕𝓡𝓾𝓼𝓱꧂"
+      ],
+      "faq": [
+        {
+          "q": "What is the Free Fire name limit?",
+          "a": "Most rename flows enforce a short cap around 12 visible characters, so compact names perform best. Fonted helps you stay within safe length while styling."
+        },
+        {
+          "q": "Can I use spaces in Free Fire names?",
+          "a": "It is safer to avoid spaces for FF name generation because many players report paste rejections or truncation with spaced formats."
+        },
+        {
+          "q": "Which fonts work best in FF?",
+          "a": "Bold serif, script, and fraktur letters tend to render consistently. Extremely decorative combining text can break on some devices."
+        },
+        {
+          "q": "Will symbols reduce readability in matches?",
+          "a": "Too many can. Use one or two framing symbols so your IGN remains recognizable in quick combat moments."
+        }
+      ],
+      "related": [
+        "brawl-stars-name-generator",
+        "pubg-mobile-name-generator",
+        "fortnite-name-generator",
+        "crown-symbols",
+        "star-symbols",
+        "cool-symbols-copy-paste"
+      ]
+    },
+    {
+      "slug": "pubg-mobile-name-generator",
+      "type": "game",
+      "title": "PUBG Mobile Name Generator — Stylish IDs That Fit | Fonted",
+      "description": "Create PUBG Mobile nickname ideas with Unicode fonts and compact symbols. Test against a 15-character no-space target for cleaner in-game rendering.",
+      "h1": "PUBG Mobile name generator",
+      "h1Html": "PUBG Mobile <em>name generator</em>",
+      "eyebrow": "Krafton · 15 characters",
+      "sub": "Make a tactical-looking PUBG name with sharp fonts, low-clutter symbols, and length-safe formatting for classic and ranked modes.",
+      "intro": "<p>PUBG Mobile names are part style, part clarity. In squad play, your tag appears in fast-moving contexts like kill feed, revive prompts, and teammate callouts, so readability matters as much as aesthetics. A practical target is <strong>15 characters with no spaces</strong>, which gives enough room for a strong core alias plus a minimal symbol wrapper. Over-decorating can look cool in profile view but become hard to parse in action.</p><p>Fonted lets you prototype multiple nickname versions quickly: keep one with pure Unicode letters for maximum compatibility, then create a second with lightweight ornaments such as ★ or 乂 if you want more personality. You can also test shortened variants so you never lose your best letters to silent truncation. This is especially useful when adapting a clan prefix across team members.</p><p>If your goal is a professional esports feel, choose bold serif or double-struck styles, avoid long effects, and keep total width balanced. The result looks intentional, not random, and remains clear on both mobile and emulator displays.</p>",
+      "defaultMode": "builder",
+      "defaultPlatform": "pubg",
+      "defaultFlairTab": "symbols",
+      "examples": [
+        "乂𝕯𝖊𝖑𝖙𝖆乂",
+        "★𝓢𝓬𝓸𝓾𝓽★",
+        "𝕻𝖚𝖑𝖘𝖊",
+        "𒆜𝔽𝕣𝕠𝕤𝕥",
+        "𝓥𝓮𝓬𝓽𝓸𝓻",
+        "★𝕿𝖆𝖓𝖌𝖔",
+        "乂𝓡𝓮𝓬𝓸𝓷",
+        "𝕮𝖔𝖇𝖗𝖆",
+        "✦𝔸𝕣𝕔𝕥𝕚𝕔✦"
+      ],
+      "faq": [
+        {
+          "q": "How long can a PUBG Mobile name be?",
+          "a": "A 15-character target is a reliable limit for styled names. Staying under that range helps avoid clipping and rename errors."
+        },
+        {
+          "q": "Should I avoid spaces in PUBG names?",
+          "a": "Yes for consistency. No-space formats are easier to paste and less likely to break across devices or regions."
+        },
+        {
+          "q": "Do fancy Unicode names affect gameplay?",
+          "a": "No gameplay advantage, but a clear and distinct name helps teammates identify you faster in hectic fights."
+        }
+      ],
+      "related": [
+        "free-fire-name-generator",
+        "valorant-name-generator",
+        "fortnite-name-generator",
+        "double-struck-text",
+        "star-symbols",
+        "crown-symbols"
+      ]
+    },
+    {
+      "slug": "valorant-name-generator",
+      "type": "game",
+      "title": "Valorant Name Generator — Stylish Riot ID Text Ideas | Fonted",
+      "description": "Generate stylish Valorant-inspired names with clean Unicode typography. Build tags that stay readable under a practical 16-character design target.",
+      "h1": "Valorant name generator",
+      "h1Html": "Valorant <em>name generator</em>",
+      "eyebrow": "Riot style · 16 characters",
+      "sub": "Craft a sharp tactical alias with minimal ornament and high readability for scoreboards, kill feed, and party voice callouts.",
+      "intro": "<p>Valorant aesthetics lean clean and intentional, so your name should feel precise rather than noisy. Even when players experiment with Unicode letterforms, the best tags still read instantly during clutch moments. A practical build target is <strong>16 characters</strong>, giving enough room for a signature word and compact flair without crowding the scoreboard. In competitive environments, clarity under pressure beats novelty every time.</p><p>Fonted helps you compare refined typography options quickly: bold serif for authority, double-struck for high-tech identity, script for contrast, or small caps for understated style. Start with a base alias you can communicate easily in comms, then test one decorative variant for profile branding. If the styled option is harder to call out verbally, simplify it before finalizing.</p><p>For a pro-looking result, keep symbols sparse, avoid excessive combining marks, and maintain consistent character width. Your Riot-style identity should look memorable in lobbies, but still be instantly legible when teammates need to read it in under a second.</p>",
+      "defaultMode": "builder",
+      "defaultPlatform": "valorant",
+      "defaultFlairTab": "symbols",
+      "examples": [
+        "𝕍𝕒𝕟𝕥𝕒",
+        "★𝕂𝕖𝕪𝕤★",
+        "𝓢𝓹𝓲𝓴𝓮",
+        "✦𝔸𝕚𝕞✦",
+        "𝔽𝕝𝕒𝕟𝕜",
+        "★𝓡𝓮𝓬𝓸𝓷",
+        "𝕮𝖑𝖚𝖙𝖈𝖍",
+        "𝕬𝖓𝖌𝖑𝖊",
+        "✧𝕍𝕠𝕚𝕕✧"
+      ],
+      "faq": [
+        {
+          "q": "What style looks most professional for Valorant names?",
+          "a": "Minimal styles with clear letterforms work best. Bold serif, small caps, or subtle symbol accents fit the tactical visual tone."
+        },
+        {
+          "q": "How many characters should I target?",
+          "a": "A 16-character design target keeps names readable and flexible while avoiding overlong strings."
+        },
+        {
+          "q": "Are heavy glitch fonts good for ranked?",
+          "a": "Usually no. Zalgo-like effects reduce readability and can make communication harder in competitive play."
+        }
+      ],
+      "related": [
+        "fortnite-name-generator",
+        "pubg-mobile-name-generator",
+        "small-caps-generator",
+        "double-struck-text",
+        "strikethrough-text",
+        "star-symbols"
+      ]
+    },
+    {
+      "slug": "fortnite-name-generator",
+      "type": "game",
+      "title": "Fortnite Name Generator — Cool Epic-Style Display Names | Fonted",
+      "description": "Build cool Fortnite-style names with Unicode fonts and symbols. Optimize for a 16-character target and strong readability in squads and clips.",
+      "h1": "Fortnite name generator",
+      "h1Html": "Fortnite <em>name generator</em>",
+      "eyebrow": "Epic vibe · 16 characters",
+      "sub": "Create a clean, streamer-friendly Fortnite alias with stylish text that still reads quickly in eliminations and highlight clips.",
+      "intro": "<p>Fortnite names often become part of your creator identity, not just a match label. Whether you play ranked, creative maps, or stream highlights, your display name shows up in overlays, social clips, and party invites. That means your style should be distinctive but immediately readable. A balanced approach is to design around <strong>16 characters</strong>, keeping enough room for identity while avoiding clutter.</p><p>Fonted lets you test multiple naming directions quickly: edgy and bold for competitive branding, soft script for creative content, or all-caps stylized forms for high impact in thumbnails. Start with one core nickname, then build 2-3 themed variants for different contexts. If a version looks great in profile but hard to read in elimination feed, trim symbols and keep the strongest letters.</p><p>Good Fortnite names feel intentional. Use one framing symbol at most, keep spacing consistent, and choose fonts that hold up at small sizes. The goal is a name viewers remember after one match, not one they have to decode.</p>",
+      "defaultMode": "builder",
+      "defaultPlatform": "fortnite",
+      "defaultFlairTab": "symbols",
+      "examples": [
+        "★𝔽𝕣𝕠𝕤𝕥★",
+        "𝕾𝖙𝖔𝖗𝖒",
+        "✦𝓚𝓲𝓷𝓰✦",
+        "𝓖𝓵𝓲𝓭𝓮",
+        "★𝕽𝖚𝖘𝖍",
+        "𝕮𝖗𝖆𝖓𝖐",
+        "✧𝔹𝕦𝕚𝕝𝕕✧",
+        "𝓔𝓬𝓱𝓸",
+        "★𝕍𝕠𝕝𝕥★"
+      ],
+      "faq": [
+        {
+          "q": "What makes a Fortnite name good for content creators?",
+          "a": "Short, punchy names with high readability perform better in clips, streams, and social thumbnails."
+        },
+        {
+          "q": "Should I use lots of symbols?",
+          "a": "Keep it light. One accent symbol is usually enough; too many symbols can make your name look messy in-game."
+        },
+        {
+          "q": "Is a 16-character target reasonable?",
+          "a": "Yes, it is a strong practical target for stylish aliases that still fit common display contexts cleanly."
+        }
+      ],
+      "related": [
+        "valorant-name-generator",
+        "pubg-mobile-name-generator",
+        "roblox-font-generator",
+        "bold-text-generator",
+        "cool-symbols-copy-paste",
+        "crown-symbols"
+      ]
+    },
+    {
+      "slug": "roblox-font-generator",
+      "type": "game",
+      "title": "Roblox Font Generator — Stylish Usernames & Display Names | Fonted",
+      "description": "Create Roblox-ready stylish text for display names and profile content. Designed for a practical 20-character no-space name workflow with readable Unicode styles.",
+      "h1": "Roblox font generator",
+      "h1Html": "Roblox <em>font generator</em>",
+      "eyebrow": "Roblox identity · 20 characters",
+      "sub": "Generate clean Roblox display-name styles with a no-space approach and social-friendly text you can reuse in groups and bios.",
+      "intro": "<p>Roblox players often maintain one identity across games, groups, and social links, so consistent styling matters. Unlike one-off shooter tags, your Roblox name can become long-term branding tied to avatars, UGC, and creator presence. A reliable approach is designing around <strong>20 characters</strong> and avoiding spaces for smoother copy-paste behavior, especially when moving between mobile and desktop clients.</p><p>Fonted makes this easy by giving you preview-friendly Unicode styles that stay readable in profile cards, in-game player lists, and friend search views. Start with a plain core alias, then test one stylized version using bold or script letters. If your preferred style feels too ornate, switch to small caps or double-struck for a cleaner look that still stands out.</p><p>For Roblox, readability and consistency beat extreme decoration. Keep your signature style repeatable across group ranks, profile bios, and social handles. That way, players recognize you instantly no matter which experience they encounter you in.</p>",
+      "defaultMode": "builder",
+      "defaultPlatform": "roblox",
+      "defaultFlairTab": "symbols",
+      "examples": [
+        "𝕽𝖔𝖇𝖑𝖔𝖝𝕻𝖗𝖔",
+        "★𝓑𝓵𝓸𝔁★",
+        "𝓐𝓿𝓪𝓽𝓪𝓻𝓧",
+        "✦𝔹𝕦𝕚𝕝𝕕𝕖𝕣✦",
+        "𝕲𝖊𝖆𝖗𝕶𝖎𝖉",
+        "★𝕽𝖔𝖌𝖚𝖊𝕽𝕭𝕏",
+        "𝓞𝓫𝔂𝓜𝓪𝓼𝓽𝓮𝓻",
+        "✧𝕍𝕠𝕩𝕖𝕝✧",
+        "𝔻𝕣𝕖𝕒𝕞ℝ𝔹𝕏"
+      ],
+      "faq": [
+        {
+          "q": "Can I use fancy fonts in Roblox display names?",
+          "a": "Many Unicode styles work in display-related fields, but compatibility can vary by surface and update."
+        },
+        {
+          "q": "Why use no spaces for Roblox styling?",
+          "a": "No-space names are easier to keep consistent across clients and less likely to paste with unexpected breaks."
+        },
+        {
+          "q": "What length should I target?",
+          "a": "A 20-character target gives room for style while staying manageable across profile and in-game displays."
+        }
+      ],
+      "related": [
+        "discord-font-generator",
+        "fortnite-name-generator",
+        "small-caps-generator",
+        "bubble-text-generator",
+        "aesthetic-fonts",
+        "cool-symbols-copy-paste"
+      ]
+    },
+    {
+      "slug": "discord-font-generator",
+      "type": "game",
+      "title": "Discord Font Generator — Stylish Nicknames, Status, and Bio Text | Fonted",
+      "description": "Generate Discord-friendly fancy text for nicknames, display names, status, and profile bio. Build up to a 32-character nickname style with broad Unicode readability.",
+      "h1": "Discord font generator",
+      "h1Html": "Discord <em>font generator</em>",
+      "eyebrow": "Servers · profile · status",
+      "sub": "Make your Discord identity stand out with readable Unicode styles for nicknames and profile text across desktop and mobile.",
+      "intro": "<p>Discord gives more flexibility than most games, so you can style not only your nickname but also profile bio and custom status. With a practical nickname target around <strong>32 characters</strong>, you can combine a clear alias, subtle symbols, and one distinct font style without squeezing everything together. The key is not maximum decoration, but visual hierarchy: one strong name, one light accent, and clean spacing.</p><p>Fonted helps you build that hierarchy fast. Try a bold primary nickname for server readability, then create softer variants for bio lines and status text. If you moderate or run communities, a consistent style system also helps members recognize roles quickly. For example, keep staff tags minimal while giving personal profiles a slightly more expressive script or small-caps look.</p><p>Because Discord runs across many devices and themes, test for readability in both dark and light interfaces. Avoid ultra-dense effects and keep your most important word easy to read at a glance. A polished Discord profile should feel personal, organized, and unmistakably yours.</p>",
+      "defaultMode": "builder",
+      "defaultPlatform": "discord",
+      "defaultFlairTab": "symbols",
+      "examples": [
+        "★𝕄𝕠𝕕𝕖𝕣𝕒𝕥𝕠𝕣★",
+        "𝓢𝓽𝓪𝓻𝓭𝓾𝓼𝓽",
+        "✦𝔻𝕚𝕤𝕔𝕠𝕣𝕕✦",
+        "𝕲𝖚𝖎𝖑𝖉𝕷𝖊𝖆𝖉",
+        "★𝕍𝕠𝕚𝕔𝕖𝕄𝕒𝕘𝕖★",
+        "𝓑𝓲𝓸 𝓑𝓵𝓸𝓸𝓶",
+        "✧𝕊𝕥𝕒𝕥𝕦𝕤✧",
+        "𝔻𝕒𝕣𝕜ℂ𝕙𝕒𝕥",
+        "★𝓢𝓮𝓻𝓿𝓮𝓻𝓞𝓦𝓛★"
+      ],
+      "faq": [
+        {
+          "q": "Where can I use fancy text in Discord?",
+          "a": "You can use it in nicknames, display names, bios, and often in custom status text, depending on server permissions."
+        },
+        {
+          "q": "How long should a Discord nickname be?",
+          "a": "A 32-character target is practical for stylish names that still look clean in member lists."
+        },
+        {
+          "q": "Will all members see the same styling?",
+          "a": "Most common Unicode styles render consistently, but rare characters may differ slightly by platform and font fallback."
+        }
+      ],
+      "related": [
+        "roblox-font-generator",
+        "instagram-fonts",
+        "twitter-x-fonts",
+        "small-caps-generator",
+        "strikethrough-text",
+        "heart-symbols"
+      ]
+    }
+  ]
+}
