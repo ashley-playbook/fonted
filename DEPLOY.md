@@ -16,9 +16,9 @@ Cloudflare now deploys static sites through **Workers & Pages** with a build + `
 | Setting | Value |
 |---------|--------|
 | **Project name** | `fonted` |
-| **Root directory** | `glyph` ← expand Advanced settings if needed |
-| **Build command** | `npm install && node build.js` |
-| **Deploy command** | `npx wrangler deploy` |
+| **Root directory** | *(leave blank — repo root)* |
+| **Build command** | `npm run build` |
+| **Deploy command** | `npm exec --prefix glyph -- wrangler deploy` |
 | **Production branch** | `main` |
 
 5. **Environment variables** (recommended):
