@@ -5,9 +5,13 @@
   "scripts": {
     "build": "node build.js",
     "validate": "node build.js --validate",
-    "generate": "node scripts/generate-pages.js"
+    "generate": "node scripts/generate-pages.js",
+    "deploy": "node build.js && wrangler deploy"
   },
   "engines": {
     "node": ">=18"
+  },
+  "devDependencies": {
+    "wrangler": "^4.24.4"
   }
 }
