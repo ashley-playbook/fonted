@@ -1,5 +1,6 @@
 # Build output — Cloudflare Pages builds this on deploy
 glyph/dist/
+glyph/node_modules/
 
 # OS / editor
 .DS_Store
