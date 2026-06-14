@@ -1,12 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
-  <rect width="1200" height="630" fill="#faf7f2"/>
-  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
-    <circle cx="1.1" cy="1.1" r="1.1" fill="rgba(14,147,132,.08)"/>
-  </pattern>
-  <rect width="1200" height="630" fill="url(#dots)"/>
-  <rect x="80" y="80" width="72" height="72" rx="18" fill="#0e9384"/>
-  <text x="116" y="132" text-anchor="middle" fill="#fff" font-family="system-ui,sans-serif" font-size="42" font-weight="700">F</text>
-  <text x="180" y="132" fill="#181420" font-family="system-ui,sans-serif" font-size="56" font-weight="800">Fonted</text>
-  <text x="80" y="240" fill="#181420" font-family="system-ui,sans-serif" font-size="48" font-weight="800">Fancy text &amp; username generator</text>
-  <text x="80" y="310" fill="#4a4358" font-family="system-ui,sans-serif" font-size="28">Unicode fonts with live game compatibility checks</text>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#141f48"/>
+      <stop offset="0.5" stop-color="#243b8a"/>
+      <stop offset="1" stop-color="#1a2d6b"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#ffe566"/>
+      <stop offset="1" stop-color="#e8a820"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="200" cy="120" r="180" fill="rgba(79,195,247,.15)"/>
+  <circle cx="1000" cy="80" r="140" fill="rgba(255,201,56,.12)"/>
+  <rect x="80" y="80" width="72" height="72" rx="18" fill="url(#gold)" stroke="#152347" stroke-width="4"/>
+  <text x="116" y="132" text-anchor="middle" fill="#1a2550" font-family="system-ui,sans-serif" font-size="42" font-weight="900">F</text>
+  <text x="180" y="132" fill="#f4f7ff" font-family="system-ui,sans-serif" font-size="56" font-weight="900">Fonted</text>
+  <text x="80" y="240" fill="#f4f7ff" font-family="system-ui,sans-serif" font-size="48" font-weight="900">Fancy text &amp; username generator</text>
+  <text x="80" y="310" fill="#c5d4f5" font-family="system-ui,sans-serif" font-size="28" font-weight="700">Unicode fonts with live game compatibility checks</text>
 </svg>
