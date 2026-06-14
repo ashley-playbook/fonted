@@ -143,7 +143,9 @@
   .chip:hover{border-color:var(--accent-2);color:var(--accent-2)}
   .chip.on{background:var(--grad-sky);border-color:#152347;color:#fff}
 
-  /* ---------- Main grid ---------- */
+  /* Light tool panels: dark text (page body uses light ink on blue bg) */
+  .grid,.builder,.results,.compat,.assembled,.letterRow,.flairRow,.flairSection{color:#1a2d5c}
+
   .grid{display:grid;grid-template-columns:1fr 300px;gap:24px;padding:24px 0 48px;align-items:start}
   @media(max-width:940px){.grid{grid-template-columns:1fr}}
 
@@ -233,7 +235,7 @@
     border:2px solid #152347;border-radius:var(--radius);margin-bottom:12px;padding:12px 16px;
     display:flex;align-items:center;gap:14px;box-shadow:var(--shadow-soft);
   }
-  .fr-glyph{background:#fff!important;font-size:24px}
+  .fr-glyph{background:#fff!important;font-size:24px;color:#1a2d5c!important}
   .frRemove{
     margin-left:auto;border:2px solid #152347;background:#fff;color:#3d5088;
     padding:7px 13px;border-radius:10px;font-size:13px;font-weight:800;cursor:pointer;
@@ -255,7 +257,7 @@
   }
   .letterHead .glyph{
     width:46px;height:46px;border-radius:12px;background:#fff;border:2px solid #152347;
-    display:grid;place-items:center;font-size:24px;flex-shrink:0;
+    display:grid;place-items:center;font-size:24px;flex-shrink:0;color:#1a2d5c;
     box-shadow:0 2px 0 #152347;
   }
   .letterHead .meta{flex:1;min-width:0}
@@ -273,6 +275,7 @@
     border:2px solid #152347;background:#fff;border-radius:12px;
     min-width:48px;height:48px;padding:0 12px;display:grid;place-items:center;
     font-size:22px;cursor:pointer;transition:.12s;line-height:1;box-shadow:0 2px 0 #152347;
+    color:#1a2d5c;
   }
   .opt:hover{background:var(--grad-sky);color:#fff;border-color:#152347}
   .opt.sel{background:var(--grad-sky);border-color:#152347;color:#fff;box-shadow:0 2px 0 #152347, var(--shadow-glow)}
@@ -345,7 +348,7 @@
   .emojiTile{
     border:2px solid #152347;background:#fff;border-radius:12px;height:50px;
     font-size:24px;cursor:pointer;transition:.12s;display:grid;place-items:center;line-height:1;
-    box-shadow:0 2px 0 #152347;
+    box-shadow:0 2px 0 #152347;color:#1a2d5c;
   }
   .emojiTile:hover{background:var(--grad-sky);transform:translateY(-2px)}
   .emojiTile.sel{border-color:#152347;background:var(--grad-gold);box-shadow:0 2px 0 #152347}
