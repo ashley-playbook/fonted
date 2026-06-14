@@ -270,6 +270,7 @@
 
   .hubBlock .hubGroup{margin-bottom:18px}
   .hubBlock h3{font-size:14px;text-transform:uppercase;letter-spacing:.08em;color:#a99f8c;margin-bottom:8px}
+  .hubBlock{margin-top:8px;padding-top:32px;border-top:1px solid var(--line)}
 
   .ad-placeholder{min-height:250px}
   .adslot[data-ad-lazy]{content-visibility:auto;contain-intrinsic-size:300px 250px}

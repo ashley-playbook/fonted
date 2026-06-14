@@ -82,41 +82,40 @@ function buildExamplesBlock(page) {
   </section>`;
 }
 
-function buildIntroBlock(page, allPages) {
-  let html = "";
-  if (page.intro) {
-    const intro = page.intro.replace(/<!--\s*GENERATED\s*-->/g, "");
-    html += `<section class="contentBlock introBlock" aria-label="About this generator">
+function buildIntroBlock(page) {
+  if (!page.intro) return "";
+  const intro = page.intro.replace(/<!--\s*GENERATED\s*-->/g, "");
+  return `<section class="contentBlock introBlock" aria-label="About this generator">
     <div class="prose">${intro}</div>
   </section>`;
-  }
-  if (page.type === "home" && allPages) {
-    const tools = allPages.filter((p) => p.type !== "legal" && p.slug);
-    const groups = [
-      { label: "Game name generators", types: ["game"] },
-      { label: "Game + style combos", types: ["game-style"] },
-      { label: "Social & bio fonts", types: ["social"] },
-      { label: "Text style generators", types: ["style"] },
-      { label: "Symbols & flair", types: ["symbol", "symbols"] },
-    ];
-    const sections = groups
-      .map((g) => {
-        const links = tools
-          .filter((p) => g.types.includes(p.type))
-          .map((p) => `<a href="${p.slug}/">${escapeHtml(p.h1)}</a>`)
-          .join("\n          ");
-        if (!links) return "";
-        return `<div class="hubGroup"><h3>${g.label}</h3><div class="relatedGrid">${links}</div></div>`;
-      })
-      .filter(Boolean)
-      .join("\n      ");
-    html += `<section class="contentBlock hubBlock" aria-labelledby="hub-heading">
+}
+
+function buildHubBlock(page, allPages) {
+  if (page.type !== "home" || !allPages) return "";
+  const tools = allPages.filter((p) => p.type !== "legal" && p.slug);
+  const groups = [
+    { label: "Game name generators", types: ["game"] },
+    { label: "Game + style combos", types: ["game-style"] },
+    { label: "Social & bio fonts", types: ["social"] },
+    { label: "Text style generators", types: ["style"] },
+    { label: "Symbols & flair", types: ["symbol", "symbols"] },
+  ];
+  const sections = groups
+    .map((g) => {
+      const links = tools
+        .filter((p) => g.types.includes(p.type))
+        .map((p) => `<a href="${p.slug}/">${escapeHtml(p.h1)}</a>`)
+        .join("\n          ");
+      if (!links) return "";
+      return `<div class="hubGroup"><h3>${g.label}</h3><div class="relatedGrid">${links}</div></div>`;
+    })
+    .filter(Boolean)
+    .join("\n      ");
+  return `<section class="contentBlock hubBlock" aria-labelledby="hub-heading">
       <h2 id="hub-heading">All generators</h2>
       <p class="contentLead">Jump to a page tuned for your platform or style — each includes platform-specific limits and copy-ready examples.</p>
       ${sections}
     </section>`;
-  }
-  return html;
 }
 
 function buildBreadcrumbs(page, prefix) {
@@ -291,7 +290,8 @@ function buildPage(page, allPages) {
   });
 
   const relatedBlock = buildRelated(page, allPages, prefix);
-  const contentBlock = buildIntroBlock(page, allPages) + buildExamplesBlock(page);
+  const contentBlock = buildIntroBlock(page) + buildExamplesBlock(page);
+  const hubBlock = buildHubBlock(page, allPages);
 
   const html = render(pageTemplate, {
     head,
@@ -301,6 +301,7 @@ function buildPage(page, allPages) {
     h1Html: page.h1Html || escapeHtml(page.h1),
     sub: page.sub || "",
     contentBlock,
+    hubBlock,
     faq: render(partials.faq, { faqSectionHtml: faq.html }),
     footer: render(partials.footer, {
       siteName: config.site.name,
