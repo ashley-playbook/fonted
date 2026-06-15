@@ -217,6 +217,11 @@ function buildOgTags(page, canonicalUrl) {
 <meta name="twitter:image" content="${image}">`;
 }
 
+function cssVersion() {
+  const cssPath = path.join(ROOT, "css", "glyph.css");
+  return Math.floor(fs.statSync(cssPath).mtimeMs / 1000).toString();
+}
+
 function buildLegalPage(page) {
   const prefix = assetPrefix(page.slug);
   const canonicalUrl = pageUrl(page.slug);
@@ -225,6 +230,7 @@ function buildLegalPage(page) {
     description: page.description,
     canonicalUrl,
     assetPrefix: prefix,
+    cssVersion: cssVersion(),
     extraHead: buildOgTags(page, canonicalUrl),
   });
   return `<!DOCTYPE html>
@@ -286,6 +292,7 @@ function buildPage(page, allPages) {
     description: page.description,
     canonicalUrl,
     assetPrefix: prefix,
+    cssVersion: cssVersion(),
     extraHead,
   });
 
