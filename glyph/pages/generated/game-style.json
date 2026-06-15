@@ -9,34 +9,34 @@
       "h1Html": "Brawl Stars <em>Bold Script</em> names",
       "eyebrow": "Brawl Stars · Bold Script · ~15 chars",
       "sub": "Generate bold script nicknames tuned for Brawl Stars — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Bold Script</strong> letters are a popular pick for Brawl Stars players who want a tag that reads elegant and creator-friendly. Unlike generic font sites, Fonted pre-checks your assembled string against Brawl Stars limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Spaces are allowed in Brawl Stars display names. Plan for roughly <strong>15 characters</strong> total. club tag and rename contexts reward names that stay legible at small size. Start with a short core word, apply Bold Script to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Brawl Stars:</strong> Profile → Settings (gear) → Change Name → paste → confirm in preview → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Brawl Stars players often lean on <strong>Bold Script</strong> when they need a name that still reads elegant and creator-friendly in busy UI. Rather than guessing whether a copied tag will fit, you can assemble it here and let Fonted flag anything that breaks Brawl Stars rules.</p>\n<p>Spaces are allowed in Brawl Stars display names. Aim for roughly <strong>15 characters</strong> including spaces. Club tags show up beside your name in matches, so a readable core word matters more than stacking symbols. Script curves look great in profiles but can crowd narrow rename fields if the base word is long.</p>\n<p><strong>How to apply in Brawl Stars:</strong> Profile → Settings (gear) → Change Name → paste → confirm in preview → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "brawl",
       "defaultStyle": "Bold Script",
       "defaultFlairTab": "symbols",
       "defaultInput": "brawl",
       "examples": [
-        "꧁braw꧂",
-        "★braw★",
-        "braw",
-        "꧁Bold꧂"
+        "꧁Viper꧂",
+        "★Myth★",
+        "乂Nova乂",
+        "✦Rush✦"
       ],
       "faq": [
         {
           "q": "Does Bold Script work in Brawl Stars?",
-          "a": "Math-style Bold Script Unicode usually renders in Brawl Stars, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Most Bold Script letters paste cleanly into Brawl Stars, though rare symbol blocks and emoji can fail on older phones. Use the compatibility row to catch problem characters early."
         },
         {
           "q": "What is the Brawl Stars name length limit?",
-          "a": "Community testing suggests about 15 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Players generally report a ~15-character cap. Treat that as a planning guide and verify in the actual rename screen before spending currency."
         },
         {
           "q": "Can I use spaces in Brawl Stars with this style?",
-          "a": "Spaces are generally accepted, but long styled strings can still truncate. Shorter names with Bold Script letters tend to survive renames."
+          "a": "Brawl Stars generally allows spaces, yet styled text can push you past the practical limit faster than plain letters."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Supercell rarely bans accounts for decorative Unicode alone, but offensive or impersonating club tags can be reported. Keep names within Brawl Stars community standards."
         }
       ],
       "related": [
@@ -57,34 +57,34 @@
       "h1Html": "Brawl Stars <em>Bold Serif</em> names",
       "eyebrow": "Brawl Stars · Bold Serif · ~15 chars",
       "sub": "Generate bold serif nicknames tuned for Brawl Stars — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Bold Serif</strong> letters are a popular pick for Brawl Stars players who want a tag that reads strong and readable in fast-moving UI. Unlike generic font sites, Fonted pre-checks your assembled string against Brawl Stars limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Spaces are allowed in Brawl Stars display names. Plan for roughly <strong>15 characters</strong> total. club tag and rename contexts reward names that stay legible at small size. Start with a short core word, apply Bold Serif to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Brawl Stars:</strong> Profile → Settings (gear) → Change Name → paste → confirm in preview → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Looking for a bold serif look in Brawl Stars? This page defaults to that style and checks your finished tag against the quirks that trip people up — character caps, risky symbols, and paste failures on mobile.</p>\n<p>Club tags show up beside your name in matches, so a readable core word matters more than stacking symbols. Bold Serif math letters are among the most widely supported Unicode styles in mobile games. When you style with <strong>Bold Serif</strong>, start from a short word, paste-test in the rename preview, and trim symbols if the tag feels crowded in gem cost views.</p>\n<p><strong>How to apply in Brawl Stars:</strong> Profile → Settings (gear) → Change Name → paste → confirm in preview → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "brawl",
       "defaultStyle": "Bold Serif",
       "defaultFlairTab": "symbols",
       "defaultInput": "brawl",
       "examples": [
-        "꧁braw꧂",
-        "★braw★",
-        "braw",
-        "꧁Bold꧂"
+        "꧁Nova꧂",
+        "★Rush★",
+        "乂Viper乂",
+        "✦Myth✦"
       ],
       "faq": [
         {
           "q": "Does Bold Serif work in Brawl Stars?",
-          "a": "Math-style Bold Serif Unicode usually renders in Brawl Stars, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Most Bold Serif letters paste cleanly into Brawl Stars, though rare symbol blocks and emoji can fail on older phones. Use the compatibility row to catch problem characters early."
         },
         {
           "q": "What is the Brawl Stars name length limit?",
-          "a": "Community testing suggests about 15 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Players generally report a ~15-character cap. Treat that as a planning guide and verify in the actual rename screen before spending currency."
         },
         {
           "q": "Can I use spaces in Brawl Stars with this style?",
-          "a": "Spaces are generally accepted, but long styled strings can still truncate. Shorter names with Bold Serif letters tend to survive renames."
+          "a": "Brawl Stars generally allows spaces, yet styled text can push you past the practical limit faster than plain letters."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Supercell rarely bans accounts for decorative Unicode alone, but offensive or impersonating club tags can be reported. Keep names within Brawl Stars community standards."
         }
       ],
       "related": [
@@ -105,34 +105,34 @@
       "h1Html": "Brawl Stars <em>Bubbles</em> names",
       "eyebrow": "Brawl Stars · Bubbles · ~15 chars",
       "sub": "Generate bubbles nicknames tuned for Brawl Stars — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Bubbles</strong> letters are a popular pick for Brawl Stars players who want a tag that reads playful but may box out in some games — checker flags it. Unlike generic font sites, Fonted pre-checks your assembled string against Brawl Stars limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Spaces are allowed in Brawl Stars display names. Plan for roughly <strong>15 characters</strong> total. club tag and rename contexts reward names that stay legible at small size. Start with a short core word, apply Bubbles to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Brawl Stars:</strong> Profile → Settings (gear) → Change Name → paste → confirm in preview → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Looking for a bubbles look in Brawl Stars? This page defaults to that style and checks your finished tag against the quirks that trip people up — character caps, risky symbols, and paste failures on mobile.</p>\n<p><strong>How to apply in Brawl Stars:</strong> Profile → Settings (gear) → Change Name → paste → confirm in preview → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "brawl",
       "defaultStyle": "Bubbles",
       "defaultFlairTab": "symbols",
       "defaultInput": "brawl",
       "examples": [
-        "꧁braw꧂",
-        "★braw★",
-        "braw",
-        "꧁Bubbles꧂"
+        "꧁Nova꧂",
+        "★Rush★",
+        "乂Viper乂",
+        "✦Myth✦"
       ],
       "faq": [
         {
           "q": "Does Bubbles work in Brawl Stars?",
-          "a": "Math-style Bubbles Unicode usually renders in Brawl Stars, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Most Bubbles letters paste cleanly into Brawl Stars, though rare symbol blocks and emoji can fail on older phones. Use the compatibility row to catch problem characters early."
         },
         {
           "q": "What is the Brawl Stars name length limit?",
-          "a": "Community testing suggests about 15 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Community testing points to about 15 characters. Paste into the in-game rename field to confirm — publishers rarely show a live counter."
         },
         {
           "q": "Can I use spaces in Brawl Stars with this style?",
-          "a": "Spaces are generally accepted, but long styled strings can still truncate. Shorter names with Bubbles letters tend to survive renames."
+          "a": "Spaces are usually accepted in Brawl Stars, but long Bubbles strings can still truncate. Shorter cores survive renames more reliably."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Supercell rarely bans accounts for decorative Unicode alone, but offensive or impersonating club tags can be reported. Keep names within Brawl Stars community standards."
         }
       ],
       "related": [
@@ -153,34 +153,34 @@
       "h1Html": "Brawl Stars <em>Double Struck</em> names",
       "eyebrow": "Brawl Stars · Double Struck · ~15 chars",
       "sub": "Generate double struck nicknames tuned for Brawl Stars — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Double Struck</strong> letters are a popular pick for Brawl Stars players who want a tag that reads clean blackboard-bold tech look. Unlike generic font sites, Fonted pre-checks your assembled string against Brawl Stars limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Spaces are allowed in Brawl Stars display names. Plan for roughly <strong>15 characters</strong> total. club tag and rename contexts reward names that stay legible at small size. Start with a short core word, apply Double Struck to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Brawl Stars:</strong> Profile → Settings (gear) → Change Name → paste → confirm in preview → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Looking for a double struck look in Brawl Stars? This page defaults to that style and checks your finished tag against the quirks that trip people up — character caps, risky symbols, and paste failures on mobile.</p>\n<p>Most players budget around <strong>15 characters</strong> with spaces allowed. Spaces are allowed in Brawl Stars display names. Double-struck letters can read as extra-wide on some Android clients, eating into tight character budgets faster. Meanwhile, club tags show up beside your name in matches, so a readable core word matters more than stacking symbols.</p>\n<p><strong>How to apply in Brawl Stars:</strong> Profile → Settings (gear) → Change Name → paste → confirm in preview → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "brawl",
       "defaultStyle": "Double Struck",
       "defaultFlairTab": "symbols",
       "defaultInput": "brawl",
       "examples": [
-        "꧁braw꧂",
-        "★braw★",
-        "braw",
-        "꧁Double꧂"
+        "꧁Myth꧂",
+        "★Nova★",
+        "乂Rush乂",
+        "✦Viper✦"
       ],
       "faq": [
         {
           "q": "Does Double Struck work in Brawl Stars?",
-          "a": "Math-style Double Struck Unicode usually renders in Brawl Stars, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Double Struck is widely used in Brawl Stars tags, but not every decorative block is safe — the checker highlights emoji and symbols that often show as empty boxes."
         },
         {
           "q": "What is the Brawl Stars name length limit?",
-          "a": "Community testing suggests about 15 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Community testing points to about 15 characters. Paste into the in-game rename field to confirm — publishers rarely show a live counter."
         },
         {
           "q": "Can I use spaces in Brawl Stars with this style?",
-          "a": "Spaces are generally accepted, but long styled strings can still truncate. Shorter names with Double Struck letters tend to survive renames."
+          "a": "Spaces are usually accepted in Brawl Stars, but long Double Struck strings can still truncate. Shorter cores survive renames more reliably."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Supercell rarely bans accounts for decorative Unicode alone, but offensive or impersonating club tags can be reported. Keep names within Brawl Stars community standards."
         }
       ],
       "related": [
@@ -201,34 +201,34 @@
       "h1Html": "Brawl Stars <em>Fraktur</em> names",
       "eyebrow": "Brawl Stars · Fraktur · ~15 chars",
       "sub": "Generate fraktur nicknames tuned for Brawl Stars — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Fraktur</strong> letters are a popular pick for Brawl Stars players who want a tag that reads dark, medieval, and high-contrast. Unlike generic font sites, Fonted pre-checks your assembled string against Brawl Stars limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Spaces are allowed in Brawl Stars display names. Plan for roughly <strong>15 characters</strong> total. club tag and rename contexts reward names that stay legible at small size. Start with a short core word, apply Fraktur to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Brawl Stars:</strong> Profile → Settings (gear) → Change Name → paste → confirm in preview → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Brawl Stars players often lean on <strong>Fraktur</strong> when they need a name that still reads dark, medieval, and high-contrast in busy UI. Rather than guessing whether a copied tag will fit, you can assemble it here and let Fonted flag anything that breaks Brawl Stars rules.</p>\n<p>Club tags show up beside your name in matches, so a readable core word matters more than stacking symbols. Fraktur strokes are striking, yet some moderation filters treat gothic Unicode as suspicious on a fresh account. When you style with <strong>Fraktur</strong>, start from a short word, paste-test in the rename preview, and trim symbols if the tag feels crowded in gem cost views.</p>\n<p><strong>How to apply in Brawl Stars:</strong> Profile → Settings (gear) → Change Name → paste → confirm in preview → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "brawl",
       "defaultStyle": "Fraktur",
       "defaultFlairTab": "symbols",
       "defaultInput": "brawl",
       "examples": [
-        "꧁braw꧂",
-        "★braw★",
-        "braw",
-        "꧁Fraktur꧂"
+        "꧁Nova꧂",
+        "★Rush★",
+        "乂Viper乂",
+        "✦Myth✦"
       ],
       "faq": [
         {
           "q": "Does Fraktur work in Brawl Stars?",
-          "a": "Math-style Fraktur Unicode usually renders in Brawl Stars, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Math-style Fraktur Unicode usually renders in Brawl Stars, but enclosed bubbles, zalgo stacks, and some emoji may box out. Fonted marks those before you paste."
         },
         {
           "q": "What is the Brawl Stars name length limit?",
-          "a": "Community testing suggests about 15 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Expect roughly 15 visible characters based on player reports. Official docs are vague, so always test the final string in Brawl Stars."
         },
         {
           "q": "Can I use spaces in Brawl Stars with this style?",
-          "a": "Spaces are generally accepted, but long styled strings can still truncate. Shorter names with Fraktur letters tend to survive renames."
+          "a": "You can usually include spaces, but count every character — Fraktur styling does not shrink the 15-char budget."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Supercell rarely bans accounts for decorative Unicode alone, but offensive or impersonating club tags can be reported. Keep names within Brawl Stars community standards."
         }
       ],
       "related": [
@@ -249,34 +249,34 @@
       "h1Html": "Brawl Stars <em>Monospace</em> names",
       "eyebrow": "Brawl Stars · Monospace · ~15 chars",
       "sub": "Generate monospace nicknames tuned for Brawl Stars — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Monospace</strong> letters are a popular pick for Brawl Stars players who want a tag that reads coder / terminal aesthetic. Unlike generic font sites, Fonted pre-checks your assembled string against Brawl Stars limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Spaces are allowed in Brawl Stars display names. Plan for roughly <strong>15 characters</strong> total. club tag and rename contexts reward names that stay legible at small size. Start with a short core word, apply Monospace to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Brawl Stars:</strong> Profile → Settings (gear) → Change Name → paste → confirm in preview → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>If you want a Brawl Stars tag that feels coder / terminal aesthetic, <strong>Monospace</strong> is a solid starting point. Fonted lets you preview the full string against Brawl Stars limits before you burn a rename — length, emoji risk, and symbols that box out on phone screens.</p>\n<p>Club tags show up beside your name in matches, so a readable core word matters more than stacking symbols. Monospace Unicode can look like spaced letters on certain clients, so count characters after pasting. When you style with <strong>Monospace</strong>, start from a short word, paste-test in the rename preview, and trim symbols if the tag feels crowded in gem cost views.</p>\n<p><strong>How to apply in Brawl Stars:</strong> Profile → Settings (gear) → Change Name → paste → confirm in preview → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "brawl",
       "defaultStyle": "Monospace",
       "defaultFlairTab": "symbols",
       "defaultInput": "brawl",
       "examples": [
-        "꧁braw꧂",
-        "★braw★",
-        "braw",
-        "꧁Monospace꧂"
+        "꧁Nova꧂",
+        "★Rush★",
+        "乂Viper乂",
+        "✦Myth✦"
       ],
       "faq": [
         {
           "q": "Does Monospace work in Brawl Stars?",
-          "a": "Math-style Monospace Unicode usually renders in Brawl Stars, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Monospace is widely used in Brawl Stars tags, but not every decorative block is safe — the checker highlights emoji and symbols that often show as empty boxes."
         },
         {
           "q": "What is the Brawl Stars name length limit?",
-          "a": "Community testing suggests about 15 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Players generally report a ~15-character cap. Treat that as a planning guide and verify in the actual rename screen before spending currency."
         },
         {
           "q": "Can I use spaces in Brawl Stars with this style?",
-          "a": "Spaces are generally accepted, but long styled strings can still truncate. Shorter names with Monospace letters tend to survive renames."
+          "a": "Spaces are usually accepted in Brawl Stars, but long Monospace strings can still truncate. Shorter cores survive renames more reliably."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Supercell rarely bans accounts for decorative Unicode alone, but offensive or impersonating club tags can be reported. Keep names within Brawl Stars community standards."
         }
       ],
       "related": [
@@ -297,34 +297,34 @@
       "h1Html": "Brawl Stars <em>Sans Bold</em> names",
       "eyebrow": "Brawl Stars · Sans Bold · ~15 chars",
       "sub": "Generate sans bold nicknames tuned for Brawl Stars — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Sans Bold</strong> letters are a popular pick for Brawl Stars players who want a tag that reads modern and legible at small sizes. Unlike generic font sites, Fonted pre-checks your assembled string against Brawl Stars limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Spaces are allowed in Brawl Stars display names. Plan for roughly <strong>15 characters</strong> total. club tag and rename contexts reward names that stay legible at small size. Start with a short core word, apply Sans Bold to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Brawl Stars:</strong> Profile → Settings (gear) → Change Name → paste → confirm in preview → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Brawl Stars players often lean on <strong>Sans Bold</strong> when they need a name that still reads modern and legible at small sizes in busy UI. Rather than guessing whether a copied tag will fit, you can assemble it here and let Fonted flag anything that breaks Brawl Stars rules.</p>\n<p>Spaces are allowed in Brawl Stars display names. Aim for roughly <strong>15 characters</strong> including spaces. Club tags show up beside your name in matches, so a readable core word matters more than stacking symbols. Sans Bold stays crisp in scoreboard rows where serif flourishes would disappear.</p>\n<p><strong>How to apply in Brawl Stars:</strong> Profile → Settings (gear) → Change Name → paste → confirm in preview → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "brawl",
       "defaultStyle": "Sans Bold",
       "defaultFlairTab": "symbols",
       "defaultInput": "brawl",
       "examples": [
-        "꧁braw꧂",
-        "★braw★",
-        "braw",
-        "꧁Sans꧂"
+        "꧁Viper꧂",
+        "★Myth★",
+        "乂Nova乂",
+        "✦Rush✦"
       ],
       "faq": [
         {
           "q": "Does Sans Bold work in Brawl Stars?",
-          "a": "Math-style Sans Bold Unicode usually renders in Brawl Stars, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Sans Bold is widely used in Brawl Stars tags, but not every decorative block is safe — the checker highlights emoji and symbols that often show as empty boxes."
         },
         {
           "q": "What is the Brawl Stars name length limit?",
-          "a": "Community testing suggests about 15 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Community testing points to about 15 characters. Paste into the in-game rename field to confirm — publishers rarely show a live counter."
         },
         {
           "q": "Can I use spaces in Brawl Stars with this style?",
-          "a": "Spaces are generally accepted, but long styled strings can still truncate. Shorter names with Sans Bold letters tend to survive renames."
+          "a": "Spaces are usually accepted in Brawl Stars, but long Sans Bold strings can still truncate. Shorter cores survive renames more reliably."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Supercell rarely bans accounts for decorative Unicode alone, but offensive or impersonating club tags can be reported. Keep names within Brawl Stars community standards."
         }
       ],
       "related": [
@@ -345,34 +345,34 @@
       "h1Html": "Brawl Stars <em>Small Caps</em> names",
       "eyebrow": "Brawl Stars · Small Caps · ~15 chars",
       "sub": "Generate small caps nicknames tuned for Brawl Stars — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Small Caps</strong> letters are a popular pick for Brawl Stars players who want a tag that reads minimal and understated. Unlike generic font sites, Fonted pre-checks your assembled string against Brawl Stars limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Spaces are allowed in Brawl Stars display names. Plan for roughly <strong>15 characters</strong> total. club tag and rename contexts reward names that stay legible at small size. Start with a short core word, apply Small Caps to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Brawl Stars:</strong> Profile → Settings (gear) → Change Name → paste → confirm in preview → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Looking for a small caps look in Brawl Stars? This page defaults to that style and checks your finished tag against the quirks that trip people up — character caps, risky symbols, and paste failures on mobile.</p>\n<p>Club tags show up beside your name in matches, so a readable core word matters more than stacking symbols. Small caps keep a low visual footprint, which helps when you are already near the character cap. When you style with <strong>Small Caps</strong>, start from a short word, paste-test in the rename preview, and trim symbols if the tag feels crowded in gem cost views.</p>\n<p><strong>How to apply in Brawl Stars:</strong> Profile → Settings (gear) → Change Name → paste → confirm in preview → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "brawl",
       "defaultStyle": "Small Caps",
       "defaultFlairTab": "symbols",
       "defaultInput": "brawl",
       "examples": [
-        "꧁braw꧂",
-        "★braw★",
-        "braw",
-        "꧁Small꧂"
+        "꧁Nova꧂",
+        "★Rush★",
+        "乂Viper乂",
+        "✦Myth✦"
       ],
       "faq": [
         {
           "q": "Does Small Caps work in Brawl Stars?",
-          "a": "Math-style Small Caps Unicode usually renders in Brawl Stars, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Most Small Caps letters paste cleanly into Brawl Stars, though rare symbol blocks and emoji can fail on older phones. Use the compatibility row to catch problem characters early."
         },
         {
           "q": "What is the Brawl Stars name length limit?",
-          "a": "Community testing suggests about 15 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Expect roughly 15 visible characters based on player reports. Official docs are vague, so always test the final string in Brawl Stars."
         },
         {
           "q": "Can I use spaces in Brawl Stars with this style?",
-          "a": "Spaces are generally accepted, but long styled strings can still truncate. Shorter names with Small Caps letters tend to survive renames."
+          "a": "Brawl Stars generally allows spaces, yet styled text can push you past the practical limit faster than plain letters."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Supercell rarely bans accounts for decorative Unicode alone, but offensive or impersonating club tags can be reported. Keep names within Brawl Stars community standards."
         }
       ],
       "related": [
@@ -393,34 +393,34 @@
       "h1Html": "Fortnite <em>Bold Script</em> names",
       "eyebrow": "Fortnite · Bold Script · ~16 chars",
       "sub": "Generate bold script nicknames tuned for Fortnite — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Bold Script</strong> letters are a popular pick for Fortnite players who want a tag that reads elegant and creator-friendly. Unlike generic font sites, Fonted pre-checks your assembled string against Fortnite limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Epic display names generally accept spaces; verify in the in-game preview. Plan for roughly <strong>16 characters</strong> total. Epic name and display name contexts reward names that stay legible at small size. Start with a short core word, apply Bold Script to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Fortnite:</strong> Epic account → Display Name → paste → save, then confirm in Fortnite profile. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p><strong>Bold Script</strong> nicknames show up constantly in Epic name and display name contexts. Build yours letter-by-letter or apply the style to a short core word, then confirm it still feels elegant and creator-friendly before you commit in Fortnite.</p>\n<p>Most players budget around <strong>16 characters</strong> with spaces allowed. Epic display names generally accept spaces; verify in the in-game preview. Script curves look great in profiles but can crowd narrow rename fields if the base word is long. Meanwhile, party invites and creator thumbnails pull from your Epic display name, so legibility at small size beats maximum decoration.</p>\n<p><strong>How to apply in Fortnite:</strong> Epic account → Display Name → paste → save, then confirm in Fortnite profile. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "fortnite",
       "defaultStyle": "Bold Script",
       "defaultFlairTab": "symbols",
       "defaultInput": "fortn",
       "examples": [
-        "꧁fort꧂",
-        "★fort★",
-        "fort",
-        "꧁Bold꧂"
+        "꧁Rift꧂",
+        "★Skye★",
+        "乂Bolt乂",
+        "✦Dusk✦"
       ],
       "faq": [
         {
           "q": "Does Bold Script work in Fortnite?",
-          "a": "Math-style Bold Script Unicode usually renders in Fortnite, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Most Bold Script letters paste cleanly into Fortnite, though rare symbol blocks and emoji can fail on older phones. Use the compatibility row to catch problem characters early."
         },
         {
           "q": "What is the Fortnite name length limit?",
-          "a": "Community testing suggests about 16 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Players generally report a ~16-character cap. Treat that as a planning guide and verify in the actual rename screen before spending currency."
         },
         {
           "q": "Can I use spaces in Fortnite with this style?",
-          "a": "Spaces are generally accepted, but long styled strings can still truncate. Shorter names with Bold Script letters tend to survive renames."
+          "a": "Fortnite generally allows spaces, yet styled text can push you past the practical limit faster than plain letters."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Epic cracks down on slurs and deceptive display names, not typical Unicode fonts. Keep your Epic name recognizable to friends in party invites."
         }
       ],
       "related": [
@@ -441,34 +441,34 @@
       "h1Html": "Fortnite <em>Bold Serif</em> names",
       "eyebrow": "Fortnite · Bold Serif · ~16 chars",
       "sub": "Generate bold serif nicknames tuned for Fortnite — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Bold Serif</strong> letters are a popular pick for Fortnite players who want a tag that reads strong and readable in fast-moving UI. Unlike generic font sites, Fonted pre-checks your assembled string against Fortnite limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Epic display names generally accept spaces; verify in the in-game preview. Plan for roughly <strong>16 characters</strong> total. Epic name and display name contexts reward names that stay legible at small size. Start with a short core word, apply Bold Serif to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Fortnite:</strong> Epic account → Display Name → paste → save, then confirm in Fortnite profile. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Fortnite players often lean on <strong>Bold Serif</strong> when they need a name that still reads strong and readable in fast-moving UI in busy UI. Rather than guessing whether a copied tag will fit, you can assemble it here and let Fonted flag anything that breaks Fortnite rules.</p>\n<p>Most players budget around <strong>16 characters</strong> with spaces allowed. Epic display names generally accept spaces; verify in the in-game preview. Bold Serif math letters are among the most widely supported Unicode styles in mobile games. Meanwhile, party invites and creator thumbnails pull from your Epic display name, so legibility at small size beats maximum decoration.</p>\n<p><strong>How to apply in Fortnite:</strong> Epic account → Display Name → paste → save, then confirm in Fortnite profile. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "fortnite",
       "defaultStyle": "Bold Serif",
       "defaultFlairTab": "symbols",
       "defaultInput": "fortn",
       "examples": [
-        "꧁fort꧂",
-        "★fort★",
-        "fort",
-        "꧁Bold꧂"
+        "꧁Rift꧂",
+        "★Skye★",
+        "乂Bolt乂",
+        "✦Dusk✦"
       ],
       "faq": [
         {
           "q": "Does Bold Serif work in Fortnite?",
-          "a": "Math-style Bold Serif Unicode usually renders in Fortnite, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Bold Serif is widely used in Fortnite tags, but not every decorative block is safe — the checker highlights emoji and symbols that often show as empty boxes."
         },
         {
           "q": "What is the Fortnite name length limit?",
-          "a": "Community testing suggests about 16 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Community testing points to about 16 characters. Paste into the in-game rename field to confirm — publishers rarely show a live counter."
         },
         {
           "q": "Can I use spaces in Fortnite with this style?",
-          "a": "Spaces are generally accepted, but long styled strings can still truncate. Shorter names with Bold Serif letters tend to survive renames."
+          "a": "Fortnite generally allows spaces, yet styled text can push you past the practical limit faster than plain letters."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Epic cracks down on slurs and deceptive display names, not typical Unicode fonts. Keep your Epic name recognizable to friends in party invites."
         }
       ],
       "related": [
@@ -489,34 +489,34 @@
       "h1Html": "Fortnite <em>Bubbles</em> names",
       "eyebrow": "Fortnite · Bubbles · ~16 chars",
       "sub": "Generate bubbles nicknames tuned for Fortnite — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Bubbles</strong> letters are a popular pick for Fortnite players who want a tag that reads playful but may box out in some games — checker flags it. Unlike generic font sites, Fonted pre-checks your assembled string against Fortnite limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Epic display names generally accept spaces; verify in the in-game preview. Plan for roughly <strong>16 characters</strong> total. Epic name and display name contexts reward names that stay legible at small size. Start with a short core word, apply Bubbles to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Fortnite:</strong> Epic account → Display Name → paste → save, then confirm in Fortnite profile. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p><strong>Bubbles</strong> nicknames show up constantly in Epic name and display name contexts. Build yours letter-by-letter or apply the style to a short core word, then confirm it still feels playful but may box out in some games — checker flags it before you commit in Fortnite.</p>\n<p><strong>How to apply in Fortnite:</strong> Epic account → Display Name → paste → save, then confirm in Fortnite profile. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "fortnite",
       "defaultStyle": "Bubbles",
       "defaultFlairTab": "symbols",
       "defaultInput": "fortn",
       "examples": [
-        "꧁fort꧂",
-        "★fort★",
-        "fort",
-        "꧁Bubbles꧂"
+        "꧁Bolt꧂",
+        "★Dusk★",
+        "乂Rift乂",
+        "✦Skye✦"
       ],
       "faq": [
         {
           "q": "Does Bubbles work in Fortnite?",
-          "a": "Math-style Bubbles Unicode usually renders in Fortnite, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Math-style Bubbles Unicode usually renders in Fortnite, but enclosed bubbles, zalgo stacks, and some emoji may box out. Fonted marks those before you paste."
         },
         {
           "q": "What is the Fortnite name length limit?",
-          "a": "Community testing suggests about 16 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Expect roughly 16 visible characters based on player reports. Official docs are vague, so always test the final string in Fortnite."
         },
         {
           "q": "Can I use spaces in Fortnite with this style?",
-          "a": "Spaces are generally accepted, but long styled strings can still truncate. Shorter names with Bubbles letters tend to survive renames."
+          "a": "Spaces are usually accepted in Fortnite, but long Bubbles strings can still truncate. Shorter cores survive renames more reliably."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Epic cracks down on slurs and deceptive display names, not typical Unicode fonts. Keep your Epic name recognizable to friends in party invites."
         }
       ],
       "related": [
@@ -537,34 +537,34 @@
       "h1Html": "Fortnite <em>Double Struck</em> names",
       "eyebrow": "Fortnite · Double Struck · ~16 chars",
       "sub": "Generate double struck nicknames tuned for Fortnite — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Double Struck</strong> letters are a popular pick for Fortnite players who want a tag that reads clean blackboard-bold tech look. Unlike generic font sites, Fonted pre-checks your assembled string against Fortnite limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Epic display names generally accept spaces; verify in the in-game preview. Plan for roughly <strong>16 characters</strong> total. Epic name and display name contexts reward names that stay legible at small size. Start with a short core word, apply Double Struck to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Fortnite:</strong> Epic account → Display Name → paste → save, then confirm in Fortnite profile. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>If you want a Fortnite tag that feels clean blackboard-bold tech look, <strong>Double Struck</strong> is a solid starting point. Fonted lets you preview the full string against Fortnite limits before you burn a rename — length, emoji risk, and symbols that box out on phone screens.</p>\n<p><strong>How to apply in Fortnite:</strong> Epic account → Display Name → paste → save, then confirm in Fortnite profile. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "fortnite",
       "defaultStyle": "Double Struck",
       "defaultFlairTab": "symbols",
       "defaultInput": "fortn",
       "examples": [
-        "꧁fort꧂",
-        "★fort★",
-        "fort",
-        "꧁Double꧂"
+        "꧁Dusk꧂",
+        "★Rift★",
+        "乂Skye乂",
+        "✦Bolt✦"
       ],
       "faq": [
         {
           "q": "Does Double Struck work in Fortnite?",
-          "a": "Math-style Double Struck Unicode usually renders in Fortnite, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Most Double Struck letters paste cleanly into Fortnite, though rare symbol blocks and emoji can fail on older phones. Use the compatibility row to catch problem characters early."
         },
         {
           "q": "What is the Fortnite name length limit?",
-          "a": "Community testing suggests about 16 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Players generally report a ~16-character cap. Treat that as a planning guide and verify in the actual rename screen before spending currency."
         },
         {
           "q": "Can I use spaces in Fortnite with this style?",
-          "a": "Spaces are generally accepted, but long styled strings can still truncate. Shorter names with Double Struck letters tend to survive renames."
+          "a": "Spaces are usually accepted in Fortnite, but long Double Struck strings can still truncate. Shorter cores survive renames more reliably."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Epic cracks down on slurs and deceptive display names, not typical Unicode fonts. Keep your Epic name recognizable to friends in party invites."
         }
       ],
       "related": [
@@ -585,34 +585,34 @@
       "h1Html": "Fortnite <em>Fraktur</em> names",
       "eyebrow": "Fortnite · Fraktur · ~16 chars",
       "sub": "Generate fraktur nicknames tuned for Fortnite — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Fraktur</strong> letters are a popular pick for Fortnite players who want a tag that reads dark, medieval, and high-contrast. Unlike generic font sites, Fonted pre-checks your assembled string against Fortnite limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Epic display names generally accept spaces; verify in the in-game preview. Plan for roughly <strong>16 characters</strong> total. Epic name and display name contexts reward names that stay legible at small size. Start with a short core word, apply Fraktur to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Fortnite:</strong> Epic account → Display Name → paste → save, then confirm in Fortnite profile. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p><strong>Fraktur</strong> nicknames show up constantly in Epic name and display name contexts. Build yours letter-by-letter or apply the style to a short core word, then confirm it still feels dark, medieval, and high-contrast before you commit in Fortnite.</p>\n<p>Community testers usually plan for <strong>16</strong> characters (spaces count). Epic display names generally accept spaces; verify in the in-game preview. Party invites and creator thumbnails pull from your Epic display name, so legibility at small size beats maximum decoration. For Fraktur specifically: fraktur strokes are striking, yet some moderation filters treat gothic Unicode as suspicious on a fresh account.</p>\n<p><strong>How to apply in Fortnite:</strong> Epic account → Display Name → paste → save, then confirm in Fortnite profile. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "fortnite",
       "defaultStyle": "Fraktur",
       "defaultFlairTab": "symbols",
       "defaultInput": "fortn",
       "examples": [
-        "꧁fort꧂",
-        "★fort★",
-        "fort",
-        "꧁Fraktur꧂"
+        "꧁Bolt꧂",
+        "★Dusk★",
+        "乂Rift乂",
+        "✦Skye✦"
       ],
       "faq": [
         {
           "q": "Does Fraktur work in Fortnite?",
-          "a": "Math-style Fraktur Unicode usually renders in Fortnite, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Fraktur is widely used in Fortnite tags, but not every decorative block is safe — the checker highlights emoji and symbols that often show as empty boxes."
         },
         {
           "q": "What is the Fortnite name length limit?",
-          "a": "Community testing suggests about 16 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Players generally report a ~16-character cap. Treat that as a planning guide and verify in the actual rename screen before spending currency."
         },
         {
           "q": "Can I use spaces in Fortnite with this style?",
-          "a": "Spaces are generally accepted, but long styled strings can still truncate. Shorter names with Fraktur letters tend to survive renames."
+          "a": "Spaces are usually accepted in Fortnite, but long Fraktur strings can still truncate. Shorter cores survive renames more reliably."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Epic cracks down on slurs and deceptive display names, not typical Unicode fonts. Keep your Epic name recognizable to friends in party invites."
         }
       ],
       "related": [
@@ -633,34 +633,34 @@
       "h1Html": "Fortnite <em>Monospace</em> names",
       "eyebrow": "Fortnite · Monospace · ~16 chars",
       "sub": "Generate monospace nicknames tuned for Fortnite — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Monospace</strong> letters are a popular pick for Fortnite players who want a tag that reads coder / terminal aesthetic. Unlike generic font sites, Fonted pre-checks your assembled string against Fortnite limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Epic display names generally accept spaces; verify in the in-game preview. Plan for roughly <strong>16 characters</strong> total. Epic name and display name contexts reward names that stay legible at small size. Start with a short core word, apply Monospace to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Fortnite:</strong> Epic account → Display Name → paste → save, then confirm in Fortnite profile. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>A memorable Fortnite name does not need dozens of symbols — <strong>Monospace</strong> letters plus one clean accent often outperform a wall of decoration. Fonted's checker tells you early if the string is too long or likely to render as boxes.</p>\n<p>Community testers usually plan for <strong>16</strong> characters (spaces count). Epic display names generally accept spaces; verify in the in-game preview. Party invites and creator thumbnails pull from your Epic display name, so legibility at small size beats maximum decoration. For Monospace specifically: monospace Unicode can look like spaced letters on certain clients, so count characters after pasting.</p>\n<p><strong>How to apply in Fortnite:</strong> Epic account → Display Name → paste → save, then confirm in Fortnite profile. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "fortnite",
       "defaultStyle": "Monospace",
       "defaultFlairTab": "symbols",
       "defaultInput": "fortn",
       "examples": [
-        "꧁fort꧂",
-        "★fort★",
-        "fort",
-        "꧁Monospace꧂"
+        "꧁Bolt꧂",
+        "★Dusk★",
+        "乂Rift乂",
+        "✦Skye✦"
       ],
       "faq": [
         {
           "q": "Does Monospace work in Fortnite?",
-          "a": "Math-style Monospace Unicode usually renders in Fortnite, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Math-style Monospace Unicode usually renders in Fortnite, but enclosed bubbles, zalgo stacks, and some emoji may box out. Fonted marks those before you paste."
         },
         {
           "q": "What is the Fortnite name length limit?",
-          "a": "Community testing suggests about 16 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Community testing points to about 16 characters. Paste into the in-game rename field to confirm — publishers rarely show a live counter."
         },
         {
           "q": "Can I use spaces in Fortnite with this style?",
-          "a": "Spaces are generally accepted, but long styled strings can still truncate. Shorter names with Monospace letters tend to survive renames."
+          "a": "You can usually include spaces, but count every character — Monospace styling does not shrink the 16-char budget."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Epic cracks down on slurs and deceptive display names, not typical Unicode fonts. Keep your Epic name recognizable to friends in party invites."
         }
       ],
       "related": [
@@ -681,34 +681,34 @@
       "h1Html": "Fortnite <em>Sans Bold</em> names",
       "eyebrow": "Fortnite · Sans Bold · ~16 chars",
       "sub": "Generate sans bold nicknames tuned for Fortnite — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Sans Bold</strong> letters are a popular pick for Fortnite players who want a tag that reads modern and legible at small sizes. Unlike generic font sites, Fonted pre-checks your assembled string against Fortnite limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Epic display names generally accept spaces; verify in the in-game preview. Plan for roughly <strong>16 characters</strong> total. Epic name and display name contexts reward names that stay legible at small size. Start with a short core word, apply Sans Bold to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Fortnite:</strong> Epic account → Display Name → paste → save, then confirm in Fortnite profile. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Looking for a sans bold look in Fortnite? This page defaults to that style and checks your finished tag against the quirks that trip people up — character caps, risky symbols, and paste failures on mobile.</p>\n<p><strong>How to apply in Fortnite:</strong> Epic account → Display Name → paste → save, then confirm in Fortnite profile. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "fortnite",
       "defaultStyle": "Sans Bold",
       "defaultFlairTab": "symbols",
       "defaultInput": "fortn",
       "examples": [
-        "꧁fort꧂",
-        "★fort★",
-        "fort",
-        "꧁Sans꧂"
+        "꧁Rift꧂",
+        "★Skye★",
+        "乂Bolt乂",
+        "✦Dusk✦"
       ],
       "faq": [
         {
           "q": "Does Sans Bold work in Fortnite?",
-          "a": "Math-style Sans Bold Unicode usually renders in Fortnite, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Most Sans Bold letters paste cleanly into Fortnite, though rare symbol blocks and emoji can fail on older phones. Use the compatibility row to catch problem characters early."
         },
         {
           "q": "What is the Fortnite name length limit?",
-          "a": "Community testing suggests about 16 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Expect roughly 16 visible characters based on player reports. Official docs are vague, so always test the final string in Fortnite."
         },
         {
           "q": "Can I use spaces in Fortnite with this style?",
-          "a": "Spaces are generally accepted, but long styled strings can still truncate. Shorter names with Sans Bold letters tend to survive renames."
+          "a": "Spaces are usually accepted in Fortnite, but long Sans Bold strings can still truncate. Shorter cores survive renames more reliably."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Epic cracks down on slurs and deceptive display names, not typical Unicode fonts. Keep your Epic name recognizable to friends in party invites."
         }
       ],
       "related": [
@@ -729,34 +729,34 @@
       "h1Html": "Fortnite <em>Small Caps</em> names",
       "eyebrow": "Fortnite · Small Caps · ~16 chars",
       "sub": "Generate small caps nicknames tuned for Fortnite — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Small Caps</strong> letters are a popular pick for Fortnite players who want a tag that reads minimal and understated. Unlike generic font sites, Fonted pre-checks your assembled string against Fortnite limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Epic display names generally accept spaces; verify in the in-game preview. Plan for roughly <strong>16 characters</strong> total. Epic name and display name contexts reward names that stay legible at small size. Start with a short core word, apply Small Caps to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Fortnite:</strong> Epic account → Display Name → paste → save, then confirm in Fortnite profile. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Fortnite players often lean on <strong>Small Caps</strong> when they need a name that still reads minimal and understated in busy UI. Rather than guessing whether a copied tag will fit, you can assemble it here and let Fonted flag anything that breaks Fortnite rules.</p>\n<p>Most players budget around <strong>16 characters</strong> with spaces allowed. Epic display names generally accept spaces; verify in the in-game preview. Small caps keep a low visual footprint, which helps when you are already near the character cap. Meanwhile, party invites and creator thumbnails pull from your Epic display name, so legibility at small size beats maximum decoration.</p>\n<p><strong>How to apply in Fortnite:</strong> Epic account → Display Name → paste → save, then confirm in Fortnite profile. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "fortnite",
       "defaultStyle": "Small Caps",
       "defaultFlairTab": "symbols",
       "defaultInput": "fortn",
       "examples": [
-        "꧁fort꧂",
-        "★fort★",
-        "fort",
-        "꧁Small꧂"
+        "꧁Rift꧂",
+        "★Skye★",
+        "乂Bolt乂",
+        "✦Dusk✦"
       ],
       "faq": [
         {
           "q": "Does Small Caps work in Fortnite?",
-          "a": "Math-style Small Caps Unicode usually renders in Fortnite, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Small Caps is widely used in Fortnite tags, but not every decorative block is safe — the checker highlights emoji and symbols that often show as empty boxes."
         },
         {
           "q": "What is the Fortnite name length limit?",
-          "a": "Community testing suggests about 16 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Players generally report a ~16-character cap. Treat that as a planning guide and verify in the actual rename screen before spending currency."
         },
         {
           "q": "Can I use spaces in Fortnite with this style?",
-          "a": "Spaces are generally accepted, but long styled strings can still truncate. Shorter names with Small Caps letters tend to survive renames."
+          "a": "Fortnite generally allows spaces, yet styled text can push you past the practical limit faster than plain letters."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Epic cracks down on slurs and deceptive display names, not typical Unicode fonts. Keep your Epic name recognizable to friends in party invites."
         }
       ],
       "related": [
@@ -777,34 +777,34 @@
       "h1Html": "Free Fire <em>Bold Script</em> names",
       "eyebrow": "Free Fire · Bold Script · ~12 chars",
       "sub": "Generate bold script nicknames tuned for Free Fire — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Bold Script</strong> letters are a popular pick for Free Fire players who want a tag that reads elegant and creator-friendly. Unlike generic font sites, Fonted pre-checks your assembled string against Free Fire limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Avoid spaces — many players report paste failures with spaced IGNs. Target <strong>12 characters, no spaces</strong> for safer pasting. IGN and rename card contexts reward names that stay legible at small size. Start with a short core word, apply Bold Script to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Free Fire:</strong> Profile → tap name/pen icon → paste in rename field → confirm. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p><strong>Bold Script</strong> nicknames show up constantly in IGN and rename card contexts. Build yours letter-by-letter or apply the style to a short core word, then confirm it still feels elegant and creator-friendly before you commit in Free Fire.</p>\n<p>Treat <strong>12 characters, no spaces</strong> as your working limit. Avoid spaces — many players report paste failures with spaced IGNs. Script curves look great in profiles but can crowd narrow rename fields if the base word is long. Meanwhile, kill-feed text is tiny during fights — overly ornate letters can blur together when the action speeds up.</p>\n<p><strong>How to apply in Free Fire:</strong> Profile → tap name/pen icon → paste in rename field → confirm. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "ff",
       "defaultStyle": "Bold Script",
       "defaultFlairTab": "symbols",
       "defaultInput": "ff",
       "examples": [
-        "꧁ff꧂",
-        "★ff★",
-        "ff",
-        "꧁Bold꧂"
+        "꧁Rogue꧂",
+        "★Blaze★",
+        "乂Ghost乂",
+        "✦Ace✦"
       ],
       "faq": [
         {
           "q": "Does Bold Script work in Free Fire?",
-          "a": "Math-style Bold Script Unicode usually renders in Free Fire, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Math-style Bold Script Unicode usually renders in Free Fire, but enclosed bubbles, zalgo stacks, and some emoji may box out. Fonted marks those before you paste."
         },
         {
           "q": "What is the Free Fire name length limit?",
-          "a": "Community testing suggests about 12 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Players generally report a ~12-character cap. Treat that as a planning guide and verify in the actual rename screen before spending currency."
         },
         {
           "q": "Can I use spaces in Free Fire with this style?",
-          "a": "Spaces are risky for Free Fire nicknames. This generator defaults to compact, no-space-friendly builds."
+          "a": "For Free Fire, skipping spaces is the safer bet — many IGN pastes fail when a space slips in."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Garena typically targets harassment and cheat-related names, not math Unicode by itself. Avoid slurs and impersonation — styled IGNs are common in Free Fire lobbies."
         }
       ],
       "related": [
@@ -825,34 +825,34 @@
       "h1Html": "Free Fire <em>Bold Serif</em> names",
       "eyebrow": "Free Fire · Bold Serif · ~12 chars",
       "sub": "Generate bold serif nicknames tuned for Free Fire — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Bold Serif</strong> letters are a popular pick for Free Fire players who want a tag that reads strong and readable in fast-moving UI. Unlike generic font sites, Fonted pre-checks your assembled string against Free Fire limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Avoid spaces — many players report paste failures with spaced IGNs. Target <strong>12 characters, no spaces</strong> for safer pasting. IGN and rename card contexts reward names that stay legible at small size. Start with a short core word, apply Bold Serif to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Free Fire:</strong> Profile → tap name/pen icon → paste in rename field → confirm. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Looking for a bold serif look in Free Fire? This page defaults to that style and checks your finished tag against the quirks that trip people up — character caps, risky symbols, and paste failures on mobile.</p>\n<p><strong>How to apply in Free Fire:</strong> Profile → tap name/pen icon → paste in rename field → confirm. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "ff",
       "defaultStyle": "Bold Serif",
       "defaultFlairTab": "symbols",
       "defaultInput": "ff",
       "examples": [
-        "꧁ff꧂",
-        "★ff★",
-        "ff",
-        "꧁Bold꧂"
+        "꧁Rogue꧂",
+        "★Blaze★",
+        "乂Ghost乂",
+        "✦Ace✦"
       ],
       "faq": [
         {
           "q": "Does Bold Serif work in Free Fire?",
-          "a": "Math-style Bold Serif Unicode usually renders in Free Fire, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Math-style Bold Serif Unicode usually renders in Free Fire, but enclosed bubbles, zalgo stacks, and some emoji may box out. Fonted marks those before you paste."
         },
         {
           "q": "What is the Free Fire name length limit?",
-          "a": "Community testing suggests about 12 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Expect roughly 12 visible characters based on player reports. Official docs are vague, so always test the final string in Free Fire."
         },
         {
           "q": "Can I use spaces in Free Fire with this style?",
-          "a": "Spaces are risky for Free Fire nicknames. This generator defaults to compact, no-space-friendly builds."
+          "a": "No-space tags paste more reliably in Free Fire. Build compact and test in the rename preview."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Garena typically targets harassment and cheat-related names, not math Unicode by itself. Avoid slurs and impersonation — styled IGNs are common in Free Fire lobbies."
         }
       ],
       "related": [
@@ -873,34 +873,34 @@
       "h1Html": "Free Fire <em>Bubbles</em> names",
       "eyebrow": "Free Fire · Bubbles · ~12 chars",
       "sub": "Generate bubbles nicknames tuned for Free Fire — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Bubbles</strong> letters are a popular pick for Free Fire players who want a tag that reads playful but may box out in some games — checker flags it. Unlike generic font sites, Fonted pre-checks your assembled string against Free Fire limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Avoid spaces — many players report paste failures with spaced IGNs. Target <strong>12 characters, no spaces</strong> for safer pasting. IGN and rename card contexts reward names that stay legible at small size. Start with a short core word, apply Bubbles to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Free Fire:</strong> Profile → tap name/pen icon → paste in rename field → confirm. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Free Fire players often lean on <strong>Bubbles</strong> when they need a name that still reads playful but may box out in some games — checker flags it in busy UI. Rather than guessing whether a copied tag will fit, you can assemble it here and let Fonted flag anything that breaks Free Fire rules.</p>\n<p>Community testers usually plan for <strong>12</strong> characters without spaces. Avoid spaces — many players report paste failures with spaced IGNs. Kill-feed text is tiny during fights — overly ornate letters can blur together when the action speeds up. For Bubbles specifically: bubble enclosed letters often render as empty boxes on older game fonts — Fonted flags them before you paste.</p>\n<p><strong>How to apply in Free Fire:</strong> Profile → tap name/pen icon → paste in rename field → confirm. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "ff",
       "defaultStyle": "Bubbles",
       "defaultFlairTab": "symbols",
       "defaultInput": "ff",
       "examples": [
-        "꧁ff꧂",
-        "★ff★",
-        "ff",
-        "꧁Bubbles꧂"
+        "꧁Ghost꧂",
+        "★Ace★",
+        "乂Rogue乂",
+        "✦Blaze✦"
       ],
       "faq": [
         {
           "q": "Does Bubbles work in Free Fire?",
-          "a": "Math-style Bubbles Unicode usually renders in Free Fire, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Bubbles is widely used in Free Fire tags, but not every decorative block is safe — the checker highlights emoji and symbols that often show as empty boxes."
         },
         {
           "q": "What is the Free Fire name length limit?",
-          "a": "Community testing suggests about 12 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Expect roughly 12 visible characters based on player reports. Official docs are vague, so always test the final string in Free Fire."
         },
         {
           "q": "Can I use spaces in Free Fire with this style?",
-          "a": "Spaces are risky for Free Fire nicknames. This generator defaults to compact, no-space-friendly builds."
+          "a": "Spaces often cause paste issues in Free Fire nicknames. This page defaults to compact, no-space-friendly builds."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Garena typically targets harassment and cheat-related names, not math Unicode by itself. Avoid slurs and impersonation — styled IGNs are common in Free Fire lobbies."
         }
       ],
       "related": [
@@ -921,34 +921,34 @@
       "h1Html": "Free Fire <em>Double Struck</em> names",
       "eyebrow": "Free Fire · Double Struck · ~12 chars",
       "sub": "Generate double struck nicknames tuned for Free Fire — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Double Struck</strong> letters are a popular pick for Free Fire players who want a tag that reads clean blackboard-bold tech look. Unlike generic font sites, Fonted pre-checks your assembled string against Free Fire limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Avoid spaces — many players report paste failures with spaced IGNs. Target <strong>12 characters, no spaces</strong> for safer pasting. IGN and rename card contexts reward names that stay legible at small size. Start with a short core word, apply Double Struck to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Free Fire:</strong> Profile → tap name/pen icon → paste in rename field → confirm. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>A memorable Free Fire name does not need dozens of symbols — <strong>Double Struck</strong> letters plus one clean accent often outperform a wall of decoration. Fonted's checker tells you early if the string is too long or likely to render as boxes.</p>\n<p><strong>How to apply in Free Fire:</strong> Profile → tap name/pen icon → paste in rename field → confirm. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "ff",
       "defaultStyle": "Double Struck",
       "defaultFlairTab": "symbols",
       "defaultInput": "ff",
       "examples": [
-        "꧁ff꧂",
-        "★ff★",
-        "ff",
-        "꧁Double꧂"
+        "꧁Ace꧂",
+        "★Rogue★",
+        "乂Blaze乂",
+        "✦Ghost✦"
       ],
       "faq": [
         {
           "q": "Does Double Struck work in Free Fire?",
-          "a": "Math-style Double Struck Unicode usually renders in Free Fire, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Double Struck is widely used in Free Fire tags, but not every decorative block is safe — the checker highlights emoji and symbols that often show as empty boxes."
         },
         {
           "q": "What is the Free Fire name length limit?",
-          "a": "Community testing suggests about 12 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Players generally report a ~12-character cap. Treat that as a planning guide and verify in the actual rename screen before spending currency."
         },
         {
           "q": "Can I use spaces in Free Fire with this style?",
-          "a": "Spaces are risky for Free Fire nicknames. This generator defaults to compact, no-space-friendly builds."
+          "a": "For Free Fire, skipping spaces is the safer bet — many IGN pastes fail when a space slips in."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Garena typically targets harassment and cheat-related names, not math Unicode by itself. Avoid slurs and impersonation — styled IGNs are common in Free Fire lobbies."
         }
       ],
       "related": [
@@ -969,34 +969,34 @@
       "h1Html": "Free Fire <em>Fraktur</em> names",
       "eyebrow": "Free Fire · Fraktur · ~12 chars",
       "sub": "Generate fraktur nicknames tuned for Free Fire — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Fraktur</strong> letters are a popular pick for Free Fire players who want a tag that reads dark, medieval, and high-contrast. Unlike generic font sites, Fonted pre-checks your assembled string against Free Fire limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Avoid spaces — many players report paste failures with spaced IGNs. Target <strong>12 characters, no spaces</strong> for safer pasting. IGN and rename card contexts reward names that stay legible at small size. Start with a short core word, apply Fraktur to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Free Fire:</strong> Profile → tap name/pen icon → paste in rename field → confirm. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Looking for a fraktur look in Free Fire? This page defaults to that style and checks your finished tag against the quirks that trip people up — character caps, risky symbols, and paste failures on mobile.</p>\n<p><strong>How to apply in Free Fire:</strong> Profile → tap name/pen icon → paste in rename field → confirm. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "ff",
       "defaultStyle": "Fraktur",
       "defaultFlairTab": "symbols",
       "defaultInput": "ff",
       "examples": [
-        "꧁ff꧂",
-        "★ff★",
-        "ff",
-        "꧁Fraktur꧂"
+        "꧁Ghost꧂",
+        "★Ace★",
+        "乂Rogue乂",
+        "✦Blaze✦"
       ],
       "faq": [
         {
           "q": "Does Fraktur work in Free Fire?",
-          "a": "Math-style Fraktur Unicode usually renders in Free Fire, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Math-style Fraktur Unicode usually renders in Free Fire, but enclosed bubbles, zalgo stacks, and some emoji may box out. Fonted marks those before you paste."
         },
         {
           "q": "What is the Free Fire name length limit?",
-          "a": "Community testing suggests about 12 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Expect roughly 12 visible characters based on player reports. Official docs are vague, so always test the final string in Free Fire."
         },
         {
           "q": "Can I use spaces in Free Fire with this style?",
-          "a": "Spaces are risky for Free Fire nicknames. This generator defaults to compact, no-space-friendly builds."
+          "a": "For Free Fire, skipping spaces is the safer bet — many IGN pastes fail when a space slips in."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Garena typically targets harassment and cheat-related names, not math Unicode by itself. Avoid slurs and impersonation — styled IGNs are common in Free Fire lobbies."
         }
       ],
       "related": [
@@ -1017,34 +1017,34 @@
       "h1Html": "Free Fire <em>Monospace</em> names",
       "eyebrow": "Free Fire · Monospace · ~12 chars",
       "sub": "Generate monospace nicknames tuned for Free Fire — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Monospace</strong> letters are a popular pick for Free Fire players who want a tag that reads coder / terminal aesthetic. Unlike generic font sites, Fonted pre-checks your assembled string against Free Fire limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Avoid spaces — many players report paste failures with spaced IGNs. Target <strong>12 characters, no spaces</strong> for safer pasting. IGN and rename card contexts reward names that stay legible at small size. Start with a short core word, apply Monospace to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Free Fire:</strong> Profile → tap name/pen icon → paste in rename field → confirm. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Looking for a monospace look in Free Fire? This page defaults to that style and checks your finished tag against the quirks that trip people up — character caps, risky symbols, and paste failures on mobile.</p>\n<p>Community testers usually plan for <strong>12</strong> characters without spaces. Avoid spaces — many players report paste failures with spaced IGNs. Kill-feed text is tiny during fights — overly ornate letters can blur together when the action speeds up. For Monospace specifically: monospace Unicode can look like spaced letters on certain clients, so count characters after pasting.</p>\n<p><strong>How to apply in Free Fire:</strong> Profile → tap name/pen icon → paste in rename field → confirm. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "ff",
       "defaultStyle": "Monospace",
       "defaultFlairTab": "symbols",
       "defaultInput": "ff",
       "examples": [
-        "꧁ff꧂",
-        "★ff★",
-        "ff",
-        "꧁Monospace꧂"
+        "꧁Ghost꧂",
+        "★Ace★",
+        "乂Rogue乂",
+        "✦Blaze✦"
       ],
       "faq": [
         {
           "q": "Does Monospace work in Free Fire?",
-          "a": "Math-style Monospace Unicode usually renders in Free Fire, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Most Monospace letters paste cleanly into Free Fire, though rare symbol blocks and emoji can fail on older phones. Use the compatibility row to catch problem characters early."
         },
         {
           "q": "What is the Free Fire name length limit?",
-          "a": "Community testing suggests about 12 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Community testing points to about 12 characters. Paste into the in-game rename field to confirm — publishers rarely show a live counter."
         },
         {
           "q": "Can I use spaces in Free Fire with this style?",
-          "a": "Spaces are risky for Free Fire nicknames. This generator defaults to compact, no-space-friendly builds."
+          "a": "For Free Fire, skipping spaces is the safer bet — many IGN pastes fail when a space slips in."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Garena typically targets harassment and cheat-related names, not math Unicode by itself. Avoid slurs and impersonation — styled IGNs are common in Free Fire lobbies."
         }
       ],
       "related": [
@@ -1065,34 +1065,34 @@
       "h1Html": "Free Fire <em>Sans Bold</em> names",
       "eyebrow": "Free Fire · Sans Bold · ~12 chars",
       "sub": "Generate sans bold nicknames tuned for Free Fire — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Sans Bold</strong> letters are a popular pick for Free Fire players who want a tag that reads modern and legible at small sizes. Unlike generic font sites, Fonted pre-checks your assembled string against Free Fire limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Avoid spaces — many players report paste failures with spaced IGNs. Target <strong>12 characters, no spaces</strong> for safer pasting. IGN and rename card contexts reward names that stay legible at small size. Start with a short core word, apply Sans Bold to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Free Fire:</strong> Profile → tap name/pen icon → paste in rename field → confirm. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Free Fire players often lean on <strong>Sans Bold</strong> when they need a name that still reads modern and legible at small sizes in busy UI. Rather than guessing whether a copied tag will fit, you can assemble it here and let Fonted flag anything that breaks Free Fire rules.</p>\n<p><strong>How to apply in Free Fire:</strong> Profile → tap name/pen icon → paste in rename field → confirm. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "ff",
       "defaultStyle": "Sans Bold",
       "defaultFlairTab": "symbols",
       "defaultInput": "ff",
       "examples": [
-        "꧁ff꧂",
-        "★ff★",
-        "ff",
-        "꧁Sans꧂"
+        "꧁Rogue꧂",
+        "★Blaze★",
+        "乂Ghost乂",
+        "✦Ace✦"
       ],
       "faq": [
         {
           "q": "Does Sans Bold work in Free Fire?",
-          "a": "Math-style Sans Bold Unicode usually renders in Free Fire, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Sans Bold is widely used in Free Fire tags, but not every decorative block is safe — the checker highlights emoji and symbols that often show as empty boxes."
         },
         {
           "q": "What is the Free Fire name length limit?",
-          "a": "Community testing suggests about 12 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Expect roughly 12 visible characters based on player reports. Official docs are vague, so always test the final string in Free Fire."
         },
         {
           "q": "Can I use spaces in Free Fire with this style?",
-          "a": "Spaces are risky for Free Fire nicknames. This generator defaults to compact, no-space-friendly builds."
+          "a": "No-space tags paste more reliably in Free Fire. Build compact and test in the rename preview."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Garena typically targets harassment and cheat-related names, not math Unicode by itself. Avoid slurs and impersonation — styled IGNs are common in Free Fire lobbies."
         }
       ],
       "related": [
@@ -1113,34 +1113,34 @@
       "h1Html": "Free Fire <em>Small Caps</em> names",
       "eyebrow": "Free Fire · Small Caps · ~12 chars",
       "sub": "Generate small caps nicknames tuned for Free Fire — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Small Caps</strong> letters are a popular pick for Free Fire players who want a tag that reads minimal and understated. Unlike generic font sites, Fonted pre-checks your assembled string against Free Fire limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Avoid spaces — many players report paste failures with spaced IGNs. Target <strong>12 characters, no spaces</strong> for safer pasting. IGN and rename card contexts reward names that stay legible at small size. Start with a short core word, apply Small Caps to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Free Fire:</strong> Profile → tap name/pen icon → paste in rename field → confirm. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Free Fire players often lean on <strong>Small Caps</strong> when they need a name that still reads minimal and understated in busy UI. Rather than guessing whether a copied tag will fit, you can assemble it here and let Fonted flag anything that breaks Free Fire rules.</p>\n<p><strong>How to apply in Free Fire:</strong> Profile → tap name/pen icon → paste in rename field → confirm. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "ff",
       "defaultStyle": "Small Caps",
       "defaultFlairTab": "symbols",
       "defaultInput": "ff",
       "examples": [
-        "꧁ff꧂",
-        "★ff★",
-        "ff",
-        "꧁Small꧂"
+        "꧁Rogue꧂",
+        "★Blaze★",
+        "乂Ghost乂",
+        "✦Ace✦"
       ],
       "faq": [
         {
           "q": "Does Small Caps work in Free Fire?",
-          "a": "Math-style Small Caps Unicode usually renders in Free Fire, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Most Small Caps letters paste cleanly into Free Fire, though rare symbol blocks and emoji can fail on older phones. Use the compatibility row to catch problem characters early."
         },
         {
           "q": "What is the Free Fire name length limit?",
-          "a": "Community testing suggests about 12 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Players generally report a ~12-character cap. Treat that as a planning guide and verify in the actual rename screen before spending currency."
         },
         {
           "q": "Can I use spaces in Free Fire with this style?",
-          "a": "Spaces are risky for Free Fire nicknames. This generator defaults to compact, no-space-friendly builds."
+          "a": "Spaces often cause paste issues in Free Fire nicknames. This page defaults to compact, no-space-friendly builds."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Garena typically targets harassment and cheat-related names, not math Unicode by itself. Avoid slurs and impersonation — styled IGNs are common in Free Fire lobbies."
         }
       ],
       "related": [
@@ -1161,34 +1161,34 @@
       "h1Html": "PUBG Mobile <em>Bold Script</em> names",
       "eyebrow": "PUBG Mobile · Bold Script · ~15 chars",
       "sub": "Generate bold script nicknames tuned for PUBG Mobile — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Bold Script</strong> letters are a popular pick for PUBG Mobile players who want a tag that reads elegant and creator-friendly. Unlike generic font sites, Fonted pre-checks your assembled string against PUBG Mobile limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>No-space nicknames paste more reliably across mobile clients. Target <strong>15 characters, no spaces</strong> for safer pasting. nickname and squad tag contexts reward names that stay legible at small size. Start with a short core word, apply Bold Script to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in PUBG Mobile:</strong> Lobby → Profile → Edit → paste nickname → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Looking for a bold script look in PUBG Mobile? This page defaults to that style and checks your finished tag against the quirks that trip people up — character caps, risky symbols, and paste failures on mobile.</p>\n<p>Treat <strong>15 characters, no spaces</strong> as your working limit. No-space nicknames paste more reliably across mobile clients. Script curves look great in profiles but can crowd narrow rename fields if the base word is long. Meanwhile, squad lobbies and the kill feed both truncate long strings, so a tight nickname usually survives UC renames better.</p>\n<p><strong>How to apply in PUBG Mobile:</strong> Lobby → Profile → Edit → paste nickname → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "pubg",
       "defaultStyle": "Bold Script",
       "defaultFlairTab": "symbols",
       "defaultInput": "pubg",
       "examples": [
-        "꧁pubg꧂",
-        "★pubg★",
-        "pubg",
-        "꧁Bold꧂"
+        "꧁Flux꧂",
+        "★Hawk★",
+        "乂Zero乂",
+        "✦K9✦"
       ],
       "faq": [
         {
           "q": "Does Bold Script work in PUBG Mobile?",
-          "a": "Math-style Bold Script Unicode usually renders in PUBG Mobile, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Math-style Bold Script Unicode usually renders in PUBG Mobile, but enclosed bubbles, zalgo stacks, and some emoji may box out. Fonted marks those before you paste."
         },
         {
           "q": "What is the PUBG Mobile name length limit?",
-          "a": "Community testing suggests about 15 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Players generally report a ~15-character cap. Treat that as a planning guide and verify in the actual rename screen before spending currency."
         },
         {
           "q": "Can I use spaces in PUBG Mobile with this style?",
-          "a": "Spaces are risky for PUBG Mobile nicknames. This generator defaults to compact, no-space-friendly builds."
+          "a": "No-space tags paste more reliably in PUBG Mobile. Build compact and test in the rename preview."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "PUBG Mobile moderation focuses on offensive or misleading nicknames rather than fancy letters. Unicode tags are widespread; policy violations are a separate issue."
         }
       ],
       "related": [
@@ -1209,34 +1209,34 @@
       "h1Html": "PUBG Mobile <em>Bold Serif</em> names",
       "eyebrow": "PUBG Mobile · Bold Serif · ~15 chars",
       "sub": "Generate bold serif nicknames tuned for PUBG Mobile — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Bold Serif</strong> letters are a popular pick for PUBG Mobile players who want a tag that reads strong and readable in fast-moving UI. Unlike generic font sites, Fonted pre-checks your assembled string against PUBG Mobile limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>No-space nicknames paste more reliably across mobile clients. Target <strong>15 characters, no spaces</strong> for safer pasting. nickname and squad tag contexts reward names that stay legible at small size. Start with a short core word, apply Bold Serif to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in PUBG Mobile:</strong> Lobby → Profile → Edit → paste nickname → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>PUBG Mobile players often lean on <strong>Bold Serif</strong> when they need a name that still reads strong and readable in fast-moving UI in busy UI. Rather than guessing whether a copied tag will fit, you can assemble it here and let Fonted flag anything that breaks PUBG Mobile rules.</p>\n<p>Treat <strong>15 characters, no spaces</strong> as your working limit. No-space nicknames paste more reliably across mobile clients. Bold Serif math letters are among the most widely supported Unicode styles in mobile games. Meanwhile, squad lobbies and the kill feed both truncate long strings, so a tight nickname usually survives UC renames better.</p>\n<p><strong>How to apply in PUBG Mobile:</strong> Lobby → Profile → Edit → paste nickname → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "pubg",
       "defaultStyle": "Bold Serif",
       "defaultFlairTab": "symbols",
       "defaultInput": "pubg",
       "examples": [
-        "꧁pubg꧂",
-        "★pubg★",
-        "pubg",
-        "꧁Bold꧂"
+        "꧁Flux꧂",
+        "★Hawk★",
+        "乂Zero乂",
+        "✦K9✦"
       ],
       "faq": [
         {
           "q": "Does Bold Serif work in PUBG Mobile?",
-          "a": "Math-style Bold Serif Unicode usually renders in PUBG Mobile, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Most Bold Serif letters paste cleanly into PUBG Mobile, though rare symbol blocks and emoji can fail on older phones. Use the compatibility row to catch problem characters early."
         },
         {
           "q": "What is the PUBG Mobile name length limit?",
-          "a": "Community testing suggests about 15 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Players generally report a ~15-character cap. Treat that as a planning guide and verify in the actual rename screen before spending currency."
         },
         {
           "q": "Can I use spaces in PUBG Mobile with this style?",
-          "a": "Spaces are risky for PUBG Mobile nicknames. This generator defaults to compact, no-space-friendly builds."
+          "a": "For PUBG Mobile, skipping spaces is the safer bet — many IGN pastes fail when a space slips in."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "PUBG Mobile moderation focuses on offensive or misleading nicknames rather than fancy letters. Unicode tags are widespread; policy violations are a separate issue."
         }
       ],
       "related": [
@@ -1257,34 +1257,34 @@
       "h1Html": "PUBG Mobile <em>Bubbles</em> names",
       "eyebrow": "PUBG Mobile · Bubbles · ~15 chars",
       "sub": "Generate bubbles nicknames tuned for PUBG Mobile — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Bubbles</strong> letters are a popular pick for PUBG Mobile players who want a tag that reads playful but may box out in some games — checker flags it. Unlike generic font sites, Fonted pre-checks your assembled string against PUBG Mobile limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>No-space nicknames paste more reliably across mobile clients. Target <strong>15 characters, no spaces</strong> for safer pasting. nickname and squad tag contexts reward names that stay legible at small size. Start with a short core word, apply Bubbles to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in PUBG Mobile:</strong> Lobby → Profile → Edit → paste nickname → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Looking for a bubbles look in PUBG Mobile? This page defaults to that style and checks your finished tag against the quirks that trip people up — character caps, risky symbols, and paste failures on mobile.</p>\n<p><strong>How to apply in PUBG Mobile:</strong> Lobby → Profile → Edit → paste nickname → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "pubg",
       "defaultStyle": "Bubbles",
       "defaultFlairTab": "symbols",
       "defaultInput": "pubg",
       "examples": [
-        "꧁pubg꧂",
-        "★pubg★",
-        "pubg",
-        "꧁Bubbles꧂"
+        "꧁Zero꧂",
+        "★K9★",
+        "乂Flux乂",
+        "✦Hawk✦"
       ],
       "faq": [
         {
           "q": "Does Bubbles work in PUBG Mobile?",
-          "a": "Math-style Bubbles Unicode usually renders in PUBG Mobile, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Bubbles is widely used in PUBG Mobile tags, but not every decorative block is safe — the checker highlights emoji and symbols that often show as empty boxes."
         },
         {
           "q": "What is the PUBG Mobile name length limit?",
-          "a": "Community testing suggests about 15 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Community testing points to about 15 characters. Paste into the in-game rename field to confirm — publishers rarely show a live counter."
         },
         {
           "q": "Can I use spaces in PUBG Mobile with this style?",
-          "a": "Spaces are risky for PUBG Mobile nicknames. This generator defaults to compact, no-space-friendly builds."
+          "a": "Spaces often cause paste issues in PUBG Mobile nicknames. This page defaults to compact, no-space-friendly builds."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "PUBG Mobile moderation focuses on offensive or misleading nicknames rather than fancy letters. Unicode tags are widespread; policy violations are a separate issue."
         }
       ],
       "related": [
@@ -1305,34 +1305,34 @@
       "h1Html": "PUBG Mobile <em>Double Struck</em> names",
       "eyebrow": "PUBG Mobile · Double Struck · ~15 chars",
       "sub": "Generate double struck nicknames tuned for PUBG Mobile — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Double Struck</strong> letters are a popular pick for PUBG Mobile players who want a tag that reads clean blackboard-bold tech look. Unlike generic font sites, Fonted pre-checks your assembled string against PUBG Mobile limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>No-space nicknames paste more reliably across mobile clients. Target <strong>15 characters, no spaces</strong> for safer pasting. nickname and squad tag contexts reward names that stay legible at small size. Start with a short core word, apply Double Struck to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in PUBG Mobile:</strong> Lobby → Profile → Edit → paste nickname → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Looking for a double struck look in PUBG Mobile? This page defaults to that style and checks your finished tag against the quirks that trip people up — character caps, risky symbols, and paste failures on mobile.</p>\n<p>No-space nicknames paste more reliably across mobile clients. Keep it under <strong>15 characters with no spaces</strong> for safer pasting. Squad lobbies and the kill feed both truncate long strings, so a tight nickname usually survives UC renames better. Double-struck letters can read as extra-wide on some Android clients, eating into tight character budgets faster.</p>\n<p><strong>How to apply in PUBG Mobile:</strong> Lobby → Profile → Edit → paste nickname → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "pubg",
       "defaultStyle": "Double Struck",
       "defaultFlairTab": "symbols",
       "defaultInput": "pubg",
       "examples": [
-        "꧁pubg꧂",
-        "★pubg★",
-        "pubg",
-        "꧁Double꧂"
+        "꧁K9꧂",
+        "★Flux★",
+        "乂Hawk乂",
+        "✦Zero✦"
       ],
       "faq": [
         {
           "q": "Does Double Struck work in PUBG Mobile?",
-          "a": "Math-style Double Struck Unicode usually renders in PUBG Mobile, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Math-style Double Struck Unicode usually renders in PUBG Mobile, but enclosed bubbles, zalgo stacks, and some emoji may box out. Fonted marks those before you paste."
         },
         {
           "q": "What is the PUBG Mobile name length limit?",
-          "a": "Community testing suggests about 15 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Expect roughly 15 visible characters based on player reports. Official docs are vague, so always test the final string in PUBG Mobile."
         },
         {
           "q": "Can I use spaces in PUBG Mobile with this style?",
-          "a": "Spaces are risky for PUBG Mobile nicknames. This generator defaults to compact, no-space-friendly builds."
+          "a": "For PUBG Mobile, skipping spaces is the safer bet — many IGN pastes fail when a space slips in."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "PUBG Mobile moderation focuses on offensive or misleading nicknames rather than fancy letters. Unicode tags are widespread; policy violations are a separate issue."
         }
       ],
       "related": [
@@ -1353,34 +1353,34 @@
       "h1Html": "PUBG Mobile <em>Fraktur</em> names",
       "eyebrow": "PUBG Mobile · Fraktur · ~15 chars",
       "sub": "Generate fraktur nicknames tuned for PUBG Mobile — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Fraktur</strong> letters are a popular pick for PUBG Mobile players who want a tag that reads dark, medieval, and high-contrast. Unlike generic font sites, Fonted pre-checks your assembled string against PUBG Mobile limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>No-space nicknames paste more reliably across mobile clients. Target <strong>15 characters, no spaces</strong> for safer pasting. nickname and squad tag contexts reward names that stay legible at small size. Start with a short core word, apply Fraktur to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in PUBG Mobile:</strong> Lobby → Profile → Edit → paste nickname → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>PUBG Mobile players often lean on <strong>Fraktur</strong> when they need a name that still reads dark, medieval, and high-contrast in busy UI. Rather than guessing whether a copied tag will fit, you can assemble it here and let Fonted flag anything that breaks PUBG Mobile rules.</p>\n<p>Community testers usually plan for <strong>15</strong> characters without spaces. No-space nicknames paste more reliably across mobile clients. Squad lobbies and the kill feed both truncate long strings, so a tight nickname usually survives UC renames better. For Fraktur specifically: fraktur strokes are striking, yet some moderation filters treat gothic Unicode as suspicious on a fresh account.</p>\n<p><strong>How to apply in PUBG Mobile:</strong> Lobby → Profile → Edit → paste nickname → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "pubg",
       "defaultStyle": "Fraktur",
       "defaultFlairTab": "symbols",
       "defaultInput": "pubg",
       "examples": [
-        "꧁pubg꧂",
-        "★pubg★",
-        "pubg",
-        "꧁Fraktur꧂"
+        "꧁Zero꧂",
+        "★K9★",
+        "乂Flux乂",
+        "✦Hawk✦"
       ],
       "faq": [
         {
           "q": "Does Fraktur work in PUBG Mobile?",
-          "a": "Math-style Fraktur Unicode usually renders in PUBG Mobile, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Math-style Fraktur Unicode usually renders in PUBG Mobile, but enclosed bubbles, zalgo stacks, and some emoji may box out. Fonted marks those before you paste."
         },
         {
           "q": "What is the PUBG Mobile name length limit?",
-          "a": "Community testing suggests about 15 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Community testing points to about 15 characters. Paste into the in-game rename field to confirm — publishers rarely show a live counter."
         },
         {
           "q": "Can I use spaces in PUBG Mobile with this style?",
-          "a": "Spaces are risky for PUBG Mobile nicknames. This generator defaults to compact, no-space-friendly builds."
+          "a": "For PUBG Mobile, skipping spaces is the safer bet — many IGN pastes fail when a space slips in."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "PUBG Mobile moderation focuses on offensive or misleading nicknames rather than fancy letters. Unicode tags are widespread; policy violations are a separate issue."
         }
       ],
       "related": [
@@ -1401,34 +1401,34 @@
       "h1Html": "PUBG Mobile <em>Monospace</em> names",
       "eyebrow": "PUBG Mobile · Monospace · ~15 chars",
       "sub": "Generate monospace nicknames tuned for PUBG Mobile — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Monospace</strong> letters are a popular pick for PUBG Mobile players who want a tag that reads coder / terminal aesthetic. Unlike generic font sites, Fonted pre-checks your assembled string against PUBG Mobile limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>No-space nicknames paste more reliably across mobile clients. Target <strong>15 characters, no spaces</strong> for safer pasting. nickname and squad tag contexts reward names that stay legible at small size. Start with a short core word, apply Monospace to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in PUBG Mobile:</strong> Lobby → Profile → Edit → paste nickname → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Looking for a monospace look in PUBG Mobile? This page defaults to that style and checks your finished tag against the quirks that trip people up — character caps, risky symbols, and paste failures on mobile.</p>\n<p><strong>How to apply in PUBG Mobile:</strong> Lobby → Profile → Edit → paste nickname → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "pubg",
       "defaultStyle": "Monospace",
       "defaultFlairTab": "symbols",
       "defaultInput": "pubg",
       "examples": [
-        "꧁pubg꧂",
-        "★pubg★",
-        "pubg",
-        "꧁Monospace꧂"
+        "꧁Zero꧂",
+        "★K9★",
+        "乂Flux乂",
+        "✦Hawk✦"
       ],
       "faq": [
         {
           "q": "Does Monospace work in PUBG Mobile?",
-          "a": "Math-style Monospace Unicode usually renders in PUBG Mobile, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Monospace is widely used in PUBG Mobile tags, but not every decorative block is safe — the checker highlights emoji and symbols that often show as empty boxes."
         },
         {
           "q": "What is the PUBG Mobile name length limit?",
-          "a": "Community testing suggests about 15 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Expect roughly 15 visible characters based on player reports. Official docs are vague, so always test the final string in PUBG Mobile."
         },
         {
           "q": "Can I use spaces in PUBG Mobile with this style?",
-          "a": "Spaces are risky for PUBG Mobile nicknames. This generator defaults to compact, no-space-friendly builds."
+          "a": "For PUBG Mobile, skipping spaces is the safer bet — many IGN pastes fail when a space slips in."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "PUBG Mobile moderation focuses on offensive or misleading nicknames rather than fancy letters. Unicode tags are widespread; policy violations are a separate issue."
         }
       ],
       "related": [
@@ -1449,34 +1449,34 @@
       "h1Html": "PUBG Mobile <em>Sans Bold</em> names",
       "eyebrow": "PUBG Mobile · Sans Bold · ~15 chars",
       "sub": "Generate sans bold nicknames tuned for PUBG Mobile — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Sans Bold</strong> letters are a popular pick for PUBG Mobile players who want a tag that reads modern and legible at small sizes. Unlike generic font sites, Fonted pre-checks your assembled string against PUBG Mobile limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>No-space nicknames paste more reliably across mobile clients. Target <strong>15 characters, no spaces</strong> for safer pasting. nickname and squad tag contexts reward names that stay legible at small size. Start with a short core word, apply Sans Bold to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in PUBG Mobile:</strong> Lobby → Profile → Edit → paste nickname → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>PUBG Mobile players often lean on <strong>Sans Bold</strong> when they need a name that still reads modern and legible at small sizes in busy UI. Rather than guessing whether a copied tag will fit, you can assemble it here and let Fonted flag anything that breaks PUBG Mobile rules.</p>\n<p>Treat <strong>15 characters, no spaces</strong> as your working limit. No-space nicknames paste more reliably across mobile clients. Sans Bold stays crisp in scoreboard rows where serif flourishes would disappear. Meanwhile, squad lobbies and the kill feed both truncate long strings, so a tight nickname usually survives UC renames better.</p>\n<p><strong>How to apply in PUBG Mobile:</strong> Lobby → Profile → Edit → paste nickname → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "pubg",
       "defaultStyle": "Sans Bold",
       "defaultFlairTab": "symbols",
       "defaultInput": "pubg",
       "examples": [
-        "꧁pubg꧂",
-        "★pubg★",
-        "pubg",
-        "꧁Sans꧂"
+        "꧁Flux꧂",
+        "★Hawk★",
+        "乂Zero乂",
+        "✦K9✦"
       ],
       "faq": [
         {
           "q": "Does Sans Bold work in PUBG Mobile?",
-          "a": "Math-style Sans Bold Unicode usually renders in PUBG Mobile, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Sans Bold is widely used in PUBG Mobile tags, but not every decorative block is safe — the checker highlights emoji and symbols that often show as empty boxes."
         },
         {
           "q": "What is the PUBG Mobile name length limit?",
-          "a": "Community testing suggests about 15 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Community testing points to about 15 characters. Paste into the in-game rename field to confirm — publishers rarely show a live counter."
         },
         {
           "q": "Can I use spaces in PUBG Mobile with this style?",
-          "a": "Spaces are risky for PUBG Mobile nicknames. This generator defaults to compact, no-space-friendly builds."
+          "a": "For PUBG Mobile, skipping spaces is the safer bet — many IGN pastes fail when a space slips in."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "PUBG Mobile moderation focuses on offensive or misleading nicknames rather than fancy letters. Unicode tags are widespread; policy violations are a separate issue."
         }
       ],
       "related": [
@@ -1497,34 +1497,34 @@
       "h1Html": "PUBG Mobile <em>Small Caps</em> names",
       "eyebrow": "PUBG Mobile · Small Caps · ~15 chars",
       "sub": "Generate small caps nicknames tuned for PUBG Mobile — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Small Caps</strong> letters are a popular pick for PUBG Mobile players who want a tag that reads minimal and understated. Unlike generic font sites, Fonted pre-checks your assembled string against PUBG Mobile limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>No-space nicknames paste more reliably across mobile clients. Target <strong>15 characters, no spaces</strong> for safer pasting. nickname and squad tag contexts reward names that stay legible at small size. Start with a short core word, apply Small Caps to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in PUBG Mobile:</strong> Lobby → Profile → Edit → paste nickname → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>A memorable PUBG Mobile name does not need dozens of symbols — <strong>Small Caps</strong> letters plus one clean accent often outperform a wall of decoration. Fonted's checker tells you early if the string is too long or likely to render as boxes.</p>\n<p>Treat <strong>15 characters, no spaces</strong> as your working limit. No-space nicknames paste more reliably across mobile clients. Small caps keep a low visual footprint, which helps when you are already near the character cap. Meanwhile, squad lobbies and the kill feed both truncate long strings, so a tight nickname usually survives UC renames better.</p>\n<p><strong>How to apply in PUBG Mobile:</strong> Lobby → Profile → Edit → paste nickname → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "pubg",
       "defaultStyle": "Small Caps",
       "defaultFlairTab": "symbols",
       "defaultInput": "pubg",
       "examples": [
-        "꧁pubg꧂",
-        "★pubg★",
-        "pubg",
-        "꧁Small꧂"
+        "꧁Flux꧂",
+        "★Hawk★",
+        "乂Zero乂",
+        "✦K9✦"
       ],
       "faq": [
         {
           "q": "Does Small Caps work in PUBG Mobile?",
-          "a": "Math-style Small Caps Unicode usually renders in PUBG Mobile, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Most Small Caps letters paste cleanly into PUBG Mobile, though rare symbol blocks and emoji can fail on older phones. Use the compatibility row to catch problem characters early."
         },
         {
           "q": "What is the PUBG Mobile name length limit?",
-          "a": "Community testing suggests about 15 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Expect roughly 15 visible characters based on player reports. Official docs are vague, so always test the final string in PUBG Mobile."
         },
         {
           "q": "Can I use spaces in PUBG Mobile with this style?",
-          "a": "Spaces are risky for PUBG Mobile nicknames. This generator defaults to compact, no-space-friendly builds."
+          "a": "No-space tags paste more reliably in PUBG Mobile. Build compact and test in the rename preview."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "PUBG Mobile moderation focuses on offensive or misleading nicknames rather than fancy letters. Unicode tags are widespread; policy violations are a separate issue."
         }
       ],
       "related": [
@@ -1545,34 +1545,34 @@
       "h1Html": "Roblox <em>Bold Script</em> names",
       "eyebrow": "Roblox · Bold Script · ~20 chars",
       "sub": "Generate bold script nicknames tuned for Roblox — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Bold Script</strong> letters are a popular pick for Roblox players who want a tag that reads elegant and creator-friendly. Unlike generic font sites, Fonted pre-checks your assembled string against Roblox limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Usernames without spaces copy cleanly between mobile and desktop. Target <strong>20 characters, no spaces</strong> for safer pasting. username and display name contexts reward names that stay legible at small size. Start with a short core word, apply Bold Script to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Roblox:</strong> Account Settings → Username (or Display Name where supported) → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>A memorable Roblox name does not need dozens of symbols — <strong>Bold Script</strong> letters plus one clean accent often outperform a wall of decoration. Fonted's checker tells you early if the string is too long or likely to render as boxes.</p>\n<p>Usernames without spaces copy cleanly between mobile and desktop. Keep it under <strong>20 characters with no spaces</strong> for safer pasting. Roblox may filter or reject display names that look like impersonation or contain blocked symbol combos — keep tags recognizable. Script curves look great in profiles but can crowd narrow rename fields if the base word is long.</p>\n<p><strong>How to apply in Roblox:</strong> Account Settings → Username (or Display Name where supported) → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "roblox",
       "defaultStyle": "Bold Script",
       "defaultFlairTab": "symbols",
       "defaultInput": "roblo",
       "examples": [
-        "꧁robl꧂",
-        "★robl★",
-        "robl",
-        "꧁Bold꧂"
+        "꧁Byte꧂",
+        "★Echo★",
+        "乂Pixel乂",
+        "✦Luna✦"
       ],
       "faq": [
         {
           "q": "Does Bold Script work in Roblox?",
-          "a": "Math-style Bold Script Unicode usually renders in Roblox, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Most Bold Script letters paste cleanly into Roblox, though rare symbol blocks and emoji can fail on older phones. Use the compatibility row to catch problem characters early."
         },
         {
           "q": "What is the Roblox name length limit?",
-          "a": "Community testing suggests about 20 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Players generally report a ~20-character cap. Treat that as a planning guide and verify in the actual rename screen before spending currency."
         },
         {
           "q": "Can I use spaces in Roblox with this style?",
-          "a": "Spaces are risky for Roblox nicknames. This generator defaults to compact, no-space-friendly builds."
+          "a": "For Roblox, skipping spaces is the safer bet — many IGN pastes fail when a space slips in."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Roblox filters may reject names that look like staff, celebrities, or blocked phrases. Decorative letters are fine; bypassing moderation or impersonation is not."
         }
       ],
       "related": [
@@ -1593,34 +1593,34 @@
       "h1Html": "Roblox <em>Bold Serif</em> names",
       "eyebrow": "Roblox · Bold Serif · ~20 chars",
       "sub": "Generate bold serif nicknames tuned for Roblox — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Bold Serif</strong> letters are a popular pick for Roblox players who want a tag that reads strong and readable in fast-moving UI. Unlike generic font sites, Fonted pre-checks your assembled string against Roblox limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Usernames without spaces copy cleanly between mobile and desktop. Target <strong>20 characters, no spaces</strong> for safer pasting. username and display name contexts reward names that stay legible at small size. Start with a short core word, apply Bold Serif to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Roblox:</strong> Account Settings → Username (or Display Name where supported) → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Roblox players often lean on <strong>Bold Serif</strong> when they need a name that still reads strong and readable in fast-moving UI in busy UI. Rather than guessing whether a copied tag will fit, you can assemble it here and let Fonted flag anything that breaks Roblox rules.</p>\n<p>Roblox may filter or reject display names that look like impersonation or contain blocked symbol combos — keep tags recognizable. Bold Serif math letters are among the most widely supported Unicode styles in mobile games. When you style with <strong>Bold Serif</strong>, start from a short word, paste-test in the rename preview, and trim symbols if the tag feels crowded in group rank views.</p>\n<p><strong>How to apply in Roblox:</strong> Account Settings → Username (or Display Name where supported) → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "roblox",
       "defaultStyle": "Bold Serif",
       "defaultFlairTab": "symbols",
       "defaultInput": "roblo",
       "examples": [
-        "꧁robl꧂",
-        "★robl★",
-        "robl",
-        "꧁Bold꧂"
+        "꧁Pixel꧂",
+        "★Luna★",
+        "乂Byte乂",
+        "✦Echo✦"
       ],
       "faq": [
         {
           "q": "Does Bold Serif work in Roblox?",
-          "a": "Math-style Bold Serif Unicode usually renders in Roblox, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Bold Serif is widely used in Roblox tags, but not every decorative block is safe — the checker highlights emoji and symbols that often show as empty boxes."
         },
         {
           "q": "What is the Roblox name length limit?",
-          "a": "Community testing suggests about 20 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Community testing points to about 20 characters. Paste into the in-game rename field to confirm — publishers rarely show a live counter."
         },
         {
           "q": "Can I use spaces in Roblox with this style?",
-          "a": "Spaces are risky for Roblox nicknames. This generator defaults to compact, no-space-friendly builds."
+          "a": "No-space tags paste more reliably in Roblox. Build compact and test in the rename preview."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Roblox filters may reject names that look like staff, celebrities, or blocked phrases. Decorative letters are fine; bypassing moderation or impersonation is not."
         }
       ],
       "related": [
@@ -1641,34 +1641,34 @@
       "h1Html": "Roblox <em>Bubbles</em> names",
       "eyebrow": "Roblox · Bubbles · ~20 chars",
       "sub": "Generate bubbles nicknames tuned for Roblox — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Bubbles</strong> letters are a popular pick for Roblox players who want a tag that reads playful but may box out in some games — checker flags it. Unlike generic font sites, Fonted pre-checks your assembled string against Roblox limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Usernames without spaces copy cleanly between mobile and desktop. Target <strong>20 characters, no spaces</strong> for safer pasting. username and display name contexts reward names that stay legible at small size. Start with a short core word, apply Bubbles to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Roblox:</strong> Account Settings → Username (or Display Name where supported) → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p><strong>Bubbles</strong> nicknames show up constantly in username and display name contexts. Build yours letter-by-letter or apply the style to a short core word, then confirm it still feels playful but may box out in some games — checker flags it before you commit in Roblox.</p>\n<p><strong>How to apply in Roblox:</strong> Account Settings → Username (or Display Name where supported) → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "roblox",
       "defaultStyle": "Bubbles",
       "defaultFlairTab": "symbols",
       "defaultInput": "roblo",
       "examples": [
-        "꧁robl꧂",
-        "★robl★",
-        "robl",
-        "꧁Bubbles꧂"
+        "꧁Pixel꧂",
+        "★Luna★",
+        "乂Byte乂",
+        "✦Echo✦"
       ],
       "faq": [
         {
           "q": "Does Bubbles work in Roblox?",
-          "a": "Math-style Bubbles Unicode usually renders in Roblox, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Bubbles is widely used in Roblox tags, but not every decorative block is safe — the checker highlights emoji and symbols that often show as empty boxes."
         },
         {
           "q": "What is the Roblox name length limit?",
-          "a": "Community testing suggests about 20 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Expect roughly 20 visible characters based on player reports. Official docs are vague, so always test the final string in Roblox."
         },
         {
           "q": "Can I use spaces in Roblox with this style?",
-          "a": "Spaces are risky for Roblox nicknames. This generator defaults to compact, no-space-friendly builds."
+          "a": "Spaces often cause paste issues in Roblox nicknames. This page defaults to compact, no-space-friendly builds."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Roblox filters may reject names that look like staff, celebrities, or blocked phrases. Decorative letters are fine; bypassing moderation or impersonation is not."
         }
       ],
       "related": [
@@ -1689,34 +1689,34 @@
       "h1Html": "Roblox <em>Double Struck</em> names",
       "eyebrow": "Roblox · Double Struck · ~20 chars",
       "sub": "Generate double struck nicknames tuned for Roblox — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Double Struck</strong> letters are a popular pick for Roblox players who want a tag that reads clean blackboard-bold tech look. Unlike generic font sites, Fonted pre-checks your assembled string against Roblox limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Usernames without spaces copy cleanly between mobile and desktop. Target <strong>20 characters, no spaces</strong> for safer pasting. username and display name contexts reward names that stay legible at small size. Start with a short core word, apply Double Struck to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Roblox:</strong> Account Settings → Username (or Display Name where supported) → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>A memorable Roblox name does not need dozens of symbols — <strong>Double Struck</strong> letters plus one clean accent often outperform a wall of decoration. Fonted's checker tells you early if the string is too long or likely to render as boxes.</p>\n<p>Treat <strong>20 characters, no spaces</strong> as your working limit. Usernames without spaces copy cleanly between mobile and desktop. Double-struck letters can read as extra-wide on some Android clients, eating into tight character budgets faster. Meanwhile, roblox may filter or reject display names that look like impersonation or contain blocked symbol combos — keep tags recognizable.</p>\n<p><strong>How to apply in Roblox:</strong> Account Settings → Username (or Display Name where supported) → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "roblox",
       "defaultStyle": "Double Struck",
       "defaultFlairTab": "symbols",
       "defaultInput": "roblo",
       "examples": [
-        "꧁robl꧂",
-        "★robl★",
-        "robl",
-        "꧁Double꧂"
+        "꧁Echo꧂",
+        "★Pixel★",
+        "乂Luna乂",
+        "✦Byte✦"
       ],
       "faq": [
         {
           "q": "Does Double Struck work in Roblox?",
-          "a": "Math-style Double Struck Unicode usually renders in Roblox, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Double Struck is widely used in Roblox tags, but not every decorative block is safe — the checker highlights emoji and symbols that often show as empty boxes."
         },
         {
           "q": "What is the Roblox name length limit?",
-          "a": "Community testing suggests about 20 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Community testing points to about 20 characters. Paste into the in-game rename field to confirm — publishers rarely show a live counter."
         },
         {
           "q": "Can I use spaces in Roblox with this style?",
-          "a": "Spaces are risky for Roblox nicknames. This generator defaults to compact, no-space-friendly builds."
+          "a": "Spaces often cause paste issues in Roblox nicknames. This page defaults to compact, no-space-friendly builds."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Roblox filters may reject names that look like staff, celebrities, or blocked phrases. Decorative letters are fine; bypassing moderation or impersonation is not."
         }
       ],
       "related": [
@@ -1737,34 +1737,34 @@
       "h1Html": "Roblox <em>Fraktur</em> names",
       "eyebrow": "Roblox · Fraktur · ~20 chars",
       "sub": "Generate fraktur nicknames tuned for Roblox — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Fraktur</strong> letters are a popular pick for Roblox players who want a tag that reads dark, medieval, and high-contrast. Unlike generic font sites, Fonted pre-checks your assembled string against Roblox limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Usernames without spaces copy cleanly between mobile and desktop. Target <strong>20 characters, no spaces</strong> for safer pasting. username and display name contexts reward names that stay legible at small size. Start with a short core word, apply Fraktur to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Roblox:</strong> Account Settings → Username (or Display Name where supported) → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Looking for a fraktur look in Roblox? This page defaults to that style and checks your finished tag against the quirks that trip people up — character caps, risky symbols, and paste failures on mobile.</p>\n<p>Roblox may filter or reject display names that look like impersonation or contain blocked symbol combos — keep tags recognizable. Fraktur strokes are striking, yet some moderation filters treat gothic Unicode as suspicious on a fresh account. When you style with <strong>Fraktur</strong>, start from a short word, paste-test in the rename preview, and trim symbols if the tag feels crowded in group rank views.</p>\n<p><strong>How to apply in Roblox:</strong> Account Settings → Username (or Display Name where supported) → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "roblox",
       "defaultStyle": "Fraktur",
       "defaultFlairTab": "symbols",
       "defaultInput": "roblo",
       "examples": [
-        "꧁robl꧂",
-        "★robl★",
-        "robl",
-        "꧁Fraktur꧂"
+        "꧁Pixel꧂",
+        "★Luna★",
+        "乂Byte乂",
+        "✦Echo✦"
       ],
       "faq": [
         {
           "q": "Does Fraktur work in Roblox?",
-          "a": "Math-style Fraktur Unicode usually renders in Roblox, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Math-style Fraktur Unicode usually renders in Roblox, but enclosed bubbles, zalgo stacks, and some emoji may box out. Fonted marks those before you paste."
         },
         {
           "q": "What is the Roblox name length limit?",
-          "a": "Community testing suggests about 20 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Players generally report a ~20-character cap. Treat that as a planning guide and verify in the actual rename screen before spending currency."
         },
         {
           "q": "Can I use spaces in Roblox with this style?",
-          "a": "Spaces are risky for Roblox nicknames. This generator defaults to compact, no-space-friendly builds."
+          "a": "No-space tags paste more reliably in Roblox. Build compact and test in the rename preview."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Roblox filters may reject names that look like staff, celebrities, or blocked phrases. Decorative letters are fine; bypassing moderation or impersonation is not."
         }
       ],
       "related": [
@@ -1785,34 +1785,34 @@
       "h1Html": "Roblox <em>Monospace</em> names",
       "eyebrow": "Roblox · Monospace · ~20 chars",
       "sub": "Generate monospace nicknames tuned for Roblox — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Monospace</strong> letters are a popular pick for Roblox players who want a tag that reads coder / terminal aesthetic. Unlike generic font sites, Fonted pre-checks your assembled string against Roblox limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Usernames without spaces copy cleanly between mobile and desktop. Target <strong>20 characters, no spaces</strong> for safer pasting. username and display name contexts reward names that stay legible at small size. Start with a short core word, apply Monospace to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Roblox:</strong> Account Settings → Username (or Display Name where supported) → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>A memorable Roblox name does not need dozens of symbols — <strong>Monospace</strong> letters plus one clean accent often outperform a wall of decoration. Fonted's checker tells you early if the string is too long or likely to render as boxes.</p>\n<p>Roblox may filter or reject display names that look like impersonation or contain blocked symbol combos — keep tags recognizable. Monospace Unicode can look like spaced letters on certain clients, so count characters after pasting. When you style with <strong>Monospace</strong>, start from a short word, paste-test in the rename preview, and trim symbols if the tag feels crowded in group rank views.</p>\n<p><strong>How to apply in Roblox:</strong> Account Settings → Username (or Display Name where supported) → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "roblox",
       "defaultStyle": "Monospace",
       "defaultFlairTab": "symbols",
       "defaultInput": "roblo",
       "examples": [
-        "꧁robl꧂",
-        "★robl★",
-        "robl",
-        "꧁Monospace꧂"
+        "꧁Pixel꧂",
+        "★Luna★",
+        "乂Byte乂",
+        "✦Echo✦"
       ],
       "faq": [
         {
           "q": "Does Monospace work in Roblox?",
-          "a": "Math-style Monospace Unicode usually renders in Roblox, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Monospace is widely used in Roblox tags, but not every decorative block is safe — the checker highlights emoji and symbols that often show as empty boxes."
         },
         {
           "q": "What is the Roblox name length limit?",
-          "a": "Community testing suggests about 20 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Players generally report a ~20-character cap. Treat that as a planning guide and verify in the actual rename screen before spending currency."
         },
         {
           "q": "Can I use spaces in Roblox with this style?",
-          "a": "Spaces are risky for Roblox nicknames. This generator defaults to compact, no-space-friendly builds."
+          "a": "No-space tags paste more reliably in Roblox. Build compact and test in the rename preview."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Roblox filters may reject names that look like staff, celebrities, or blocked phrases. Decorative letters are fine; bypassing moderation or impersonation is not."
         }
       ],
       "related": [
@@ -1833,34 +1833,34 @@
       "h1Html": "Roblox <em>Sans Bold</em> names",
       "eyebrow": "Roblox · Sans Bold · ~20 chars",
       "sub": "Generate sans bold nicknames tuned for Roblox — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Sans Bold</strong> letters are a popular pick for Roblox players who want a tag that reads modern and legible at small sizes. Unlike generic font sites, Fonted pre-checks your assembled string against Roblox limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Usernames without spaces copy cleanly between mobile and desktop. Target <strong>20 characters, no spaces</strong> for safer pasting. username and display name contexts reward names that stay legible at small size. Start with a short core word, apply Sans Bold to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Roblox:</strong> Account Settings → Username (or Display Name where supported) → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p><strong>Sans Bold</strong> nicknames show up constantly in username and display name contexts. Build yours letter-by-letter or apply the style to a short core word, then confirm it still feels modern and legible at small sizes before you commit in Roblox.</p>\n<p>Usernames without spaces copy cleanly between mobile and desktop. Keep it under <strong>20 characters with no spaces</strong> for safer pasting. Roblox may filter or reject display names that look like impersonation or contain blocked symbol combos — keep tags recognizable. Sans Bold stays crisp in scoreboard rows where serif flourishes would disappear.</p>\n<p><strong>How to apply in Roblox:</strong> Account Settings → Username (or Display Name where supported) → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "roblox",
       "defaultStyle": "Sans Bold",
       "defaultFlairTab": "symbols",
       "defaultInput": "roblo",
       "examples": [
-        "꧁robl꧂",
-        "★robl★",
-        "robl",
-        "꧁Sans꧂"
+        "꧁Byte꧂",
+        "★Echo★",
+        "乂Pixel乂",
+        "✦Luna✦"
       ],
       "faq": [
         {
           "q": "Does Sans Bold work in Roblox?",
-          "a": "Math-style Sans Bold Unicode usually renders in Roblox, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Math-style Sans Bold Unicode usually renders in Roblox, but enclosed bubbles, zalgo stacks, and some emoji may box out. Fonted marks those before you paste."
         },
         {
           "q": "What is the Roblox name length limit?",
-          "a": "Community testing suggests about 20 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Players generally report a ~20-character cap. Treat that as a planning guide and verify in the actual rename screen before spending currency."
         },
         {
           "q": "Can I use spaces in Roblox with this style?",
-          "a": "Spaces are risky for Roblox nicknames. This generator defaults to compact, no-space-friendly builds."
+          "a": "No-space tags paste more reliably in Roblox. Build compact and test in the rename preview."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Roblox filters may reject names that look like staff, celebrities, or blocked phrases. Decorative letters are fine; bypassing moderation or impersonation is not."
         }
       ],
       "related": [
@@ -1881,34 +1881,34 @@
       "h1Html": "Roblox <em>Small Caps</em> names",
       "eyebrow": "Roblox · Small Caps · ~20 chars",
       "sub": "Generate small caps nicknames tuned for Roblox — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Small Caps</strong> letters are a popular pick for Roblox players who want a tag that reads minimal and understated. Unlike generic font sites, Fonted pre-checks your assembled string against Roblox limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Usernames without spaces copy cleanly between mobile and desktop. Target <strong>20 characters, no spaces</strong> for safer pasting. username and display name contexts reward names that stay legible at small size. Start with a short core word, apply Small Caps to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Roblox:</strong> Account Settings → Username (or Display Name where supported) → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>If you want a Roblox tag that feels minimal and understated, <strong>Small Caps</strong> is a solid starting point. Fonted lets you preview the full string against Roblox limits before you burn a rename — length, emoji risk, and symbols that box out on phone screens.</p>\n<p><strong>How to apply in Roblox:</strong> Account Settings → Username (or Display Name where supported) → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "roblox",
       "defaultStyle": "Small Caps",
       "defaultFlairTab": "symbols",
       "defaultInput": "roblo",
       "examples": [
-        "꧁robl꧂",
-        "★robl★",
-        "robl",
-        "꧁Small꧂"
+        "꧁Pixel꧂",
+        "★Luna★",
+        "乂Byte乂",
+        "✦Echo✦"
       ],
       "faq": [
         {
           "q": "Does Small Caps work in Roblox?",
-          "a": "Math-style Small Caps Unicode usually renders in Roblox, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Most Small Caps letters paste cleanly into Roblox, though rare symbol blocks and emoji can fail on older phones. Use the compatibility row to catch problem characters early."
         },
         {
           "q": "What is the Roblox name length limit?",
-          "a": "Community testing suggests about 20 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Community testing points to about 20 characters. Paste into the in-game rename field to confirm — publishers rarely show a live counter."
         },
         {
           "q": "Can I use spaces in Roblox with this style?",
-          "a": "Spaces are risky for Roblox nicknames. This generator defaults to compact, no-space-friendly builds."
+          "a": "Spaces often cause paste issues in Roblox nicknames. This page defaults to compact, no-space-friendly builds."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Roblox filters may reject names that look like staff, celebrities, or blocked phrases. Decorative letters are fine; bypassing moderation or impersonation is not."
         }
       ],
       "related": [
@@ -1929,34 +1929,34 @@
       "h1Html": "Valorant <em>Bold Script</em> names",
       "eyebrow": "Valorant · Bold Script · ~16 chars",
       "sub": "Generate bold script nicknames tuned for Valorant — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Bold Script</strong> letters are a popular pick for Valorant players who want a tag that reads elegant and creator-friendly. Unlike generic font sites, Fonted pre-checks your assembled string against Valorant limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Riot ID display names can include spaces within the game-name portion. Plan for roughly <strong>16 characters</strong> total. Riot ID and game name contexts reward names that stay legible at small size. Start with a short core word, apply Bold Script to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Valorant:</strong> Riot Client → Profile → Riot ID → edit game name → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Looking for a bold script look in Valorant? This page defaults to that style and checks your finished tag against the quirks that trip people up — character caps, risky symbols, and paste failures on mobile.</p>\n<p>Most players budget around <strong>16 characters</strong> with spaces allowed. Riot ID display names can include spaces within the game-name portion. Script curves look great in profiles but can crowd narrow rename fields if the base word is long. Meanwhile, your Riot ID splits a plain hashtag from the stylized game-name portion — only the game name accepts fancy Unicode.</p>\n<p><strong>How to apply in Valorant:</strong> Riot Client → Profile → Riot ID → edit game name → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "valorant",
       "defaultStyle": "Bold Script",
       "defaultFlairTab": "symbols",
       "defaultInput": "valor",
       "examples": [
-        "꧁valo꧂",
-        "★valo★",
-        "valo",
-        "꧁Bold꧂"
+        "꧁Onyx꧂",
+        "★Sage★",
+        "乂Hex乂",
+        "✦Rift✦"
       ],
       "faq": [
         {
           "q": "Does Bold Script work in Valorant?",
-          "a": "Math-style Bold Script Unicode usually renders in Valorant, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Most Bold Script letters paste cleanly into Valorant, though rare symbol blocks and emoji can fail on older phones. Use the compatibility row to catch problem characters early."
         },
         {
           "q": "What is the Valorant name length limit?",
-          "a": "Community testing suggests about 16 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Community testing points to about 16 characters. Paste into the in-game rename field to confirm — publishers rarely show a live counter."
         },
         {
           "q": "Can I use spaces in Valorant with this style?",
-          "a": "Spaces are generally accepted, but long styled strings can still truncate. Shorter names with Bold Script letters tend to survive renames."
+          "a": "You can usually include spaces, but count every character — Bold Script styling does not shrink the 16-char budget."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Riot penalizes hate speech and impersonation, not standard Unicode styling. Fraktur and script names are common; don't mimic pro player Riot IDs."
         }
       ],
       "related": [
@@ -1977,34 +1977,34 @@
       "h1Html": "Valorant <em>Bold Serif</em> names",
       "eyebrow": "Valorant · Bold Serif · ~16 chars",
       "sub": "Generate bold serif nicknames tuned for Valorant — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Bold Serif</strong> letters are a popular pick for Valorant players who want a tag that reads strong and readable in fast-moving UI. Unlike generic font sites, Fonted pre-checks your assembled string against Valorant limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Riot ID display names can include spaces within the game-name portion. Plan for roughly <strong>16 characters</strong> total. Riot ID and game name contexts reward names that stay legible at small size. Start with a short core word, apply Bold Serif to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Valorant:</strong> Riot Client → Profile → Riot ID → edit game name → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>A memorable Valorant name does not need dozens of symbols — <strong>Bold Serif</strong> letters plus one clean accent often outperform a wall of decoration. Fonted's checker tells you early if the string is too long or likely to render as boxes.</p>\n<p><strong>How to apply in Valorant:</strong> Riot Client → Profile → Riot ID → edit game name → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "valorant",
       "defaultStyle": "Bold Serif",
       "defaultFlairTab": "symbols",
       "defaultInput": "valor",
       "examples": [
-        "꧁valo꧂",
-        "★valo★",
-        "valo",
-        "꧁Bold꧂"
+        "꧁Onyx꧂",
+        "★Sage★",
+        "乂Hex乂",
+        "✦Rift✦"
       ],
       "faq": [
         {
           "q": "Does Bold Serif work in Valorant?",
-          "a": "Math-style Bold Serif Unicode usually renders in Valorant, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Math-style Bold Serif Unicode usually renders in Valorant, but enclosed bubbles, zalgo stacks, and some emoji may box out. Fonted marks those before you paste."
         },
         {
           "q": "What is the Valorant name length limit?",
-          "a": "Community testing suggests about 16 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Players generally report a ~16-character cap. Treat that as a planning guide and verify in the actual rename screen before spending currency."
         },
         {
           "q": "Can I use spaces in Valorant with this style?",
-          "a": "Spaces are generally accepted, but long styled strings can still truncate. Shorter names with Bold Serif letters tend to survive renames."
+          "a": "Spaces are usually accepted in Valorant, but long Bold Serif strings can still truncate. Shorter cores survive renames more reliably."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Riot penalizes hate speech and impersonation, not standard Unicode styling. Fraktur and script names are common; don't mimic pro player Riot IDs."
         }
       ],
       "related": [
@@ -2025,34 +2025,34 @@
       "h1Html": "Valorant <em>Bubbles</em> names",
       "eyebrow": "Valorant · Bubbles · ~16 chars",
       "sub": "Generate bubbles nicknames tuned for Valorant — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Bubbles</strong> letters are a popular pick for Valorant players who want a tag that reads playful but may box out in some games — checker flags it. Unlike generic font sites, Fonted pre-checks your assembled string against Valorant limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Riot ID display names can include spaces within the game-name portion. Plan for roughly <strong>16 characters</strong> total. Riot ID and game name contexts reward names that stay legible at small size. Start with a short core word, apply Bubbles to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Valorant:</strong> Riot Client → Profile → Riot ID → edit game name → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>A memorable Valorant name does not need dozens of symbols — <strong>Bubbles</strong> letters plus one clean accent often outperform a wall of decoration. Fonted's checker tells you early if the string is too long or likely to render as boxes.</p>\n<p>Community testers usually plan for <strong>16</strong> characters (spaces count). Riot ID display names can include spaces within the game-name portion. Your Riot ID splits a plain hashtag from the stylized game-name portion — only the game name accepts fancy Unicode. For Bubbles specifically: bubble enclosed letters often render as empty boxes on older game fonts — Fonted flags them before you paste.</p>\n<p><strong>How to apply in Valorant:</strong> Riot Client → Profile → Riot ID → edit game name → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "valorant",
       "defaultStyle": "Bubbles",
       "defaultFlairTab": "symbols",
       "defaultInput": "valor",
       "examples": [
-        "꧁valo꧂",
-        "★valo★",
-        "valo",
-        "꧁Bubbles꧂"
+        "꧁Hex꧂",
+        "★Rift★",
+        "乂Onyx乂",
+        "✦Sage✦"
       ],
       "faq": [
         {
           "q": "Does Bubbles work in Valorant?",
-          "a": "Math-style Bubbles Unicode usually renders in Valorant, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Math-style Bubbles Unicode usually renders in Valorant, but enclosed bubbles, zalgo stacks, and some emoji may box out. Fonted marks those before you paste."
         },
         {
           "q": "What is the Valorant name length limit?",
-          "a": "Community testing suggests about 16 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Players generally report a ~16-character cap. Treat that as a planning guide and verify in the actual rename screen before spending currency."
         },
         {
           "q": "Can I use spaces in Valorant with this style?",
-          "a": "Spaces are generally accepted, but long styled strings can still truncate. Shorter names with Bubbles letters tend to survive renames."
+          "a": "You can usually include spaces, but count every character — Bubbles styling does not shrink the 16-char budget."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Riot penalizes hate speech and impersonation, not standard Unicode styling. Fraktur and script names are common; don't mimic pro player Riot IDs."
         }
       ],
       "related": [
@@ -2073,34 +2073,34 @@
       "h1Html": "Valorant <em>Double Struck</em> names",
       "eyebrow": "Valorant · Double Struck · ~16 chars",
       "sub": "Generate double struck nicknames tuned for Valorant — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Double Struck</strong> letters are a popular pick for Valorant players who want a tag that reads clean blackboard-bold tech look. Unlike generic font sites, Fonted pre-checks your assembled string against Valorant limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Riot ID display names can include spaces within the game-name portion. Plan for roughly <strong>16 characters</strong> total. Riot ID and game name contexts reward names that stay legible at small size. Start with a short core word, apply Double Struck to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Valorant:</strong> Riot Client → Profile → Riot ID → edit game name → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Valorant players often lean on <strong>Double Struck</strong> when they need a name that still reads clean blackboard-bold tech look in busy UI. Rather than guessing whether a copied tag will fit, you can assemble it here and let Fonted flag anything that breaks Valorant rules.</p>\n<p>Riot ID display names can include spaces within the game-name portion. Aim for roughly <strong>16 characters</strong> including spaces. Your Riot ID splits a plain hashtag from the stylized game-name portion — only the game name accepts fancy Unicode. Double-struck letters can read as extra-wide on some Android clients, eating into tight character budgets faster.</p>\n<p><strong>How to apply in Valorant:</strong> Riot Client → Profile → Riot ID → edit game name → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "valorant",
       "defaultStyle": "Double Struck",
       "defaultFlairTab": "symbols",
       "defaultInput": "valor",
       "examples": [
-        "꧁valo꧂",
-        "★valo★",
-        "valo",
-        "꧁Double꧂"
+        "꧁Rift꧂",
+        "★Onyx★",
+        "乂Sage乂",
+        "✦Hex✦"
       ],
       "faq": [
         {
           "q": "Does Double Struck work in Valorant?",
-          "a": "Math-style Double Struck Unicode usually renders in Valorant, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Double Struck is widely used in Valorant tags, but not every decorative block is safe — the checker highlights emoji and symbols that often show as empty boxes."
         },
         {
           "q": "What is the Valorant name length limit?",
-          "a": "Community testing suggests about 16 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Players generally report a ~16-character cap. Treat that as a planning guide and verify in the actual rename screen before spending currency."
         },
         {
           "q": "Can I use spaces in Valorant with this style?",
-          "a": "Spaces are generally accepted, but long styled strings can still truncate. Shorter names with Double Struck letters tend to survive renames."
+          "a": "You can usually include spaces, but count every character — Double Struck styling does not shrink the 16-char budget."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Riot penalizes hate speech and impersonation, not standard Unicode styling. Fraktur and script names are common; don't mimic pro player Riot IDs."
         }
       ],
       "related": [
@@ -2121,34 +2121,34 @@
       "h1Html": "Valorant <em>Fraktur</em> names",
       "eyebrow": "Valorant · Fraktur · ~16 chars",
       "sub": "Generate fraktur nicknames tuned for Valorant — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Fraktur</strong> letters are a popular pick for Valorant players who want a tag that reads dark, medieval, and high-contrast. Unlike generic font sites, Fonted pre-checks your assembled string against Valorant limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Riot ID display names can include spaces within the game-name portion. Plan for roughly <strong>16 characters</strong> total. Riot ID and game name contexts reward names that stay legible at small size. Start with a short core word, apply Fraktur to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Valorant:</strong> Riot Client → Profile → Riot ID → edit game name → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>A memorable Valorant name does not need dozens of symbols — <strong>Fraktur</strong> letters plus one clean accent often outperform a wall of decoration. Fonted's checker tells you early if the string is too long or likely to render as boxes.</p>\n<p>Community testers usually plan for <strong>16</strong> characters (spaces count). Riot ID display names can include spaces within the game-name portion. Your Riot ID splits a plain hashtag from the stylized game-name portion — only the game name accepts fancy Unicode. For Fraktur specifically: fraktur strokes are striking, yet some moderation filters treat gothic Unicode as suspicious on a fresh account.</p>\n<p><strong>How to apply in Valorant:</strong> Riot Client → Profile → Riot ID → edit game name → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "valorant",
       "defaultStyle": "Fraktur",
       "defaultFlairTab": "symbols",
       "defaultInput": "valor",
       "examples": [
-        "꧁valo꧂",
-        "★valo★",
-        "valo",
-        "꧁Fraktur꧂"
+        "꧁Hex꧂",
+        "★Rift★",
+        "乂Onyx乂",
+        "✦Sage✦"
       ],
       "faq": [
         {
           "q": "Does Fraktur work in Valorant?",
-          "a": "Math-style Fraktur Unicode usually renders in Valorant, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Most Fraktur letters paste cleanly into Valorant, though rare symbol blocks and emoji can fail on older phones. Use the compatibility row to catch problem characters early."
         },
         {
           "q": "What is the Valorant name length limit?",
-          "a": "Community testing suggests about 16 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Community testing points to about 16 characters. Paste into the in-game rename field to confirm — publishers rarely show a live counter."
         },
         {
           "q": "Can I use spaces in Valorant with this style?",
-          "a": "Spaces are generally accepted, but long styled strings can still truncate. Shorter names with Fraktur letters tend to survive renames."
+          "a": "Valorant generally allows spaces, yet styled text can push you past the practical limit faster than plain letters."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Riot penalizes hate speech and impersonation, not standard Unicode styling. Fraktur and script names are common; don't mimic pro player Riot IDs."
         }
       ],
       "related": [
@@ -2169,34 +2169,34 @@
       "h1Html": "Valorant <em>Monospace</em> names",
       "eyebrow": "Valorant · Monospace · ~16 chars",
       "sub": "Generate monospace nicknames tuned for Valorant — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Monospace</strong> letters are a popular pick for Valorant players who want a tag that reads coder / terminal aesthetic. Unlike generic font sites, Fonted pre-checks your assembled string against Valorant limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Riot ID display names can include spaces within the game-name portion. Plan for roughly <strong>16 characters</strong> total. Riot ID and game name contexts reward names that stay legible at small size. Start with a short core word, apply Monospace to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Valorant:</strong> Riot Client → Profile → Riot ID → edit game name → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Looking for a monospace look in Valorant? This page defaults to that style and checks your finished tag against the quirks that trip people up — character caps, risky symbols, and paste failures on mobile.</p>\n<p><strong>How to apply in Valorant:</strong> Riot Client → Profile → Riot ID → edit game name → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "valorant",
       "defaultStyle": "Monospace",
       "defaultFlairTab": "symbols",
       "defaultInput": "valor",
       "examples": [
-        "꧁valo꧂",
-        "★valo★",
-        "valo",
-        "꧁Monospace꧂"
+        "꧁Hex꧂",
+        "★Rift★",
+        "乂Onyx乂",
+        "✦Sage✦"
       ],
       "faq": [
         {
           "q": "Does Monospace work in Valorant?",
-          "a": "Math-style Monospace Unicode usually renders in Valorant, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Most Monospace letters paste cleanly into Valorant, though rare symbol blocks and emoji can fail on older phones. Use the compatibility row to catch problem characters early."
         },
         {
           "q": "What is the Valorant name length limit?",
-          "a": "Community testing suggests about 16 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Community testing points to about 16 characters. Paste into the in-game rename field to confirm — publishers rarely show a live counter."
         },
         {
           "q": "Can I use spaces in Valorant with this style?",
-          "a": "Spaces are generally accepted, but long styled strings can still truncate. Shorter names with Monospace letters tend to survive renames."
+          "a": "Spaces are usually accepted in Valorant, but long Monospace strings can still truncate. Shorter cores survive renames more reliably."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Riot penalizes hate speech and impersonation, not standard Unicode styling. Fraktur and script names are common; don't mimic pro player Riot IDs."
         }
       ],
       "related": [
@@ -2217,34 +2217,34 @@
       "h1Html": "Valorant <em>Sans Bold</em> names",
       "eyebrow": "Valorant · Sans Bold · ~16 chars",
       "sub": "Generate sans bold nicknames tuned for Valorant — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Sans Bold</strong> letters are a popular pick for Valorant players who want a tag that reads modern and legible at small sizes. Unlike generic font sites, Fonted pre-checks your assembled string against Valorant limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Riot ID display names can include spaces within the game-name portion. Plan for roughly <strong>16 characters</strong> total. Riot ID and game name contexts reward names that stay legible at small size. Start with a short core word, apply Sans Bold to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Valorant:</strong> Riot Client → Profile → Riot ID → edit game name → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Valorant players often lean on <strong>Sans Bold</strong> when they need a name that still reads modern and legible at small sizes in busy UI. Rather than guessing whether a copied tag will fit, you can assemble it here and let Fonted flag anything that breaks Valorant rules.</p>\n<p>Most players budget around <strong>16 characters</strong> with spaces allowed. Riot ID display names can include spaces within the game-name portion. Sans Bold stays crisp in scoreboard rows where serif flourishes would disappear. Meanwhile, your Riot ID splits a plain hashtag from the stylized game-name portion — only the game name accepts fancy Unicode.</p>\n<p><strong>How to apply in Valorant:</strong> Riot Client → Profile → Riot ID → edit game name → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "valorant",
       "defaultStyle": "Sans Bold",
       "defaultFlairTab": "symbols",
       "defaultInput": "valor",
       "examples": [
-        "꧁valo꧂",
-        "★valo★",
-        "valo",
-        "꧁Sans꧂"
+        "꧁Onyx꧂",
+        "★Sage★",
+        "乂Hex乂",
+        "✦Rift✦"
       ],
       "faq": [
         {
           "q": "Does Sans Bold work in Valorant?",
-          "a": "Math-style Sans Bold Unicode usually renders in Valorant, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Sans Bold is widely used in Valorant tags, but not every decorative block is safe — the checker highlights emoji and symbols that often show as empty boxes."
         },
         {
           "q": "What is the Valorant name length limit?",
-          "a": "Community testing suggests about 16 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Expect roughly 16 visible characters based on player reports. Official docs are vague, so always test the final string in Valorant."
         },
         {
           "q": "Can I use spaces in Valorant with this style?",
-          "a": "Spaces are generally accepted, but long styled strings can still truncate. Shorter names with Sans Bold letters tend to survive renames."
+          "a": "Valorant generally allows spaces, yet styled text can push you past the practical limit faster than plain letters."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Riot penalizes hate speech and impersonation, not standard Unicode styling. Fraktur and script names are common; don't mimic pro player Riot IDs."
         }
       ],
       "related": [
@@ -2265,34 +2265,34 @@
       "h1Html": "Valorant <em>Small Caps</em> names",
       "eyebrow": "Valorant · Small Caps · ~16 chars",
       "sub": "Generate small caps nicknames tuned for Valorant — with compatibility checks before you rename.",
-      "intro": "<!-- GENERATED -->\n<p><strong>Small Caps</strong> letters are a popular pick for Valorant players who want a tag that reads minimal and understated. Unlike generic font sites, Fonted pre-checks your assembled string against Valorant limits before you spend a rename — length, emoji risk, and symbols that box out on mobile.</p>\n<p>Riot ID display names can include spaces within the game-name portion. Plan for roughly <strong>16 characters</strong> total. Riot ID and game name contexts reward names that stay legible at small size. Start with a short core word, apply Small Caps to the whole string or mix per-letter in the builder, then add at most one framing symbol if you need extra flair.</p>\n<p><strong>How to apply in Valorant:</strong> Riot Client → Profile → Riot ID → edit game name → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
+      "intro": "<!-- GENERATED -->\n<p>Valorant players often lean on <strong>Small Caps</strong> when they need a name that still reads minimal and understated in busy UI. Rather than guessing whether a copied tag will fit, you can assemble it here and let Fonted flag anything that breaks Valorant rules.</p>\n<p>Most players budget around <strong>16 characters</strong> with spaces allowed. Riot ID display names can include spaces within the game-name portion. Small caps keep a low visual footprint, which helps when you are already near the character cap. Meanwhile, your Riot ID splits a plain hashtag from the stylized game-name portion — only the game name accepts fancy Unicode.</p>\n<p><strong>How to apply in Valorant:</strong> Riot Client → Profile → Riot ID → edit game name → paste → save. Always verify in-game — limits are community-tested and can change with patches.</p>",
       "defaultMode": "builder",
       "defaultPlatform": "valorant",
       "defaultStyle": "Small Caps",
       "defaultFlairTab": "symbols",
       "defaultInput": "valor",
       "examples": [
-        "꧁valo꧂",
-        "★valo★",
-        "valo",
-        "꧁Small꧂"
+        "꧁Onyx꧂",
+        "★Sage★",
+        "乂Hex乂",
+        "✦Rift✦"
       ],
       "faq": [
         {
           "q": "Does Small Caps work in Valorant?",
-          "a": "Math-style Small Caps Unicode usually renders in Valorant, but bubbles, zalgo, and some emoji may box out. Fonted flags risky characters before you paste."
+          "a": "Math-style Small Caps Unicode usually renders in Valorant, but enclosed bubbles, zalgo stacks, and some emoji may box out. Fonted marks those before you paste."
         },
         {
           "q": "What is the Valorant name length limit?",
-          "a": "Community testing suggests about 16 characters. Paste into the in-game field to confirm — official docs rarely publish a live counter."
+          "a": "Expect roughly 16 visible characters based on player reports. Official docs are vague, so always test the final string in Valorant."
         },
         {
           "q": "Can I use spaces in Valorant with this style?",
-          "a": "Spaces are generally accepted, but long styled strings can still truncate. Shorter names with Small Caps letters tend to survive renames."
+          "a": "Valorant generally allows spaces, yet styled text can push you past the practical limit faster than plain letters."
         },
         {
           "q": "Is styled text bannable?",
-          "a": "Decorative Unicode is widely used and rarely banned on its own. Offensive content or impersonation is a separate issue — keep names within platform terms."
+          "a": "Riot penalizes hate speech and impersonation, not standard Unicode styling. Fraktur and script names are common; don't mimic pro player Riot IDs."
         }
       ],
       "related": [
