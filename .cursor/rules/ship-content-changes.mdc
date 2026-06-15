@@ -1,0 +1,16 @@
+---
+description: After page generator or content changes, commit and push to deploy
+alwaysApply: true
+---
+
+# Ship content changes to production
+
+Cloudflare deploys from **git** (`npm install && node build.js` on push), not local `glyph/dist/`.
+
+When you change page content, `glyph/scripts/generate-pages.js`, or `glyph/pages/**/*.json`:
+
+1. Regenerate if needed: `cd glyph && npm run generate:force` (or `npm run ship` for full pipeline)
+2. Validate + build: `node build.js --validate && node build.js`
+3. **Commit and push without waiting for the user to ask** — include `pages/generated/*.json` and any script/template changes.
+
+See `glyph/AGENTS.md` for the full workflow.
