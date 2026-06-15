@@ -252,7 +252,7 @@ function generatePage(game, style) {
     defaultPlatform: game.platform,
     defaultStyle: style.defaultStyle,
     defaultFlairTab: "symbols",
-    defaultInput: game.key === "free-fire" ? "ff" : game.key.split("-")[0].slice(0, 5),
+    defaultInput: GAME_EXAMPLE_BASES[game.key][0],
     examples: buildExamples(game, style),
     faq: buildFaq(game, style),
     related: [],
@@ -310,6 +310,7 @@ function main() {
   fs.writeFileSync(OUT, JSON.stringify({ pages }, null, 2) + "\n");
   console.log(`Wrote ${OUT}`);
   console.log("Next: node build.js --validate && node build.js");
+  console.log("Then commit + push to deploy (Cloudflare builds from git, not local dist/).");
 }
 
 main();

@@ -6,6 +6,8 @@
     "build": "node build.js",
     "validate": "node build.js --validate",
     "generate": "node scripts/generate-pages.js",
+    "generate:force": "node scripts/generate-pages.js --force",
+    "ship": "node scripts/generate-pages.js --force && node build.js --validate && node build.js",
     "deploy": "node build.js && wrangler deploy"
   },
   "engines": {
